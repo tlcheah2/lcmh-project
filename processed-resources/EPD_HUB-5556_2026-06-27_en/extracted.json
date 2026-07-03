@@ -1,0 +1,1032 @@
+{
+  "epd_id": "HUB-5556",
+  "product_name": "50MPa 20mm Enviro 50% SCM 100SL Conc",
+  "product_type": "Ready-mix concrete",
+  "epd_program_operator": "EPD Hub",
+  "epd_standards": [
+    "EN 15804:2012+A2:2019/AC:2021",
+    "ISO 14025"
+  ],
+  "epd_publication_date": "2026-02-27",
+  "epd_last_updated_date": "2026-02-27",
+  "epd_valid_until_date": "2031-02-26",
+  "manufacturer": {
+    "name": "Boral Limited",
+    "address": "Level 3, Triniti 2, 39 Delhi Rd, North Ryde NSW, AU",
+    "contact_email": "sustainability@boral.com.au",
+    "website": "www.boral.com.au"
+  },
+  "manufacturing_location": "Melbourne",
+  "manufacturing_sites": [
+    "Melbourne"
+  ],
+  "product_characteristics": {
+    "strength_evaluation_days": {
+      "value": 28,
+      "page_number": 4,
+      "excerpt": "28 days"
+    }
+  },
+  "environmental_impacts": {
+    "gwp_total": {
+      "indicator_name": "GWP – total",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 256,
+          "page_number": 13,
+          "excerpt": "| **GWP – total¹**            | kg CO₂e    | 2.56E+02 | 6.58E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "A2": {
+          "value": 6.58,
+          "page_number": 13,
+          "excerpt": "| **GWP – total¹**            | kg CO₂e    | 2.56E+02 | 6.58E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "A3": {
+          "value": 5.62,
+          "page_number": 13,
+          "excerpt": "| **GWP – total¹**            | kg CO₂e    | 2.56E+02 | 6.58E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "A1-A3": {
+          "value": 268,
+          "page_number": 13,
+          "excerpt": "| **GWP – total¹**            | kg CO₂e    | 2.56E+02 | 6.58E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "C1": {
+          "value": 4.52,
+          "page_number": 14,
+          "excerpt": "| GWP – total             | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.30E+01 |"
+        },
+        "C2": {
+          "value": 12.8,
+          "page_number": 14,
+          "excerpt": "| GWP – total             | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.30E+01 |"
+        },
+        "C3": {
+          "value": 7.28,
+          "page_number": 14,
+          "excerpt": "| GWP – total             | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.30E+01 |"
+        },
+        "C4": {
+          "value": 4.45,
+          "page_number": 14,
+          "excerpt": "| GWP – total             | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.30E+01 |"
+        },
+        "D": {
+          "value": -13,
+          "page_number": 14,
+          "excerpt": "| GWP – total             | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.30E+01 |"
+        }
+      }
+    },
+    "gwp_fossil": {
+      "indicator_name": "GWP – fossil",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 256,
+          "page_number": 13,
+          "excerpt": "| **GWP – fossil**            | kg CO₂e    | 2.56E+02 | 6.57E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "A2": {
+          "value": 6.57,
+          "page_number": 13,
+          "excerpt": "| **GWP – fossil**            | kg CO₂e    | 2.56E+02 | 6.57E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "A3": {
+          "value": 5.62,
+          "page_number": 13,
+          "excerpt": "| **GWP – fossil**            | kg CO₂e    | 2.56E+02 | 6.57E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "A1-A3": {
+          "value": 268,
+          "page_number": 13,
+          "excerpt": "| **GWP – fossil**            | kg CO₂e    | 2.56E+02 | 6.57E+00 | 5.62E+00 | 2.68E+02 |"
+        },
+        "C1": {
+          "value": 4.52,
+          "page_number": 14,
+          "excerpt": "| GWP – fossil            | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.29E+01 |"
+        },
+        "C2": {
+          "value": 12.8,
+          "page_number": 14,
+          "excerpt": "| GWP – fossil            | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.29E+01 |"
+        },
+        "C3": {
+          "value": 7.28,
+          "page_number": 14,
+          "excerpt": "| GWP – fossil            | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.29E+01 |"
+        },
+        "C4": {
+          "value": 4.45,
+          "page_number": 14,
+          "excerpt": "| GWP – fossil            | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.29E+01 |"
+        },
+        "D": {
+          "value": -12.9,
+          "page_number": 14,
+          "excerpt": "| GWP – fossil            | kg CO₂e    | 4.52E+00 | 1.28E+01 | 7.28E+00  | 4.45E+00  | -1.29E+01 |"
+        }
+      }
+    },
+    "gwp_biogenic": {
+      "indicator_name": "GWP – biogenic",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 0.0946,
+          "page_number": 13,
+          "excerpt": "| **GWP – biogenic**          | kg CO₂e    | 9.46E-02 | 1.23E-02 | 7.60E-04 | 1.08E-01 |"
+        },
+        "A2": {
+          "value": 0.0123,
+          "page_number": 13,
+          "excerpt": "| **GWP – biogenic**          | kg CO₂e    | 9.46E-02 | 1.23E-02 | 7.60E-04 | 1.08E-01 |"
+        },
+        "A3": {
+          "value": 0.00076,
+          "page_number": 13,
+          "excerpt": "| **GWP – biogenic**          | kg CO₂e    | 9.46E-02 | 1.23E-02 | 7.60E-04 | 1.08E-01 |"
+        },
+        "A1-A3": {
+          "value": 0.108,
+          "page_number": 13,
+          "excerpt": "| **GWP – biogenic**          | kg CO₂e    | 9.46E-02 | 1.23E-02 | 7.60E-04 | 1.08E-01 |"
+        },
+        "C1": {
+          "value": 0.000461,
+          "page_number": 14,
+          "excerpt": "| GWP – biogenic          | kg CO₂e    | 4.61E-04 | 2.90E-03 | -7.43E-04 | -1.42E-03 | -4.06E-02 |"
+        },
+        "C2": {
+          "value": 0.0029,
+          "page_number": 14,
+          "excerpt": "| GWP – biogenic          | kg CO₂e    | 4.61E-04 | 2.90E-03 | -7.43E-04 | -1.42E-03 | -4.06E-02 |"
+        },
+        "C3": {
+          "value": -0.000743,
+          "page_number": 14,
+          "excerpt": "| GWP – biogenic          | kg CO₂e    | 4.61E-04 | 2.90E-03 | -7.43E-04 | -1.42E-03 | -4.06E-02 |"
+        },
+        "C4": {
+          "value": -0.00142,
+          "page_number": 14,
+          "excerpt": "| GWP – biogenic          | kg CO₂e    | 4.61E-04 | 2.90E-03 | -7.43E-04 | -1.42E-03 | -4.06E-02 |"
+        },
+        "D": {
+          "value": -0.0406,
+          "page_number": 14,
+          "excerpt": "| GWP – biogenic          | kg CO₂e    | 4.61E-04 | 2.90E-03 | -7.43E-04 | -1.42E-03 | -4.06E-02 |"
+        }
+      }
+    },
+    "gwp_luluc": {
+      "indicator_name": "GWP – LULUC",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 0.0912,
+          "page_number": 13,
+          "excerpt": "| **GWP – LULUC**             | kg CO₂e    | 9.12E-02 | 5.06E-05 | 4.66E-04 | 9.18E-02 |"
+        },
+        "A2": {
+          "value": 0.0000506,
+          "page_number": 13,
+          "excerpt": "| **GWP – LULUC**             | kg CO₂e    | 9.12E-02 | 5.06E-05 | 4.66E-04 | 9.18E-02 |"
+        },
+        "A3": {
+          "value": 0.000466,
+          "page_number": 13,
+          "excerpt": "| **GWP – LULUC**             | kg CO₂e    | 9.12E-02 | 5.06E-05 | 4.66E-04 | 9.18E-02 |"
+        },
+        "A1-A3": {
+          "value": 0.0918,
+          "page_number": 13,
+          "excerpt": "| **GWP – LULUC**             | kg CO₂e    | 9.12E-02 | 5.06E-05 | 4.66E-04 | 9.18E-02 |"
+        },
+        "C1": {
+          "value": 0.000463,
+          "page_number": 14,
+          "excerpt": "| GWP – LULUC             | kg CO₂e    | 4.63E-04 | 5.72E-03 | 7.46E-04  | 2.54E-03  | -1.79E-02 |"
+        },
+        "C2": {
+          "value": 0.00572,
+          "page_number": 14,
+          "excerpt": "| GWP – LULUC             | kg CO₂e    | 4.63E-04 | 5.72E-03 | 7.46E-04  | 2.54E-03  | -1.79E-02 |"
+        },
+        "C3": {
+          "value": 0.000746,
+          "page_number": 14,
+          "excerpt": "| GWP – LULUC             | kg CO₂e    | 4.63E-04 | 5.72E-03 | 7.46E-04  | 2.54E-03  | -1.79E-02 |"
+        },
+        "C4": {
+          "value": 0.00254,
+          "page_number": 14,
+          "excerpt": "| GWP – LULUC             | kg CO₂e    | 4.63E-04 | 5.72E-03 | 7.46E-04  | 2.54E-03  | -1.79E-02 |"
+        },
+        "D": {
+          "value": -0.0179,
+          "page_number": 14,
+          "excerpt": "| GWP – LULUC             | kg CO₂e    | 4.63E-04 | 5.72E-03 | 7.46E-04  | 2.54E-03  | -1.79E-02 |"
+        }
+      }
+    },
+    "ozone_depletion_pot": {
+      "indicator_name": "Ozone depletion pot.",
+      "unit": "kg CFC-₁₁e",
+      "modules": {
+        "A1": {
+          "value": 0.00000194,
+          "page_number": 13,
+          "excerpt": "| **Ozone depletion pot.**    | kg CFC-₁₁e | 1.94E-06 | 1.08E-06 | 4.97E-08 | 3.07E-06 |"
+        },
+        "A2": {
+          "value": 0.00000108,
+          "page_number": 13,
+          "excerpt": "| **Ozone depletion pot.**    | kg CFC-₁₁e | 1.94E-06 | 1.08E-06 | 4.97E-08 | 3.07E-06 |"
+        },
+        "A3": {
+          "value": 4.97e-8,
+          "page_number": 13,
+          "excerpt": "| **Ozone depletion pot.**    | kg CFC-₁₁e | 1.94E-06 | 1.08E-06 | 4.97E-08 | 3.07E-06 |"
+        },
+        "A1-A3": {
+          "value": 0.00000307,
+          "page_number": 13,
+          "excerpt": "| **Ozone depletion pot.**    | kg CFC-₁₁e | 1.94E-06 | 1.08E-06 | 4.97E-08 | 3.07E-06 |"
+        },
+        "C1": {
+          "value": 6.92e-8,
+          "page_number": 14,
+          "excerpt": "| Ozone depletion pot.    | kg CFC-₁₁e | 6.92E-08 | 1.89E-07 | 1.11E-07  | 1.29E-07  | -1.09E-06 |"
+        },
+        "C2": {
+          "value": 1.89e-7,
+          "page_number": 14,
+          "excerpt": "| Ozone depletion pot.    | kg CFC-₁₁e | 6.92E-08 | 1.89E-07 | 1.11E-07  | 1.29E-07  | -1.09E-06 |"
+        },
+        "C3": {
+          "value": 1.11e-7,
+          "page_number": 14,
+          "excerpt": "| Ozone depletion pot.    | kg CFC-₁₁e | 6.92E-08 | 1.89E-07 | 1.11E-07  | 1.29E-07  | -1.09E-06 |"
+        },
+        "C4": {
+          "value": 1.29e-7,
+          "page_number": 14,
+          "excerpt": "| Ozone depletion pot.    | kg CFC-₁₁e | 6.92E-08 | 1.89E-07 | 1.11E-07  | 1.29E-07  | -1.09E-06 |"
+        },
+        "D": {
+          "value": -0.00000109,
+          "page_number": 14,
+          "excerpt": "| Ozone depletion pot.    | kg CFC-₁₁e | 6.92E-08 | 1.89E-07 | 1.11E-07  | 1.29E-07  | -1.09E-06 |"
+        }
+      }
+    },
+    "acidification_potential": {
+      "indicator_name": "Acidification potential",
+      "unit": "mol H⁺e",
+      "modules": {
+        "A1": {
+          "value": 1.84,
+          "page_number": 13,
+          "excerpt": "| **Acidification potential** | mol H⁺e    | 1.84E+00 | 2.70E-02 | 3.63E-02 | 1.90E+00 |"
+        },
+        "A2": {
+          "value": 0.027,
+          "page_number": 13,
+          "excerpt": "| **Acidification potential** | mol H⁺e    | 1.84E+00 | 2.70E-02 | 3.63E-02 | 1.90E+00 |"
+        },
+        "A3": {
+          "value": 0.0363,
+          "page_number": 13,
+          "excerpt": "| **Acidification potential** | mol H⁺e    | 1.84E+00 | 2.70E-02 | 3.63E-02 | 1.90E+00 |"
+        },
+        "A1-A3": {
+          "value": 1.9,
+          "page_number": 13,
+          "excerpt": "| **Acidification potential** | mol H⁺e    | 1.84E+00 | 2.70E-02 | 3.63E-02 | 1.90E+00 |"
+        },
+        "C1": {
+          "value": 0.0408,
+          "page_number": 14,
+          "excerpt": "| Acidification potential | mol H⁺e    | 4.08E-02 | 4.36E-02 | 6.57E-02  | 3.16E-02  | -8.47E-02 |"
+        },
+        "C2": {
+          "value": 0.0436,
+          "page_number": 14,
+          "excerpt": "| Acidification potential | mol H⁺e    | 4.08E-02 | 4.36E-02 | 6.57E-02  | 3.16E-02  | -8.47E-02 |"
+        },
+        "C3": {
+          "value": 0.0657,
+          "page_number": 14,
+          "excerpt": "| Acidification potential | mol H⁺e    | 4.08E-02 | 4.36E-02 | 6.57E-02  | 3.16E-02  | -8.47E-02 |"
+        },
+        "C4": {
+          "value": 0.0316,
+          "page_number": 14,
+          "excerpt": "| Acidification potential | mol H⁺e    | 4.08E-02 | 4.36E-02 | 6.57E-02  | 3.16E-02  | -8.47E-02 |"
+        },
+        "D": {
+          "value": -0.0847,
+          "page_number": 14,
+          "excerpt": "| Acidification potential | mol H⁺e    | 4.08E-02 | 4.36E-02 | 6.57E-02  | 3.16E-02  | -8.47E-02 |"
+        }
+      }
+    },
+    "ep_freshwater": {
+      "indicator_name": "EP-freshwater",
+      "unit": "kg Pe",
+      "modules": {
+        "A1": {
+          "value": 0.0483,
+          "page_number": 13,
+          "excerpt": "| **EP-freshwater²**          | kg Pe      | 4.83E-02 | 2.17E-04 | 9.12E-04 | 4.94E-02 |"
+        },
+        "A2": {
+          "value": 0.000217,
+          "page_number": 13,
+          "excerpt": "| **EP-freshwater²**          | kg Pe      | 4.83E-02 | 2.17E-04 | 9.12E-04 | 4.94E-02 |"
+        },
+        "A3": {
+          "value": 0.000912,
+          "page_number": 13,
+          "excerpt": "| **EP-freshwater²**          | kg Pe      | 4.83E-02 | 2.17E-04 | 9.12E-04 | 4.94E-02 |"
+        },
+        "A1-A3": {
+          "value": 0.0494,
+          "page_number": 13,
+          "excerpt": "| **EP-freshwater²**          | kg Pe      | 4.83E-02 | 2.17E-04 | 9.12E-04 | 4.94E-02 |"
+        },
+        "C1": {
+          "value": 0.000131,
+          "page_number": 14,
+          "excerpt": "| EP-freshwater           | kg Pe      | 1.31E-04 | 9.96E-04 | 2.10E-04  | 3.66E-04  | -7.66E-04 |"
+        },
+        "C2": {
+          "value": 0.000996,
+          "page_number": 14,
+          "excerpt": "| EP-freshwater           | kg Pe      | 1.31E-04 | 9.96E-04 | 2.10E-04  | 3.66E-04  | -7.66E-04 |"
+        },
+        "C3": {
+          "value": 0.00021,
+          "page_number": 14,
+          "excerpt": "| EP-freshwater           | kg Pe      | 1.31E-04 | 9.96E-04 | 2.10E-04  | 3.66E-04  | -7.66E-04 |"
+        },
+        "C4": {
+          "value": 0.000366,
+          "page_number": 14,
+          "excerpt": "| EP-freshwater           | kg Pe      | 1.31E-04 | 9.96E-04 | 2.10E-04  | 3.66E-04  | -7.66E-04 |"
+        },
+        "D": {
+          "value": -0.000766,
+          "page_number": 14,
+          "excerpt": "| EP-freshwater           | kg Pe      | 1.31E-04 | 9.96E-04 | 2.10E-04  | 3.66E-04  | -7.66E-04 |"
+        }
+      }
+    },
+    "ep_marine": {
+      "indicator_name": "EP-marine",
+      "unit": "kg Ne",
+      "modules": {
+        "A1": {
+          "value": 0.454,
+          "page_number": 13,
+          "excerpt": "| **EP-marine**               | kg Ne      | 4.54E-01 | 9.07E-03 | 7.66E-03 | 4.70E-01 |"
+        },
+        "A2": {
+          "value": 0.00907,
+          "page_number": 13,
+          "excerpt": "| **EP-marine**               | kg Ne      | 4.54E-01 | 9.07E-03 | 7.66E-03 | 4.70E-01 |"
+        },
+        "A3": {
+          "value": 0.00766,
+          "page_number": 13,
+          "excerpt": "| **EP-marine**               | kg Ne      | 4.54E-01 | 9.07E-03 | 7.66E-03 | 4.70E-01 |"
+        },
+        "A1-A3": {
+          "value": 0.47,
+          "page_number": 13,
+          "excerpt": "| **EP-marine**               | kg Ne      | 4.54E-01 | 9.07E-03 | 7.66E-03 | 4.70E-01 |"
+        },
+        "C1": {
+          "value": 0.0189,
+          "page_number": 14,
+          "excerpt": "| EP-marine               | kg Ne      | 1.89E-02 | 1.43E-02 | 3.05E-02  | 1.20E-02  | -1.83E-02 |"
+        },
+        "C2": {
+          "value": 0.0143,
+          "page_number": 14,
+          "excerpt": "| EP-marine               | kg Ne      | 1.89E-02 | 1.43E-02 | 3.05E-02  | 1.20E-02  | -1.83E-02 |"
+        },
+        "C3": {
+          "value": 0.0305,
+          "page_number": 14,
+          "excerpt": "| EP-marine               | kg Ne      | 1.89E-02 | 1.43E-02 | 3.05E-02  | 1.20E-02  | -1.83E-02 |"
+        },
+        "C4": {
+          "value": 0.012,
+          "page_number": 14,
+          "excerpt": "| EP-marine               | kg Ne      | 1.89E-02 | 1.43E-02 | 3.05E-02  | 1.20E-02  | -1.83E-02 |"
+        },
+        "D": {
+          "value": -0.0183,
+          "page_number": 14,
+          "excerpt": "| EP-marine               | kg Ne      | 1.89E-02 | 1.43E-02 | 3.05E-02  | 1.20E-02  | -1.83E-02 |"
+        }
+      }
+    },
+    "ep_terrestrial": {
+      "indicator_name": "EP-terrestrial",
+      "unit": "mol Ne",
+      "modules": {
+        "A1": {
+          "value": 4.91,
+          "page_number": 13,
+          "excerpt": "| **EP-terrestrial**          | mol Ne     | 4.91E+00 | 1.01E-01 | 8.11E-02 | 5.09E+00 |"
+        },
+        "A2": {
+          "value": 0.101,
+          "page_number": 13,
+          "excerpt": "| **EP-terrestrial**          | mol Ne     | 4.91E+00 | 1.01E-01 | 8.11E-02 | 5.09E+00 |"
+        },
+        "A3": {
+          "value": 0.0811,
+          "page_number": 13,
+          "excerpt": "| **EP-terrestrial**          | mol Ne     | 4.91E+00 | 1.01E-01 | 8.11E-02 | 5.09E+00 |"
+        },
+        "A1-A3": {
+          "value": 5.09,
+          "page_number": 13,
+          "excerpt": "| **EP-terrestrial**          | mol Ne     | 4.91E+00 | 1.01E-01 | 8.11E-02 | 5.09E+00 |"
+        },
+        "C1": {
+          "value": 0.207,
+          "page_number": 14,
+          "excerpt": "| EP-terrestrial          | mol Ne     | 2.07E-01 | 1.56E-01 | 3.34E-01  | 1.31E-01  | -2.39E-01 |"
+        },
+        "C2": {
+          "value": 0.156,
+          "page_number": 14,
+          "excerpt": "| EP-terrestrial          | mol Ne     | 2.07E-01 | 1.56E-01 | 3.34E-01  | 1.31E-01  | -2.39E-01 |"
+        },
+        "C3": {
+          "value": 0.334,
+          "page_number": 14,
+          "excerpt": "| EP-terrestrial          | mol Ne     | 2.07E-01 | 1.56E-01 | 3.34E-01  | 1.31E-01  | -2.39E-01 |"
+        },
+        "C4": {
+          "value": 0.131,
+          "page_number": 14,
+          "excerpt": "| EP-terrestrial          | mol Ne     | 2.07E-01 | 1.56E-01 | 3.34E-01  | 1.31E-01  | -2.39E-01 |"
+        },
+        "D": {
+          "value": -0.239,
+          "page_number": 14,
+          "excerpt": "| EP-terrestrial          | mol Ne     | 2.07E-01 | 1.56E-01 | 3.34E-01  | 1.31E-01  | -2.39E-01 |"
+        }
+      }
+    },
+    "pocp_smog": {
+      "indicator_name": "POCP (“smog”)",
+      "unit": "kg NMVOCe",
+      "modules": {
+        "A1": {
+          "value": 1.31,
+          "page_number": 13,
+          "excerpt": "| **POCP (“smog”)³**          | kg NMVOCe  | 1.31E+00 | 3.41E-02 | 2.48E-02 | 1.37E+00 |"
+        },
+        "A2": {
+          "value": 0.0341,
+          "page_number": 13,
+          "excerpt": "| **POCP (“smog”)³**          | kg NMVOCe  | 1.31E+00 | 3.41E-02 | 2.48E-02 | 1.37E+00 |"
+        },
+        "A3": {
+          "value": 0.0248,
+          "page_number": 13,
+          "excerpt": "| **POCP (“smog”)³**          | kg NMVOCe  | 1.31E+00 | 3.41E-02 | 2.48E-02 | 1.37E+00 |"
+        },
+        "A1-A3": {
+          "value": 1.37,
+          "page_number": 13,
+          "excerpt": "| **POCP (“smog”)³**          | kg NMVOCe  | 1.31E+00 | 3.41E-02 | 2.48E-02 | 1.37E+00 |"
+        },
+        "C1": {
+          "value": 0.0618,
+          "page_number": 14,
+          "excerpt": "| POCP (“smog”)           | kg NMVOCe  | 6.18E-02 | 6.43E-02 | 9.95E-02  | 4.71E-02  | -6.14E-02 |"
+        },
+        "C2": {
+          "value": 0.0643,
+          "page_number": 14,
+          "excerpt": "| POCP (“smog”)           | kg NMVOCe  | 6.18E-02 | 6.43E-02 | 9.95E-02  | 4.71E-02  | -6.14E-02 |"
+        },
+        "C3": {
+          "value": 0.0995,
+          "page_number": 14,
+          "excerpt": "| POCP (“smog”)           | kg NMVOCe  | 6.18E-02 | 6.43E-02 | 9.95E-02  | 4.71E-02  | -6.14E-02 |"
+        },
+        "C4": {
+          "value": 0.0471,
+          "page_number": 14,
+          "excerpt": "| POCP (“smog”)           | kg NMVOCe  | 6.18E-02 | 6.43E-02 | 9.95E-02  | 4.71E-02  | -6.14E-02 |"
+        },
+        "D": {
+          "value": -0.0614,
+          "page_number": 14,
+          "excerpt": "| POCP (“smog”)           | kg NMVOCe  | 6.18E-02 | 6.43E-02 | 9.95E-02  | 4.71E-02  | -6.14E-02 |"
+        }
+      }
+    },
+    "adp_minerals_metals": {
+      "indicator_name": "ADP-minerals & metals",
+      "unit": "kg Sbe",
+      "modules": {
+        "A1": {
+          "value": 0.00000367,
+          "page_number": 13,
+          "excerpt": "| **ADP-minerals & metals⁴**  | kg Sbe     | 3.67E-06 | 2.11E-05 | 2.10E-06 | 2.69E-05 |"
+        },
+        "A2": {
+          "value": 0.0000211,
+          "page_number": 13,
+          "excerpt": "| **ADP-minerals & metals⁴**  | kg Sbe     | 3.67E-06 | 2.11E-05 | 2.10E-06 | 2.69E-05 |"
+        },
+        "A3": {
+          "value": 0.0000021,
+          "page_number": 13,
+          "excerpt": "| **ADP-minerals & metals⁴**  | kg Sbe     | 3.67E-06 | 2.11E-05 | 2.10E-06 | 2.69E-05 |"
+        },
+        "A1-A3": {
+          "value": 0.0000269,
+          "page_number": 13,
+          "excerpt": "| **ADP-minerals & metals⁴**  | kg Sbe     | 3.67E-06 | 2.11E-05 | 2.10E-06 | 2.69E-05 |"
+        },
+        "C1": {
+          "value": 0.00000162,
+          "page_number": 14,
+          "excerpt": "| ADP-minerals & metals   | kg Sbe     | 1.62E-06 | 3.57E-05 | 2.61E-06  | 7.07E-06  | -1.30E-04 |"
+        },
+        "C2": {
+          "value": 0.0000357,
+          "page_number": 14,
+          "excerpt": "| ADP-minerals & metals   | kg Sbe     | 1.62E-06 | 3.57E-05 | 2.61E-06  | 7.07E-06  | -1.30E-04 |"
+        },
+        "C3": {
+          "value": 0.00000261,
+          "page_number": 14,
+          "excerpt": "| ADP-minerals & metals   | kg Sbe     | 1.62E-06 | 3.57E-05 | 2.61E-06  | 7.07E-06  | -1.30E-04 |"
+        },
+        "C4": {
+          "value": 0.00000707,
+          "page_number": 14,
+          "excerpt": "| ADP-minerals & metals   | kg Sbe     | 1.62E-06 | 3.57E-05 | 2.61E-06  | 7.07E-06  | -1.30E-04 |"
+        },
+        "D": {
+          "value": -0.00013,
+          "page_number": 14,
+          "excerpt": "| ADP-minerals & metals   | kg Sbe     | 1.62E-06 | 3.57E-05 | 2.61E-06  | 7.07E-06  | -1.30E-04 |"
+        }
+      }
+    },
+    "adp_fossil_resources": {
+      "indicator_name": "ADP-fossil resources",
+      "unit": "MJ",
+      "modules": {
+        "A1": {
+          "value": 1110,
+          "page_number": 13,
+          "excerpt": "| **ADP-fossil resources**    | MJ         | 1.11E+03 | 8.45E+01 | 6.82E+01 | 1.27E+03 |"
+        },
+        "A2": {
+          "value": 84.5,
+          "page_number": 13,
+          "excerpt": "| **ADP-fossil resources**    | MJ         | 1.11E+03 | 8.45E+01 | 6.82E+01 | 1.27E+03 |"
+        },
+        "A3": {
+          "value": 68.2,
+          "page_number": 13,
+          "excerpt": "| **ADP-fossil resources**    | MJ         | 1.11E+03 | 8.45E+01 | 6.82E+01 | 1.27E+03 |"
+        },
+        "A1-A3": {
+          "value": 1270,
+          "page_number": 13,
+          "excerpt": "| **ADP-fossil resources**    | MJ         | 1.11E+03 | 8.45E+01 | 6.82E+01 | 1.27E+03 |"
+        },
+        "C1": {
+          "value": 59.2,
+          "page_number": 14,
+          "excerpt": "| ADP-fossil resources    | MJ         | 5.92E+01 | 1.86E+02 | 9.52E+01  | 1.09E+02  | -1.92E+02 |"
+        },
+        "C2": {
+          "value": 186,
+          "page_number": 14,
+          "excerpt": "| ADP-fossil resources    | MJ         | 5.92E+01 | 1.86E+02 | 9.52E+01  | 1.09E+02  | -1.92E+02 |"
+        },
+        "C3": {
+          "value": 95.2,
+          "page_number": 14,
+          "excerpt": "| ADP-fossil resources    | MJ         | 5.92E+01 | 1.86E+02 | 9.52E+01  | 1.09E+02  | -1.92E+02 |"
+        },
+        "C4": {
+          "value": 109,
+          "page_number": 14,
+          "excerpt": "| ADP-fossil resources    | MJ         | 5.92E+01 | 1.86E+02 | 9.52E+01  | 1.09E+02  | -1.92E+02 |"
+        },
+        "D": {
+          "value": -192,
+          "page_number": 14,
+          "excerpt": "| ADP-fossil resources    | MJ         | 5.92E+01 | 1.86E+02 | 9.52E+01  | 1.09E+02  | -1.92E+02 |"
+        }
+      }
+    },
+    "water_use": {
+      "indicator_name": "Water use",
+      "unit": "m³e depr.",
+      "modules": {
+        "A1": {
+          "value": 229,
+          "page_number": 13,
+          "excerpt": "| **Water use⁵**              | m³e depr.  | 2.29E+02 | 5.74E+01 | 3.69E+01 | 3.24E+02 |"
+        },
+        "A2": {
+          "value": 57.4,
+          "page_number": 13,
+          "excerpt": "| **Water use⁵**              | m³e depr.  | 2.29E+02 | 5.74E+01 | 3.69E+01 | 3.24E+02 |"
+        },
+        "A3": {
+          "value": 36.9,
+          "page_number": 13,
+          "excerpt": "| **Water use⁵**              | m³e depr.  | 2.29E+02 | 5.74E+01 | 3.69E+01 | 3.24E+02 |"
+        },
+        "A1-A3": {
+          "value": 324,
+          "page_number": 13,
+          "excerpt": "| **Water use⁵**              | m³e depr.  | 2.29E+02 | 5.74E+01 | 3.69E+01 | 3.24E+02 |"
+        },
+        "C1": {
+          "value": 0.148,
+          "page_number": 14,
+          "excerpt": "| Water use               | m³e depr.  | 1.48E-01 | 9.17E-01 | 2.38E-01  | 3.15E-01  | -2.56E+01 |"
+        },
+        "C2": {
+          "value": 0.917,
+          "page_number": 14,
+          "excerpt": "| Water use               | m³e depr.  | 1.48E-01 | 9.17E-01 | 2.38E-01  | 3.15E-01  | -2.56E+01 |"
+        },
+        "C3": {
+          "value": 0.238,
+          "page_number": 14,
+          "excerpt": "| Water use               | m³e depr.  | 1.48E-01 | 9.17E-01 | 2.38E-01  | 3.15E-01  | -2.56E+01 |"
+        },
+        "C4": {
+          "value": 0.315,
+          "page_number": 14,
+          "excerpt": "| Water use               | m³e depr.  | 1.48E-01 | 9.17E-01 | 2.38E-01  | 3.15E-01  | -2.56E+01 |"
+        },
+        "D": {
+          "value": -25.6,
+          "page_number": 14,
+          "excerpt": "| Water use               | m³e depr.  | 1.48E-01 | 9.17E-01 | 2.38E-01  | 3.15E-01  | -2.56E+01 |"
+        }
+      }
+    },
+    "particulate_matter": {
+      "indicator_name": "Particulate matter",
+      "unit": "Incidence",
+      "modules": {
+        "A1": {
+          "value": 0.00000879,
+          "page_number": 14,
+          "excerpt": "| Particulate matter       | Incidence | 8.79E-06 | 4.69E-07 | 8.24E-07 | 1.01E-05 |"
+        },
+        "A2": {
+          "value": 4.69e-7,
+          "page_number": 14,
+          "excerpt": "| Particulate matter       | Incidence | 8.79E-06 | 4.69E-07 | 8.24E-07 | 1.01E-05 |"
+        },
+        "A3": {
+          "value": 8.24e-7,
+          "page_number": 14,
+          "excerpt": "| Particulate matter       | Incidence | 8.79E-06 | 4.69E-07 | 8.24E-07 | 1.01E-05 |"
+        },
+        "A1-A3": {
+          "value": 0.0000101,
+          "page_number": 14,
+          "excerpt": "| Particulate matter       | Incidence | 8.79E-06 | 4.69E-07 | 8.24E-07 | 1.01E-05 |"
+        },
+        "C1": {
+          "value": 0.00000116,
+          "page_number": 15,
+          "excerpt": "| Particulate matter       | Incidence | 1.16E-06 | 1.28E-06 | 1.42E-05 | 7.18E-07 | -1.09E-06 |"
+        },
+        "C2": {
+          "value": 0.00000128,
+          "page_number": 15,
+          "excerpt": "| Particulate matter       | Incidence | 1.16E-06 | 1.28E-06 | 1.42E-05 | 7.18E-07 | -1.09E-06 |"
+        },
+        "C3": {
+          "value": 0.0000142,
+          "page_number": 15,
+          "excerpt": "| Particulate matter       | Incidence | 1.16E-06 | 1.28E-06 | 1.42E-05 | 7.18E-07 | -1.09E-06 |"
+        },
+        "C4": {
+          "value": 7.18e-7,
+          "page_number": 15,
+          "excerpt": "| Particulate matter       | Incidence | 1.16E-06 | 1.28E-06 | 1.42E-05 | 7.18E-07 | -1.09E-06 |"
+        },
+        "D": {
+          "value": -0.00000109,
+          "page_number": 15,
+          "excerpt": "| Particulate matter       | Incidence | 1.16E-06 | 1.28E-06 | 1.42E-05 | 7.18E-07 | -1.09E-06 |"
+        }
+      }
+    },
+    "ionising_radiation": {
+      "indicator_name": "Ionising radiation",
+      "unit": "kBq U235e",
+      "modules": {
+        "A1": {
+          "value": 0.359,
+          "page_number": 14,
+          "excerpt": "| Ionising radiation⁶      | kBq U235e | 3.59E-01 | 0.00E+00 | 7.11E-02 | 4.30E-01 |"
+        },
+        "A2": {
+          "value": 0,
+          "page_number": 14,
+          "excerpt": "| Ionising radiation⁶      | kBq U235e | 3.59E-01 | 0.00E+00 | 7.11E-02 | 4.30E-01 |"
+        },
+        "A3": {
+          "value": 0.0711,
+          "page_number": 14,
+          "excerpt": "| Ionising radiation⁶      | kBq U235e | 3.59E-01 | 0.00E+00 | 7.11E-02 | 4.30E-01 |"
+        },
+        "A1-A3": {
+          "value": 0.43,
+          "page_number": 14,
+          "excerpt": "| Ionising radiation⁶      | kBq U235e | 3.59E-01 | 0.00E+00 | 7.11E-02 | 4.30E-01 |"
+        },
+        "C1": {
+          "value": 0.0262,
+          "page_number": 15,
+          "excerpt": "| Ionising radiation       | kBq U235e | 2.62E-02 | 1.62E-01 | 4.22E-02 | 6.87E-02 | -3.06E+00 |"
+        },
+        "C2": {
+          "value": 0.162,
+          "page_number": 15,
+          "excerpt": "| Ionising radiation       | kBq U235e | 2.62E-02 | 1.62E-01 | 4.22E-02 | 6.87E-02 | -3.06E+00 |"
+        },
+        "C3": {
+          "value": 0.0422,
+          "page_number": 15,
+          "excerpt": "| Ionising radiation       | kBq U235e | 2.62E-02 | 1.62E-01 | 4.22E-02 | 6.87E-02 | -3.06E+00 |"
+        },
+        "C4": {
+          "value": 0.0687,
+          "page_number": 15,
+          "excerpt": "| Ionising radiation       | kBq U235e | 2.62E-02 | 1.62E-01 | 4.22E-02 | 6.87E-02 | -3.06E+00 |"
+        },
+        "D": {
+          "value": -3.06,
+          "page_number": 15,
+          "excerpt": "| Ionising radiation       | kBq U235e | 2.62E-02 | 1.62E-01 | 4.22E-02 | 6.87E-02 | -3.06E+00 |"
+        }
+      }
+    },
+    "ecotoxicity_freshwater": {
+      "indicator_name": "Ecotoxicity (freshwater)",
+      "unit": "CTUe",
+      "modules": {
+        "A1": {
+          "value": 188,
+          "page_number": 14,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 1.88E+02 | 2.28E+01 | 1.08E+01 | 2.21E+02 |"
+        },
+        "A2": {
+          "value": 22.8,
+          "page_number": 14,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 1.88E+02 | 2.28E+01 | 1.08E+01 | 2.21E+02 |"
+        },
+        "A3": {
+          "value": 10.8,
+          "page_number": 14,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 1.88E+02 | 2.28E+01 | 1.08E+01 | 2.21E+02 |"
+        },
+        "A1-A3": {
+          "value": 221,
+          "page_number": 14,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 1.88E+02 | 2.28E+01 | 1.08E+01 | 2.21E+02 |"
+        },
+        "C1": {
+          "value": 3.26,
+          "page_number": 15,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 3.26E+00 | 2.63E+01 | 5.24E+00 | 9.16E+00 | -2.31E+02 |"
+        },
+        "C2": {
+          "value": 26.3,
+          "page_number": 15,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 3.26E+00 | 2.63E+01 | 5.24E+00 | 9.16E+00 | -2.31E+02 |"
+        },
+        "C3": {
+          "value": 5.24,
+          "page_number": 15,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 3.26E+00 | 2.63E+01 | 5.24E+00 | 9.16E+00 | -2.31E+02 |"
+        },
+        "C4": {
+          "value": 9.16,
+          "page_number": 15,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 3.26E+00 | 2.63E+01 | 5.24E+00 | 9.16E+00 | -2.31E+02 |"
+        },
+        "D": {
+          "value": -231,
+          "page_number": 15,
+          "excerpt": "| Ecotoxicity (freshwater) | CTUe      | 3.26E+00 | 2.63E+01 | 5.24E+00 | 9.16E+00 | -2.31E+02 |"
+        }
+      }
+    },
+    "human_toxicity_cancer": {
+      "indicator_name": "Human toxicity, cancer",
+      "unit": "CTUh",
+      "modules": {
+        "A1": {
+          "value": 2.39e-8,
+          "page_number": 14,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 2.39E-08 | 1.71E-09 | 4.22E-10 | 2.60E-08 |"
+        },
+        "A2": {
+          "value": 1.71e-9,
+          "page_number": 14,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 2.39E-08 | 1.71E-09 | 4.22E-10 | 2.60E-08 |"
+        },
+        "A3": {
+          "value": 4.22e-10,
+          "page_number": 14,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 2.39E-08 | 1.71E-09 | 4.22E-10 | 2.60E-08 |"
+        },
+        "A1-A3": {
+          "value": 2.6e-8,
+          "page_number": 14,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 2.39E-08 | 1.71E-09 | 4.22E-10 | 2.60E-08 |"
+        },
+        "C1": {
+          "value": 4.65e-10,
+          "page_number": 15,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 4.65E-10 | 2.11E-09 | 7.49E-10 | 8.21E-10 | -1.34E-08 |"
+        },
+        "C2": {
+          "value": 2.11e-9,
+          "page_number": 15,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 4.65E-10 | 2.11E-09 | 7.49E-10 | 8.21E-10 | -1.34E-08 |"
+        },
+        "C3": {
+          "value": 7.49e-10,
+          "page_number": 15,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 4.65E-10 | 2.11E-09 | 7.49E-10 | 8.21E-10 | -1.34E-08 |"
+        },
+        "C4": {
+          "value": 8.21e-10,
+          "page_number": 15,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 4.65E-10 | 2.11E-09 | 7.49E-10 | 8.21E-10 | -1.34E-08 |"
+        },
+        "D": {
+          "value": -1.34e-8,
+          "page_number": 15,
+          "excerpt": "| Human toxicity, cancer   | CTUh      | 4.65E-10 | 2.11E-09 | 7.49E-10 | 8.21E-10 | -1.34E-08 |"
+        }
+      }
+    },
+    "human_tox_non_cancer": {
+      "indicator_name": "Human tox. non-cancer",
+      "unit": "CTUh",
+      "modules": {
+        "A1": {
+          "value": 6.52e-7,
+          "page_number": 14,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 6.52E-07 | 6.62E-08 | 2.85E-08 | 7.46E-07 |"
+        },
+        "A2": {
+          "value": 6.62e-8,
+          "page_number": 14,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 6.52E-07 | 6.62E-08 | 2.85E-08 | 7.46E-07 |"
+        },
+        "A3": {
+          "value": 2.85e-8,
+          "page_number": 14,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 6.52E-07 | 6.62E-08 | 2.85E-08 | 7.46E-07 |"
+        },
+        "A1-A3": {
+          "value": 7.46e-7,
+          "page_number": 14,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 6.52E-07 | 6.62E-08 | 2.85E-08 | 7.46E-07 |"
+        },
+        "C1": {
+          "value": 7.36e-9,
+          "page_number": 15,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 7.36E-09 | 1.20E-07 | 1.19E-08 | 1.89E-08 | -2.46E-07 |"
+        },
+        "C2": {
+          "value": 1.2e-7,
+          "page_number": 15,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 7.36E-09 | 1.20E-07 | 1.19E-08 | 1.89E-08 | -2.46E-07 |"
+        },
+        "C3": {
+          "value": 1.19e-8,
+          "page_number": 15,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 7.36E-09 | 1.20E-07 | 1.19E-08 | 1.89E-08 | -2.46E-07 |"
+        },
+        "C4": {
+          "value": 1.89e-8,
+          "page_number": 15,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 7.36E-09 | 1.20E-07 | 1.19E-08 | 1.89E-08 | -2.46E-07 |"
+        },
+        "D": {
+          "value": -2.46e-7,
+          "page_number": 15,
+          "excerpt": "| Human tox. non-cancer    | CTUh      | 7.36E-09 | 1.20E-07 | 1.19E-08 | 1.89E-08 | -2.46E-07 |"
+        }
+      }
+    },
+    "sqp": {
+      "indicator_name": "SQP",
+      "unit": "-",
+      "modules": {
+        "A1": {
+          "value": 686,
+          "page_number": 14,
+          "excerpt": "| SQP⁷                     | -         | 6.86E+02 | 1.98E+01 | 1.82E+01 | 7.24E+02 |"
+        },
+        "A2": {
+          "value": 19.8,
+          "page_number": 14,
+          "excerpt": "| SQP⁷                     | -         | 6.86E+02 | 1.98E+01 | 1.82E+01 | 7.24E+02 |"
+        },
+        "A3": {
+          "value": 18.2,
+          "page_number": 14,
+          "excerpt": "| SQP⁷                     | -         | 6.86E+02 | 1.98E+01 | 1.82E+01 | 7.24E+02 |"
+        },
+        "A1-A3": {
+          "value": 724,
+          "page_number": 14,
+          "excerpt": "| SQP⁷                     | -         | 6.86E+02 | 1.98E+01 | 1.82E+01 | 7.24E+02 |"
+        },
+        "C1": {
+          "value": 4.15,
+          "page_number": 15,
+          "excerpt": "| SQP                      | -         | 4.15E+00 | 1.87E+02 | 6.67E+00 | 2.15E+02 | -1.85E+02 |"
+        },
+        "C2": {
+          "value": 187,
+          "page_number": 15,
+          "excerpt": "| SQP                      | -         | 4.15E+00 | 1.87E+02 | 6.67E+00 | 2.15E+02 | -1.85E+02 |"
+        },
+        "C3": {
+          "value": 6.67,
+          "page_number": 15,
+          "excerpt": "| SQP                      | -         | 4.15E+00 | 1.87E+02 | 6.67E+00 | 2.15E+02 | -1.85E+02 |"
+        },
+        "C4": {
+          "value": 215,
+          "page_number": 15,
+          "excerpt": "| SQP                      | -         | 4.15E+00 | 1.87E+02 | 6.67E+00 | 2.15E+02 | -1.85E+02 |"
+        },
+        "D": {
+          "value": -185,
+          "page_number": 15,
+          "excerpt": "| SQP                      | -         | 4.15E+00 | 1.87E+02 | 6.67E+00 | 2.15E+02 | -1.85E+02 |"
+        }
+      }
+    }
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-07-03T08:03:59.396Z",
+    "markdown_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD_HUB-5556_2026-06-27_en/markdown.md",
+    "segment_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD_HUB-5556_2026-06-27_en/segment.json",
+    "product_info_pages": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "environmental_impact_pages": [
+      5,
+      6,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "model": "deepseek-v4-pro:cloud",
+    "gateway": "cloudflare-ai-gateway"
+  }
+}

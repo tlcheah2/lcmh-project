@@ -1,0 +1,2471 @@
+{
+  "epd_id": "EPD-IES-0029695:001",
+  "product_name": "QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use",
+  "product_type": "Ready-mix concrete",
+  "epd_program_operator": "EPD International AB",
+  "epd_standards": [
+    "ISO 14025",
+    "EN 15804:2012+A2:2019/AC:2021"
+  ],
+  "epd_publication_date": "2026-04-15",
+  "epd_last_updated_date": "2026-04-15",
+  "epd_valid_until_date": "2031-04-15",
+  "manufacturer": {
+    "name": "Holcim (Australia) Pty Ltd",
+    "address": "Level 40, Northpoint Tower, 100 Miller St, North Sydney NSW 2060, Australia",
+    "website": "www.holcim.com.au"
+  },
+  "manufacturing_location": "Brisbane, Queensland, Australia",
+  "manufacturing_sites": [
+    "Brisbane City",
+    "Acacia Ridge",
+    "Beaudesert",
+    "Beenleigh",
+    "Boonah",
+    "Darra",
+    "Cleveland",
+    "Geebung",
+    "Narangba",
+    "Wacol",
+    "Murarrie",
+    "Caboolture",
+    "Brendale",
+    "Raceview"
+  ],
+  "product_characteristics": {
+    "strength_mpa": {
+      "value": 25,
+      "page_number": 10,
+      "excerpt": "25"
+    },
+    "density_kg_per_m3": {
+      "value": 2319,
+      "page_number": 10,
+      "excerpt": "2319"
+    }
+  },
+  "environmental_impacts": {
+    "gwp_total": {
+      "indicator_name": "GWP-Total",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 146,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "A4": {
+          "value": 2.58,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "A5": {
+          "value": 12.9,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C1": {
+          "value": 0.522,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C2": {
+          "value": 4.31,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C3": {
+          "value": 10.4,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "D": {
+          "value": -18.5,
+          "page_number": 16,
+          "excerpt": "GWP-Total | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        }
+      }
+    },
+    "gwp_fossil": {
+      "indicator_name": "GWP-Fossil",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 145,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "A4": {
+          "value": 2.58,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "A5": {
+          "value": 12.8,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C1": {
+          "value": 0.522,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C2": {
+          "value": 4.31,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C3": {
+          "value": 10.3,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "D": {
+          "value": -18.5,
+          "page_number": 16,
+          "excerpt": "GWP-Fossil | kg CO₂ eq. | 145 | 2.58 | 12.8 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        }
+      }
+    },
+    "gwp_biogenic": {
+      "indicator_name": "GWP-Biogenic",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.822,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        },
+        "A4": {
+          "value": 0.0000896,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        },
+        "A5": {
+          "value": 0.0299,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        },
+        "C1": {
+          "value": 0.0000223,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        },
+        "C2": {
+          "value": 0.00015,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        },
+        "C3": {
+          "value": 0.00865,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        },
+        "D": {
+          "value": -0.015,
+          "page_number": 16,
+          "excerpt": "GWP-Biogenic | kg CO₂ eq. | 0.822 | 0.0000896 | 0.0299 | 0.0000223 | 0.000150 | 0.00865 | 0 | -0.0150"
+        }
+      }
+    },
+    "gwp_luluc": {
+      "indicator_name": "GWP-Luluc",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0489,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        },
+        "A4": {
+          "value": 0.0000661,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        },
+        "A5": {
+          "value": 0.0104,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        },
+        "C1": {
+          "value": 0.0000184,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        },
+        "C2": {
+          "value": 0.00011,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        },
+        "C3": {
+          "value": 0.0081,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        },
+        "D": {
+          "value": -0.0168,
+          "page_number": 16,
+          "excerpt": "GWP-Luluc | kg CO₂ eq. | 0.0489 | 0.0000661 | 0.0104 | 0.0000184 | 0.000110 | 0.00810 | 0 | -0.0168"
+        }
+      }
+    },
+    "odp": {
+      "indicator_name": "ODP",
+      "unit": "kg CFC 11 eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.00000133,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "A4": {
+          "value": 3.4e-8,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "A5": {
+          "value": 1.4e-7,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C1": {
+          "value": 7.8e-9,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C2": {
+          "value": 5.68e-8,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C3": {
+          "value": 1.32e-7,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "D": {
+          "value": -9.01e-9,
+          "page_number": 16,
+          "excerpt": "ODP | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        }
+      }
+    },
+    "ap": {
+      "indicator_name": "AP",
+      "unit": "mol H+ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.829,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "A4": {
+          "value": 0.0134,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "A5": {
+          "value": 0.0992,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C1": {
+          "value": 0.00491,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C2": {
+          "value": 0.0224,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C3": {
+          "value": 0.0915,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "D": {
+          "value": -0.105,
+          "page_number": 16,
+          "excerpt": "AP | mol H+ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        }
+      }
+    },
+    "ep_freshwater": {
+      "indicator_name": "EP-F",
+      "unit": "kg P eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0173,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        },
+        "A4": {
+          "value": 0.00000191,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        },
+        "A5": {
+          "value": 0.000527,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        },
+        "C1": {
+          "value": 4.73e-7,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        },
+        "C2": {
+          "value": 0.00000319,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        },
+        "C3": {
+          "value": 0.0000222,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        },
+        "D": {
+          "value": -0.000715,
+          "page_number": 16,
+          "excerpt": "EP-F | kg P eq. | 0.0173 | 1.91E-6 | 0.000527 | 4.73E-7 | 3.19E-6 | 0.0000222 | 0 | -0.000715"
+        }
+      }
+    },
+    "ep_marine": {
+      "indicator_name": "EP-M",
+      "unit": "kg N eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.112,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        },
+        "A4": {
+          "value": 0.00351,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        },
+        "A5": {
+          "value": 0.0332,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        },
+        "C1": {
+          "value": 0.00231,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        },
+        "C2": {
+          "value": 0.00587,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        },
+        "C3": {
+          "value": 0.0386,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        },
+        "D": {
+          "value": -0.0266,
+          "page_number": 16,
+          "excerpt": "EP-M | kg N eq. | 0.112 | 0.00351 | 0.0332 | 0.00231 | 0.00587 | 0.0386 | 0 | -0.0266"
+        }
+      }
+    },
+    "ep_terrestrial": {
+      "indicator_name": "EP-T",
+      "unit": "mol N eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 1.91,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        },
+        "A4": {
+          "value": 0.0392,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        },
+        "A5": {
+          "value": 0.384,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        },
+        "C1": {
+          "value": 0.0253,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        },
+        "C2": {
+          "value": 0.0655,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        },
+        "C3": {
+          "value": 0.422,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        },
+        "D": {
+          "value": -0.292,
+          "page_number": 16,
+          "excerpt": "EP-T | mol N eq. | 1.91 | 0.0392 | 0.384 | 0.0253 | 0.0655 | 0.422 | 0 | -0.292"
+        }
+      }
+    },
+    "pocp": {
+      "indicator_name": "POCP",
+      "unit": "kg NMVOC eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.523,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "A4": {
+          "value": 0.0148,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "A5": {
+          "value": 0.112,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C1": {
+          "value": 0.00748,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C2": {
+          "value": 0.0247,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C3": {
+          "value": 0.125,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "D": {
+          "value": -0.0931,
+          "page_number": 16,
+          "excerpt": "POCP | kg NMVOC eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        }
+      }
+    },
+    "adpe": {
+      "indicator_name": "ADPE",
+      "unit": "kg Sb eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0147,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "A4": {
+          "value": 8.67e-8,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "A5": {
+          "value": 0.00044,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C1": {
+          "value": 2.15e-8,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C2": {
+          "value": 1.45e-7,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C3": {
+          "value": 0.00000169,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "D": {
+          "value": -0.00000229,
+          "page_number": 16,
+          "excerpt": "ADPE | kg Sb eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        }
+      }
+    },
+    "adpf": {
+      "indicator_name": "ADPF",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 1029,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A4": {
+          "value": 33.5,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A5": {
+          "value": 125,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C1": {
+          "value": 6.89,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C2": {
+          "value": 56,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C3": {
+          "value": 121,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "D": {
+          "value": -243,
+          "page_number": 16,
+          "excerpt": "ADPF | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        }
+      }
+    },
+    "wdp": {
+      "indicator_name": "WDP",
+      "unit": "m³ equivalent deprived",
+      "modules": {
+        "A1-A3": {
+          "value": 26.3,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        },
+        "A4": {
+          "value": 0.0122,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        },
+        "A5": {
+          "value": 43.7,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        },
+        "C1": {
+          "value": 0.00925,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        },
+        "C2": {
+          "value": 0.0204,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        },
+        "C3": {
+          "value": 2.41,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        },
+        "D": {
+          "value": -32.6,
+          "page_number": 16,
+          "excerpt": "WDP | m³ equivalent deprived | 26.3 | 0.0122 | 43.7 | 0.00925 | 0.0204 | 2.41 | 0 | -32.6"
+        }
+      }
+    },
+    "pere": {
+      "indicator_name": "PERE",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 43.6,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "A4": {
+          "value": 0.0561,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "A5": {
+          "value": 6.43,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C1": {
+          "value": 0.0129,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C2": {
+          "value": 0.0937,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C3": {
+          "value": 4.42,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "D": {
+          "value": -23.4,
+          "page_number": 16,
+          "excerpt": "PERE | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        }
+      }
+    },
+    "perm": {
+      "indicator_name": "PERM",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "pert": {
+      "indicator_name": "PERT",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 43.6,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "A4": {
+          "value": 0.0561,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "A5": {
+          "value": 6.43,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C1": {
+          "value": 0.0129,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C2": {
+          "value": 0.0937,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C3": {
+          "value": 4.42,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        },
+        "D": {
+          "value": -23.4,
+          "page_number": 16,
+          "excerpt": "PERT | MJ | 43.6 | 0.0561 | 6.43 | 0.0129 | 0.0937 | 4.42 | 0 | -23.4"
+        }
+      }
+    },
+    "penre": {
+      "indicator_name": "PENRE",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 1038,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A4": {
+          "value": 33.5,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A5": {
+          "value": 125,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C1": {
+          "value": 6.89,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C2": {
+          "value": 56,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C3": {
+          "value": 121,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "D": {
+          "value": -243,
+          "page_number": 16,
+          "excerpt": "PENRE | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        }
+      }
+    },
+    "penrm": {
+      "indicator_name": "PENRM",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRM | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "penrt": {
+      "indicator_name": "PENRT",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 1038,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A4": {
+          "value": 33.5,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A5": {
+          "value": 125,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C1": {
+          "value": 6.89,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C2": {
+          "value": 56,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C3": {
+          "value": 121,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "D": {
+          "value": -243,
+          "page_number": 16,
+          "excerpt": "PENRT | MJ | 1038 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        }
+      }
+    },
+    "sm": {
+      "indicator_name": "SM",
+      "unit": "kg",
+      "modules": {
+        "A1-A3": {
+          "value": 167,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 5,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "SM | kg | 167 | 0 | 5.00 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "rsf": {
+      "indicator_name": "RSF",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 1.58,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 0.0475,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "RSF | MJ | 1.58 | 0 | 0.0475 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "nrsf": {
+      "indicator_name": "NRSF",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 34.6,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 1.04,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "NRSF | MJ | 34.6 | 0 | 1.04 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "fw": {
+      "indicator_name": "FW",
+      "unit": "m³",
+      "modules": {
+        "A1-A3": {
+          "value": 0.483,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        },
+        "A4": {
+          "value": 0.000426,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        },
+        "A5": {
+          "value": 0.668,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        },
+        "C1": {
+          "value": 0.000222,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        },
+        "C2": {
+          "value": 0.000712,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        },
+        "C3": {
+          "value": 0.0417,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        },
+        "D": {
+          "value": -0.784,
+          "page_number": 16,
+          "excerpt": "FW | m³ | 0.483 | 0.000426 | 0.668 | 0.000222 | 0.000712 | 0.0417 | 0 | -0.784"
+        }
+      }
+    },
+    "hwd": {
+      "indicator_name": "HWD",
+      "unit": "kg",
+      "modules": {
+        "A1-A3": {
+          "value": 0.946,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        },
+        "A4": {
+          "value": 0.00023,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        },
+        "A5": {
+          "value": 0.0289,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        },
+        "C1": {
+          "value": 0.0000113,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        },
+        "C2": {
+          "value": 0.000383,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        },
+        "C3": {
+          "value": 0.00077,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        },
+        "D": {
+          "value": -0.000841,
+          "page_number": 17,
+          "excerpt": "HWD | kg | 0.946 | 0.000230 | 0.0289 | 0.0000113 | 0.000383 | 0.000770 | 0 | -0.000841"
+        }
+      }
+    },
+    "nhwd": {
+      "indicator_name": "NHWD",
+      "unit": "kg",
+      "modules": {
+        "A1-A3": {
+          "value": 49.6,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        },
+        "A4": {
+          "value": 0.000861,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        },
+        "A5": {
+          "value": 71.1,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        },
+        "C1": {
+          "value": 0.00000219,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        },
+        "C2": {
+          "value": 0.00144,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        },
+        "C3": {
+          "value": 0.115,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        },
+        "D": {
+          "value": -0.235,
+          "page_number": 17,
+          "excerpt": "NHWD | kg | 49.6 | 0.000861 | 71.1 | 2.19E-6 | 0.00144 | 0.115 | 0 | -0.235"
+        }
+      }
+    },
+    "rwd": {
+      "indicator_name": "RWD",
+      "unit": "kg",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0000348,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        },
+        "A4": {
+          "value": 0.00000127,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        },
+        "A5": {
+          "value": 0.00000544,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        },
+        "C2": {
+          "value": 0.00000212,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        },
+        "C3": {
+          "value": 0.00000744,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        },
+        "D": {
+          "value": -0.000518,
+          "page_number": 17,
+          "excerpt": "RWD | kg | 0.0000348 | 1.27E-6 | 5.44E-6 | 0 | 2.12E-6 | 7.44E-6 | 0 | -0.000518"
+        }
+      }
+    },
+    "cru": {
+      "indicator_name": "CRU",
+      "unit": "kg",
+      "modules": {
+        "A1-A3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "CRU | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "mfr": {
+      "indicator_name": "MFR",
+      "unit": "kg",
+      "modules": {
+        "A1-A3": {
+          "value": 0.156,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        },
+        "A5": {
+          "value": 0.00467,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        },
+        "C3": {
+          "value": 2319,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFR | kg | 0.156 | 0 | 0.00467 | 0 | 0 | 2319 | 0 | 0"
+        }
+      }
+    },
+    "mfre": {
+      "indicator_name": "MFRE",
+      "unit": "kg",
+      "modules": {
+        "A1-A3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "MFRE | kg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "ee_e": {
+      "indicator_name": "EE - e",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - e | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "ee_t": {
+      "indicator_name": "EE - t",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "A5": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C1": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C2": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C3": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        },
+        "D": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "EE - t | MJ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0"
+        }
+      }
+    },
+    "gwp_ghg": {
+      "indicator_name": "GWP-GHG",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 146,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "A4": {
+          "value": 2.58,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "A5": {
+          "value": 12.9,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C1": {
+          "value": 0.522,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C2": {
+          "value": 4.31,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C3": {
+          "value": 10.4,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        },
+        "D": {
+          "value": -18.5,
+          "page_number": 17,
+          "excerpt": "GWP-GHG | kg CO₂ eq. | 146 | 2.58 | 12.9 | 0.522 | 4.31 | 10.4 | 0 | -18.5"
+        }
+      }
+    },
+    "gwp_ghg_ar5": {
+      "indicator_name": "GWP-GHG (AR5)",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 148,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        },
+        "A4": {
+          "value": 2.59,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        },
+        "A5": {
+          "value": 12.9,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        },
+        "C1": {
+          "value": 0.523,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        },
+        "C2": {
+          "value": 4.32,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        },
+        "C3": {
+          "value": 10.4,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        },
+        "D": {
+          "value": -18.5,
+          "page_number": 17,
+          "excerpt": "GWP-GHG (AR5) | kg CO₂ eq. | 148 | 2.59 | 12.9 | 0.523 | 4.32 | 10.4 | 0 | -18.5"
+        }
+      }
+    },
+    "pm": {
+      "indicator_name": "PM",
+      "unit": "disease incidence",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0000167,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "A4": {
+          "value": 2.34e-7,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "A5": {
+          "value": 0.00000232,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C1": {
+          "value": 1.41e-7,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C2": {
+          "value": 3.9e-7,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C3": {
+          "value": 0.00000236,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "D": {
+          "value": -0.00000166,
+          "page_number": 17,
+          "excerpt": "PM | disease incidence | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        }
+      }
+    },
+    "irp": {
+      "indicator_name": "IRP",
+      "unit": "kBq U-235 eq",
+      "modules": {
+        "A1-A3": {
+          "value": 370,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        },
+        "A4": {
+          "value": 0.00245,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        },
+        "A5": {
+          "value": 11.1,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        },
+        "C1": {
+          "value": 0.000526,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        },
+        "C2": {
+          "value": 0.00408,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        },
+        "C3": {
+          "value": 0.0126,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        },
+        "D": {
+          "value": -0.8,
+          "page_number": 17,
+          "excerpt": "IRP | kBq U-235 eq | 370 | 0.00245 | 11.1 | 0.000526 | 0.00408 | 0.0126 | 0 | -0.800"
+        }
+      }
+    },
+    "etp_fw": {
+      "indicator_name": "ETP-fw",
+      "unit": "CTUe",
+      "modules": {
+        "A1-A3": {
+          "value": 352,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        },
+        "A4": {
+          "value": 1.25,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        },
+        "A5": {
+          "value": 13.8,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        },
+        "C1": {
+          "value": 0.25,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        },
+        "C2": {
+          "value": 2.09,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        },
+        "C3": {
+          "value": 5.18,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        },
+        "D": {
+          "value": -33.5,
+          "page_number": 17,
+          "excerpt": "ETP-fw | CTUe | 352 | 1.25 | 13.8 | 0.250 | 2.09 | 5.18 | 0 | -33.5"
+        }
+      }
+    },
+    "htp_c": {
+      "indicator_name": "HTP-c",
+      "unit": "CTUh",
+      "modules": {
+        "A1-A3": {
+          "value": 1.92e-7,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        },
+        "A4": {
+          "value": 1.03e-10,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        },
+        "A5": {
+          "value": 6.2e-9,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        },
+        "C1": {
+          "value": 2.81e-11,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        },
+        "C2": {
+          "value": 1.73e-10,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        },
+        "C3": {
+          "value": 8.63e-10,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        },
+        "D": {
+          "value": -2.08e-9,
+          "page_number": 17,
+          "excerpt": "HTP-c | CTUh | 1.92E-7 | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0 | -2.08E-9"
+        }
+      }
+    },
+    "htp_nc": {
+      "indicator_name": "HTP-nc",
+      "unit": "CTUh",
+      "modules": {
+        "A1-A3": {
+          "value": 0.00000536,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        },
+        "A4": {
+          "value": 5.22e-9,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        },
+        "A5": {
+          "value": 1.74e-7,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        },
+        "C1": {
+          "value": 5.14e-10,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        },
+        "C2": {
+          "value": 8.72e-9,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        },
+        "C3": {
+          "value": 1.81e-8,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        },
+        "D": {
+          "value": -7.91e-8,
+          "page_number": 17,
+          "excerpt": "HTP-nc | CTUh | 5.36E-6 | 5.22E-9 | 1.74E-7 | 5.14E-10 | 8.72E-9 | 1.81E-8 | 0 | -7.91E-8"
+        }
+      }
+    },
+    "sqp": {
+      "indicator_name": "SQP",
+      "unit": "dimensionless",
+      "modules": {
+        "A1-A3": {
+          "value": 315,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        },
+        "A4": {
+          "value": 0.0499,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        },
+        "A5": {
+          "value": 19.1,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        },
+        "C1": {
+          "value": 0.0133,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        },
+        "C2": {
+          "value": 0.0833,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        },
+        "C3": {
+          "value": 31.8,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        },
+        "D": {
+          "value": -156,
+          "page_number": 17,
+          "excerpt": "SQP | dimensionless | 315 | 0.0499 | 19.1 | 0.0133 | 0.0833 | 31.8 | 0 | -156"
+        }
+      }
+    },
+    "gwp_a1": {
+      "indicator_name": "GWP (A1)",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 147,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "A4": {
+          "value": 2.58,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "A5": {
+          "value": 12.9,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C1": {
+          "value": 0.522,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C2": {
+          "value": 4.31,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C3": {
+          "value": 10.3,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        },
+        "D": {
+          "value": -18.5,
+          "page_number": 18,
+          "excerpt": "GWP (A1) | kg CO₂ eq. | 147 | 2.58 | 12.9 | 0.522 | 4.31 | 10.3 | 0 | -18.5"
+        }
+      }
+    },
+    "odp_a1": {
+      "indicator_name": "ODP (A1)",
+      "unit": "kg CFC 11 eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.00000133,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "A4": {
+          "value": 3.4e-8,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "A5": {
+          "value": 1.4e-7,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C1": {
+          "value": 7.8e-9,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C2": {
+          "value": 5.68e-8,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C3": {
+          "value": 1.32e-7,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        },
+        "D": {
+          "value": -9.01e-9,
+          "page_number": 18,
+          "excerpt": "ODP (A1) | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7 | 7.80E-9 | 5.68E-8 | 1.32E-7 | 0 | -9.01E-9"
+        }
+      }
+    },
+    "ap_a1": {
+      "indicator_name": "AP (A1)",
+      "unit": "kg SO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.829,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "A4": {
+          "value": 0.0134,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "A5": {
+          "value": 0.0992,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C1": {
+          "value": 0.00491,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C2": {
+          "value": 0.0224,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C3": {
+          "value": 0.0915,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        },
+        "D": {
+          "value": -0.105,
+          "page_number": 18,
+          "excerpt": "AP (A1) | kg SO₂ eq. | 0.829 | 0.0134 | 0.0992 | 0.00491 | 0.0224 | 0.0915 | 0 | -0.105"
+        }
+      }
+    },
+    "ep_a1": {
+      "indicator_name": "EP (A1)",
+      "unit": "kg PO₄³⁻ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0853,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        },
+        "A4": {
+          "value": 0.00122,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        },
+        "A5": {
+          "value": 0.0127,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        },
+        "C1": {
+          "value": 0.000779,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        },
+        "C2": {
+          "value": 0.00204,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        },
+        "C3": {
+          "value": 0.0131,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        },
+        "D": {
+          "value": -0.0113,
+          "page_number": 18,
+          "excerpt": "EP (A1) | kg PO₄³⁻ eq. | 0.0853 | 0.00122 | 0.0127 | 0.000779 | 0.00204 | 0.0131 | 0 | -0.0113"
+        }
+      }
+    },
+    "pocp_a1": {
+      "indicator_name": "POCP (A1)",
+      "unit": "kg C₂H₄ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.523,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "A4": {
+          "value": 0.0148,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "A5": {
+          "value": 0.112,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C1": {
+          "value": 0.00748,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C2": {
+          "value": 0.0247,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C3": {
+          "value": 0.125,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        },
+        "D": {
+          "value": -0.0931,
+          "page_number": 18,
+          "excerpt": "POCP (A1) | kg C₂H₄ eq. | 0.523 | 0.0148 | 0.112 | 0.00748 | 0.0247 | 0.125 | 0 | -0.0931"
+        }
+      }
+    },
+    "adpe_a1": {
+      "indicator_name": "ADPE (A1)",
+      "unit": "kg SO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0147,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "A4": {
+          "value": 8.67e-8,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "A5": {
+          "value": 0.00044,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C1": {
+          "value": 2.15e-8,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C2": {
+          "value": 1.45e-7,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C3": {
+          "value": 0.00000169,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        },
+        "D": {
+          "value": -0.00000229,
+          "page_number": 18,
+          "excerpt": "ADPE (A1) | kg SO₂ eq. | 0.0147 | 8.67E-8 | 0.000440 | 2.15E-8 | 1.45E-7 | 1.69E-6 | 0 | -2.29E-6"
+        }
+      }
+    },
+    "adpf_a1": {
+      "indicator_name": "ADPF (A1)",
+      "unit": "MJ",
+      "modules": {
+        "A1-A3": {
+          "value": 1029,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A4": {
+          "value": 33.5,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "A5": {
+          "value": 125,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C1": {
+          "value": 6.89,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C2": {
+          "value": 56,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C3": {
+          "value": 121,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        },
+        "D": {
+          "value": -243,
+          "page_number": 18,
+          "excerpt": "ADPF (A1) | MJ | 1029 | 33.5 | 125 | 6.89 | 56.0 | 121 | 0 | -243"
+        }
+      }
+    },
+    "htc_gs": {
+      "indicator_name": "HTc (GS)",
+      "unit": "CTUh",
+      "modules": {
+        "A1-A3": {
+          "value": 6.05e-9,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        },
+        "A4": {
+          "value": 2.41e-11,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        },
+        "A5": {
+          "value": 2.58e-10,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        },
+        "C1": {
+          "value": 3.6e-12,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        },
+        "C2": {
+          "value": 4.03e-11,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        },
+        "C3": {
+          "value": 1.04e-10,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        },
+        "D": {
+          "value": -4.73e-10,
+          "page_number": 18,
+          "excerpt": "HTc (GS) | CTUh | 6.05E-9 | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0 | -4.73E-10"
+        }
+      }
+    },
+    "htnc_gs": {
+      "indicator_name": "HTnc (GS)",
+      "unit": "CTUh",
+      "modules": {
+        "A1-A3": {
+          "value": 2.11e-10,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        },
+        "A4": {
+          "value": 2.65e-12,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        },
+        "A5": {
+          "value": 9.11e-12,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        },
+        "C1": {
+          "value": 2.08e-13,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        },
+        "C2": {
+          "value": 4.42e-12,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        },
+        "C3": {
+          "value": 4.74e-12,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        },
+        "D": {
+          "value": -2.19e-11,
+          "page_number": 18,
+          "excerpt": "HTnc (GS) | CTUh | 2.11E-10 | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0 | -2.19E-11"
+        }
+      }
+    },
+    "lu_gs": {
+      "indicator_name": "LU (GS)",
+      "unit": "kg C deficit eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 57.8,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        },
+        "A4": {
+          "value": 0.0275,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        },
+        "A5": {
+          "value": 2.06,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        },
+        "C1": {
+          "value": 0.00637,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        },
+        "C2": {
+          "value": 0.0459,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        },
+        "C3": {
+          "value": 2.97,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        },
+        "D": {
+          "value": -494,
+          "page_number": 18,
+          "excerpt": "LU (GS) | kg C deficit eq. | 57.8 | 0.0275 | 2.06 | 0.00637 | 0.0459 | 2.97 | 0 | -494"
+        }
+      }
+    },
+    "ir_gs": {
+      "indicator_name": "IR (GS)",
+      "unit": "kBq U235 eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.141,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        },
+        "A4": {
+          "value": 0.00246,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        },
+        "A5": {
+          "value": 0.0121,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        },
+        "C1": {
+          "value": 0.000526,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        },
+        "C2": {
+          "value": 0.0041,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        },
+        "C3": {
+          "value": 0.0127,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        },
+        "D": {
+          "value": -0.805,
+          "page_number": 18,
+          "excerpt": "IR (GS) | kBq U235 eq. | 0.141 | 0.00246 | 0.0121 | 0.000526 | 0.00410 | 0.0127 | 0 | -0.805"
+        }
+      }
+    },
+    "pm_gs": {
+      "indicator_name": "PM (GS)",
+      "unit": "kg PM2.5 eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0000167,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "A4": {
+          "value": 2.34e-7,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "A5": {
+          "value": 0.00000232,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C1": {
+          "value": 1.41e-7,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C2": {
+          "value": 3.9e-7,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C3": {
+          "value": 0.00000236,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        },
+        "D": {
+          "value": -0.00000166,
+          "page_number": 18,
+          "excerpt": "PM (GS) | kg PM2.5 eq. | 0.0000167 | 2.34E-7 | 2.32E-6 | 1.41E-7 | 3.90E-7 | 2.36E-6 | 0 | -1.66E-6"
+        }
+      }
+    },
+    "wsi_gs": {
+      "indicator_name": "WSI (GS)",
+      "unit": "m³",
+      "modules": {
+        "A1-A3": {
+          "value": 1.36,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        },
+        "A4": {
+          "value": 0.000415,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        },
+        "A5": {
+          "value": 2.28,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        },
+        "C1": {
+          "value": 0.000309,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        },
+        "C2": {
+          "value": 0.000693,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        },
+        "C3": {
+          "value": 0.122,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        },
+        "C4": {
+          "value": 0,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        },
+        "D": {
+          "value": -1.04,
+          "page_number": 18,
+          "excerpt": "WSI (GS) | m³ | 1.36 | 0.000415 | 2.28 | 0.000309 | 0.000693 | 0.122 | 0 | -1.04"
+        }
+      }
+    }
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-07-03T08:14:30.007Z",
+    "markdown_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf/markdown.md",
+    "segment_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf/segment.json",
+    "product_info_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10
+    ],
+    "environmental_impact_pages": [
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "model": "deepseek-v4-pro:cloud",
+    "gateway": "cloudflare-ai-gateway"
+  }
+}

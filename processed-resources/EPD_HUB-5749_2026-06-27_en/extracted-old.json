@@ -1,0 +1,185 @@
+{
+  "product_type": "Ready-mix concrete",
+  "epd_program_operator": "EPD Hub",
+  "epd_standards": [
+    "EN 15804+A2",
+    "ISO 14025",
+    "ISO 14040",
+    "ISO 14044"
+  ],
+  "manufacturer": {
+    "name": "Entire Concrete"
+  },
+  "manufacturing_sites": [
+    "Cameron Park",
+    "Singleton"
+  ],
+  "product_characteristics": {
+    "minerals_content_mass_percent": {
+      "value": 100,
+      "page_number": 5,
+      "excerpt": "| Minerals              | 100             | Australia and Global |"
+    },
+    "metals_content_mass_percent": {
+      "value": 0,
+      "page_number": 5,
+      "excerpt": "| Metals                | 0               |                      |"
+    },
+    "fossil_materials_content_mass_percent": {
+      "value": 0,
+      "page_number": 5,
+      "excerpt": "| Fossil materials      | 0               |                      |"
+    },
+    "bio_based_materials_content_mass_percent": {
+      "value": 0,
+      "page_number": 5,
+      "excerpt": "| Bio-based materials   | 0               |                      |"
+    },
+    "biogenic_carbon_content_kg_C": {
+      "value": 0,
+      "page_number": 5,
+      "excerpt": "| Biogenic carbon content in product, kg C | 0 |"
+    }
+  },
+  "environmental_impacts": {
+    "gwp_total": {
+      "indicator_name": "GWP-total, A1-A3",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1-A3": {
+          "value": 208,
+          "page_number": 2,
+          "excerpt": "GWP-total, A1-A3 (kg CO₂e) | 208"
+        }
+      }
+    },
+    "gwp_fossil": {
+      "indicator_name": "GWP-fossil, A1-A3",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1-A3": {
+          "value": 208,
+          "page_number": 2,
+          "excerpt": "GWP-fossil, A1-A3 (kg CO₂e) | 208"
+        }
+      }
+    },
+    "secondary_material_inputs": {
+      "indicator_name": "Secondary material, inputs",
+      "unit": "%",
+      "modules": {
+        "A1-A3": {
+          "value": 5.58,
+          "page_number": 2,
+          "excerpt": "Secondary material, inputs (%) | 5.58"
+        }
+      }
+    },
+    "secondary_material_outputs": {
+      "indicator_name": "Secondary material, outputs",
+      "unit": "%",
+      "modules": {
+        "A1-A3": {
+          "value": 70,
+          "page_number": 2,
+          "excerpt": "Secondary material, outputs (%) | 70"
+        }
+      }
+    },
+    "total_energy_use": {
+      "indicator_name": "Total energy use, A1-A3",
+      "unit": "kWh",
+      "modules": {
+        "A1-A3": {
+          "value": 417,
+          "page_number": 2,
+          "excerpt": "Total energy use, A1-A3 (kWh) | 417"
+        }
+      }
+    },
+    "net_freshwater_use": {
+      "indicator_name": "Net freshwater use, A1-A3",
+      "unit": "m³",
+      "modules": {
+        "A1-A3": {
+          "value": 0.504,
+          "page_number": 2,
+          "excerpt": "Net freshwater use, A1-A3 (m³) | 5.04E-01"
+        }
+      }
+    },
+    "gwp_ghg": {
+      "indicator_name": "GWP-GHG 9)",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 175,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | 1.75E+02"
+        },
+        "A2": {
+          "value": 29.8,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | 1.75E+02 | 2.98E+01"
+        },
+        "A3": {
+          "value": 3.67,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | 1.75E+02 | 2.98E+01 | 3.67E+00"
+        },
+        "A1-A3": {
+          "value": 209,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | 1.75E+02 | 2.98E+01 | 3.67E+00 | 2.09E+02"
+        },
+        "C1": {
+          "value": 4.35,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | ... | 4.35E+00 | 1.23E+01 | 7.00E+00 | 4.28E+00 | -1.18E+01"
+        },
+        "C2": {
+          "value": 12.3,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | ... | 4.35E+00 | 1.23E+01 | 7.00E+00 | 4.28E+00 | -1.18E+01"
+        },
+        "C3": {
+          "value": 7,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | ... | 4.35E+00 | 1.23E+01 | 7.00E+00 | 4.28E+00 | -1.18E+01"
+        },
+        "C4": {
+          "value": 4.28,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | ... | 4.35E+00 | 1.23E+01 | 7.00E+00 | 4.28E+00 | -1.18E+01"
+        },
+        "D": {
+          "value": -11.8,
+          "page_number": 11,
+          "excerpt": "GWP-GHG 9) | kg CO₂e | ... | 4.35E+00 | 1.23E+01 | 7.00E+00 | 4.28E+00 | -1.18E+01"
+        }
+      }
+    }
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-07-03T05:46:20.103Z",
+    "markdown_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD_HUB-5749_2026-06-27_en/markdown.md",
+    "segment_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD_HUB-5749_2026-06-27_en/segment.json",
+    "product_info_pages": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "environmental_impact_pages": [
+      1,
+      2,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "model": "kimi-k2.6:cloud",
+    "gateway": "cloudflare-ai-gateway"
+  }
+}

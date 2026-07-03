@@ -1,0 +1,92 @@
+{
+  "segments": [
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        20
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        21,
+        22
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        23
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        24
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        25
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        26
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        27,
+        28
+      ],
+      "confidence_category": "high"
+    }
+  ]
+}

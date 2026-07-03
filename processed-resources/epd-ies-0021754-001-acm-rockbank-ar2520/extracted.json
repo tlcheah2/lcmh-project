@@ -1,0 +1,832 @@
+{
+  "epd_id": "EPD-IES-0021754:001",
+  "product_name": "AR2520 pre-mixed concrete",
+  "product_type": "Ready-mix concrete",
+  "epd_program_operator": "EPD International AB",
+  "epd_standards": [
+    "ISO 14025:2006",
+    "EN 15804:2012+A2:2019/AC:2021",
+    "PCR 2019:14 Construction Products v2.0.1",
+    "c-PCR-003 Concrete and concrete elements v2025-04-08"
+  ],
+  "epd_publication_date": "2025-08-15",
+  "epd_valid_until_date": "2030-08-15",
+  "manufacturer": {
+    "name": "Aurora Construction Materials Epping Pty. Ltd.",
+    "address": "Suite 2 Level 1, 20 English Street, Essendon Fields, VIC, 3041-Australia",
+    "contact_email": "orders@acm.com.au",
+    "website": "www.acm.com.au"
+  },
+  "manufacturing_location": "Rockbank, Melbourne, Victoria, Australia",
+  "manufacturing_sites": [
+    "Quarry and concrete operations at 335A O’Herns Road Epping, 3076",
+    "Quarry and concrete operations at 2-50 Meskos Road, Rockbank, 3335",
+    "Quarry operations at 61 Minton Street, Beveridge, 3753",
+    "Concrete operations at 1470 Ballarto Road, Clyde, 3978"
+  ],
+  "product_characteristics": {
+    "strength_grade_mpa": {
+      "value": 25,
+      "page_number": 5,
+      "excerpt": "25MPa"
+    },
+    "density_kg_per_m3": {
+      "value": 2270,
+      "page_number": 5,
+      "excerpt": "2 270 kg/m³"
+    }
+  },
+  "environmental_impacts": {
+    "gwp_total": {
+      "indicator_name": "GWP-total",
+      "unit": "kg CO₂-eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 140,
+          "page_number": 18,
+          "excerpt": "GWP-total | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 8.03E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C1": {
+          "value": 12,
+          "page_number": 18,
+          "excerpt": "GWP-total | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 8.03E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C2": {
+          "value": 14.5,
+          "page_number": 18,
+          "excerpt": "GWP-total | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 8.03E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C3": {
+          "value": 8.03,
+          "page_number": 18,
+          "excerpt": "GWP-total | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 8.03E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C4": {
+          "value": 0.861,
+          "page_number": 18,
+          "excerpt": "GWP-total | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 8.03E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "D": {
+          "value": -9.79,
+          "page_number": 18,
+          "excerpt": "GWP-total | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 8.03E+00 | 8.61E-01 | -9.79E+00"
+        }
+      }
+    },
+    "gwp_fossil": {
+      "indicator_name": "GWP-fossil",
+      "unit": "kg CO₂-eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 140,
+          "page_number": 18,
+          "excerpt": "GWP-fossil | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 7.82E+00 | 8.61E-01 | -9.77E+00"
+        },
+        "C1": {
+          "value": 12,
+          "page_number": 18,
+          "excerpt": "GWP-fossil | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 7.82E+00 | 8.61E-01 | -9.77E+00"
+        },
+        "C2": {
+          "value": 14.5,
+          "page_number": 18,
+          "excerpt": "GWP-fossil | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 7.82E+00 | 8.61E-01 | -9.77E+00"
+        },
+        "C3": {
+          "value": 7.82,
+          "page_number": 18,
+          "excerpt": "GWP-fossil | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 7.82E+00 | 8.61E-01 | -9.77E+00"
+        },
+        "C4": {
+          "value": 0.861,
+          "page_number": 18,
+          "excerpt": "GWP-fossil | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 7.82E+00 | 8.61E-01 | -9.77E+00"
+        },
+        "D": {
+          "value": -9.77,
+          "page_number": 18,
+          "excerpt": "GWP-fossil | kg CO₂-eq. | 1.40E+02 | 1.20E+01 | 1.45E+01 | 7.82E+00 | 8.61E-01 | -9.77E+00"
+        }
+      }
+    },
+    "gwp_biogenic": {
+      "indicator_name": "GWP-biogenic",
+      "unit": "kg CO₂-eq.",
+      "modules": {
+        "A1-A3": {
+          "value": -0.24,
+          "page_number": 18,
+          "excerpt": "GWP-biogenic | kg CO₂-eq. | -2.40E-01 | 7.97E-04 | 8.98E-04 | 2.09E-01 | 6.95E-05 | -1.92E-02"
+        },
+        "C1": {
+          "value": 0.000797,
+          "page_number": 18,
+          "excerpt": "GWP-biogenic | kg CO₂-eq. | -2.40E-01 | 7.97E-04 | 8.98E-04 | 2.09E-01 | 6.95E-05 | -1.92E-02"
+        },
+        "C2": {
+          "value": 0.000898,
+          "page_number": 18,
+          "excerpt": "GWP-biogenic | kg CO₂-eq. | -2.40E-01 | 7.97E-04 | 8.98E-04 | 2.09E-01 | 6.95E-05 | -1.92E-02"
+        },
+        "C3": {
+          "value": 0.209,
+          "page_number": 18,
+          "excerpt": "GWP-biogenic | kg CO₂-eq. | -2.40E-01 | 7.97E-04 | 8.98E-04 | 2.09E-01 | 6.95E-05 | -1.92E-02"
+        },
+        "C4": {
+          "value": 0.0000695,
+          "page_number": 18,
+          "excerpt": "GWP-biogenic | kg CO₂-eq. | -2.40E-01 | 7.97E-04 | 8.98E-04 | 2.09E-01 | 6.95E-05 | -1.92E-02"
+        },
+        "D": {
+          "value": -0.0192,
+          "page_number": 18,
+          "excerpt": "GWP-biogenic | kg CO₂-eq. | -2.40E-01 | 7.97E-04 | 8.98E-04 | 2.09E-01 | 6.95E-05 | -1.92E-02"
+        }
+      }
+    },
+    "gwp_luluc": {
+      "indicator_name": "GWP-luluc",
+      "unit": "kg CO₂-eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.0119,
+          "page_number": 18,
+          "excerpt": "GWP-luluc | kg CO₂-eq. | 1.19E-02 | 5.76E-06 | 6.86E-06 | 3.63E-06 | 4.18E-07 | -1.51E-06"
+        },
+        "C1": {
+          "value": 0.00000576,
+          "page_number": 18,
+          "excerpt": "GWP-luluc | kg CO₂-eq. | 1.19E-02 | 5.76E-06 | 6.86E-06 | 3.63E-06 | 4.18E-07 | -1.51E-06"
+        },
+        "C2": {
+          "value": 0.00000686,
+          "page_number": 18,
+          "excerpt": "GWP-luluc | kg CO₂-eq. | 1.19E-02 | 5.76E-06 | 6.86E-06 | 3.63E-06 | 4.18E-07 | -1.51E-06"
+        },
+        "C3": {
+          "value": 0.00000363,
+          "page_number": 18,
+          "excerpt": "GWP-luluc | kg CO₂-eq. | 1.19E-02 | 5.76E-06 | 6.86E-06 | 3.63E-06 | 4.18E-07 | -1.51E-06"
+        },
+        "C4": {
+          "value": 4.18e-7,
+          "page_number": 18,
+          "excerpt": "GWP-luluc | kg CO₂-eq. | 1.19E-02 | 5.76E-06 | 6.86E-06 | 3.63E-06 | 4.18E-07 | -1.51E-06"
+        },
+        "D": {
+          "value": -0.00000151,
+          "page_number": 18,
+          "excerpt": "GWP-luluc | kg CO₂-eq. | 1.19E-02 | 5.76E-06 | 6.86E-06 | 3.63E-06 | 4.18E-07 | -1.51E-06"
+        }
+      }
+    },
+    "odp": {
+      "indicator_name": "ODP",
+      "unit": "kg CFC11-eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.00000609,
+          "page_number": 18,
+          "excerpt": "ODP | kg CFC11-eq. | 6.09E-06 | 1.92E-06 | 2.29E-06 | 9.88E-07 | 1.41E-07 | -3.34E-07"
+        },
+        "C1": {
+          "value": 0.00000192,
+          "page_number": 18,
+          "excerpt": "ODP | kg CFC11-eq. | 6.09E-06 | 1.92E-06 | 2.29E-06 | 9.88E-07 | 1.41E-07 | -3.34E-07"
+        },
+        "C2": {
+          "value": 0.00000229,
+          "page_number": 18,
+          "excerpt": "ODP | kg CFC11-eq. | 6.09E-06 | 1.92E-06 | 2.29E-06 | 9.88E-07 | 1.41E-07 | -3.34E-07"
+        },
+        "C3": {
+          "value": 9.88e-7,
+          "page_number": 18,
+          "excerpt": "ODP | kg CFC11-eq. | 6.09E-06 | 1.92E-06 | 2.29E-06 | 9.88E-07 | 1.41E-07 | -3.34E-07"
+        },
+        "C4": {
+          "value": 1.41e-7,
+          "page_number": 18,
+          "excerpt": "ODP | kg CFC11-eq. | 6.09E-06 | 1.92E-06 | 2.29E-06 | 9.88E-07 | 1.41E-07 | -3.34E-07"
+        },
+        "D": {
+          "value": -3.34e-7,
+          "page_number": 18,
+          "excerpt": "ODP | kg CFC11-eq. | 6.09E-06 | 1.92E-06 | 2.29E-06 | 9.88E-07 | 1.41E-07 | -3.34E-07"
+        }
+      }
+    },
+    "ap": {
+      "indicator_name": "AP",
+      "unit": "mol H+ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 1.01,
+          "page_number": 18,
+          "excerpt": "AP | mol H+ eq. | 1.01E+00 | 1.32E-01 | 1.28E-01 | 2.15E-02 | 2.06E-03 | -3.57E-02"
+        },
+        "C1": {
+          "value": 0.132,
+          "page_number": 18,
+          "excerpt": "AP | mol H+ eq. | 1.01E+00 | 1.32E-01 | 1.28E-01 | 2.15E-02 | 2.06E-03 | -3.57E-02"
+        },
+        "C2": {
+          "value": 0.128,
+          "page_number": 18,
+          "excerpt": "AP | mol H+ eq. | 1.01E+00 | 1.32E-01 | 1.28E-01 | 2.15E-02 | 2.06E-03 | -3.57E-02"
+        },
+        "C3": {
+          "value": 0.0215,
+          "page_number": 18,
+          "excerpt": "AP | mol H+ eq. | 1.01E+00 | 1.32E-01 | 1.28E-01 | 2.15E-02 | 2.06E-03 | -3.57E-02"
+        },
+        "C4": {
+          "value": 0.00206,
+          "page_number": 18,
+          "excerpt": "AP | mol H+ eq. | 1.01E+00 | 1.32E-01 | 1.28E-01 | 2.15E-02 | 2.06E-03 | -3.57E-02"
+        },
+        "D": {
+          "value": -0.0357,
+          "page_number": 18,
+          "excerpt": "AP | mol H+ eq. | 1.01E+00 | 1.32E-01 | 1.28E-01 | 2.15E-02 | 2.06E-03 | -3.57E-02"
+        }
+      }
+    },
+    "ep_freshwater": {
+      "indicator_name": "EP-freshwater",
+      "unit": "kg P eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.000514,
+          "page_number": 18,
+          "excerpt": "EP-freshwater | kg P eq. | 5.14E-04 | 1.60E-06 | 8.73E-07 | 5.80E-06 | 1.17E-07 | -7.03E-06"
+        },
+        "C1": {
+          "value": 0.0000016,
+          "page_number": 18,
+          "excerpt": "EP-freshwater | kg P eq. | 5.14E-04 | 1.60E-06 | 8.73E-07 | 5.80E-06 | 1.17E-07 | -7.03E-06"
+        },
+        "C2": {
+          "value": 8.73e-7,
+          "page_number": 18,
+          "excerpt": "EP-freshwater | kg P eq. | 5.14E-04 | 1.60E-06 | 8.73E-07 | 5.80E-06 | 1.17E-07 | -7.03E-06"
+        },
+        "C3": {
+          "value": 0.0000058,
+          "page_number": 18,
+          "excerpt": "EP-freshwater | kg P eq. | 5.14E-04 | 1.60E-06 | 8.73E-07 | 5.80E-06 | 1.17E-07 | -7.03E-06"
+        },
+        "C4": {
+          "value": 1.17e-7,
+          "page_number": 18,
+          "excerpt": "EP-freshwater | kg P eq. | 5.14E-04 | 1.60E-06 | 8.73E-07 | 5.80E-06 | 1.17E-07 | -7.03E-06"
+        },
+        "D": {
+          "value": -0.00000703,
+          "page_number": 18,
+          "excerpt": "EP-freshwater | kg P eq. | 5.14E-04 | 1.60E-06 | 8.73E-07 | 5.80E-06 | 1.17E-07 | -7.03E-06"
+        }
+      }
+    },
+    "ep_marine": {
+      "indicator_name": "EP-marine",
+      "unit": "kg N eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.185,
+          "page_number": 18,
+          "excerpt": "EP-marine | kg N eq. | 1.85E-01 | 5.75E-02 | 4.02E-02 | 3.83E-03 | 3.71E-04 | -5.98E-03"
+        },
+        "C1": {
+          "value": 0.0575,
+          "page_number": 18,
+          "excerpt": "EP-marine | kg N eq. | 1.85E-01 | 5.75E-02 | 4.02E-02 | 3.83E-03 | 3.71E-04 | -5.98E-03"
+        },
+        "C2": {
+          "value": 0.0402,
+          "page_number": 18,
+          "excerpt": "EP-marine | kg N eq. | 1.85E-01 | 5.75E-02 | 4.02E-02 | 3.83E-03 | 3.71E-04 | -5.98E-03"
+        },
+        "C3": {
+          "value": 0.00383,
+          "page_number": 18,
+          "excerpt": "EP-marine | kg N eq. | 1.85E-01 | 5.75E-02 | 4.02E-02 | 3.83E-03 | 3.71E-04 | -5.98E-03"
+        },
+        "C4": {
+          "value": 0.000371,
+          "page_number": 18,
+          "excerpt": "EP-marine | kg N eq. | 1.85E-01 | 5.75E-02 | 4.02E-02 | 3.83E-03 | 3.71E-04 | -5.98E-03"
+        },
+        "D": {
+          "value": -0.00598,
+          "page_number": 18,
+          "excerpt": "EP-marine | kg N eq. | 1.85E-01 | 5.75E-02 | 4.02E-02 | 3.83E-03 | 3.71E-04 | -5.98E-03"
+        }
+      }
+    },
+    "ep_terrestrial": {
+      "indicator_name": "EP-terrestrial",
+      "unit": "mol N eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 2.05,
+          "page_number": 18,
+          "excerpt": "EP-terrestrial | mol N eq. | 2.05E+00 | 6.31E-01 | 4.40E-01 | 4.18E-02 | 4.05E-03 | -6.48E-02"
+        },
+        "C1": {
+          "value": 0.631,
+          "page_number": 18,
+          "excerpt": "EP-terrestrial | mol N eq. | 2.05E+00 | 6.31E-01 | 4.40E-01 | 4.18E-02 | 4.05E-03 | -6.48E-02"
+        },
+        "C2": {
+          "value": 0.44,
+          "page_number": 18,
+          "excerpt": "EP-terrestrial | mol N eq. | 2.05E+00 | 6.31E-01 | 4.40E-01 | 4.18E-02 | 4.05E-03 | -6.48E-02"
+        },
+        "C3": {
+          "value": 0.0418,
+          "page_number": 18,
+          "excerpt": "EP-terrestrial | mol N eq. | 2.05E+00 | 6.31E-01 | 4.40E-01 | 4.18E-02 | 4.05E-03 | -6.48E-02"
+        },
+        "C4": {
+          "value": 0.00405,
+          "page_number": 18,
+          "excerpt": "EP-terrestrial | mol N eq. | 2.05E+00 | 6.31E-01 | 4.40E-01 | 4.18E-02 | 4.05E-03 | -6.48E-02"
+        },
+        "D": {
+          "value": -0.0648,
+          "page_number": 18,
+          "excerpt": "EP-terrestrial | mol N eq. | 2.05E+00 | 6.31E-01 | 4.40E-01 | 4.18E-02 | 4.05E-03 | -6.48E-02"
+        }
+      }
+    },
+    "pocp": {
+      "indicator_name": "POCP",
+      "unit": "kg NMVOC eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.515,
+          "page_number": 18,
+          "excerpt": "POCP | kg NMVOC eq. | 5.15E-01 | 1.68E-01 | 1.07E-01 | 1.12E-02 | 1.09E-03 | -1.70E-02"
+        },
+        "C1": {
+          "value": 0.168,
+          "page_number": 18,
+          "excerpt": "POCP | kg NMVOC eq. | 5.15E-01 | 1.68E-01 | 1.07E-01 | 1.12E-02 | 1.09E-03 | -1.70E-02"
+        },
+        "C2": {
+          "value": 0.107,
+          "page_number": 18,
+          "excerpt": "POCP | kg NMVOC eq. | 5.15E-01 | 1.68E-01 | 1.07E-01 | 1.12E-02 | 1.09E-03 | -1.70E-02"
+        },
+        "C3": {
+          "value": 0.0112,
+          "page_number": 18,
+          "excerpt": "POCP | kg NMVOC eq. | 5.15E-01 | 1.68E-01 | 1.07E-01 | 1.12E-02 | 1.09E-03 | -1.70E-02"
+        },
+        "C4": {
+          "value": 0.00109,
+          "page_number": 18,
+          "excerpt": "POCP | kg NMVOC eq. | 5.15E-01 | 1.68E-01 | 1.07E-01 | 1.12E-02 | 1.09E-03 | -1.70E-02"
+        },
+        "D": {
+          "value": -0.017,
+          "page_number": 18,
+          "excerpt": "POCP | kg NMVOC eq. | 5.15E-01 | 1.68E-01 | 1.07E-01 | 1.12E-02 | 1.09E-03 | -1.70E-02"
+        }
+      }
+    },
+    "adp_minerals_metals": {
+      "indicator_name": "ADP minerals & metals",
+      "unit": "kg Sb eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.00000335,
+          "page_number": 18,
+          "excerpt": "ADP minerals & metals¹ | kg Sb eq. | 3.35E-06 | 1.42E-08 | 1.69E-08 | 1.94E-06 | 1.01E-09 | -1.43E-06"
+        },
+        "C1": {
+          "value": 1.42e-8,
+          "page_number": 18,
+          "excerpt": "ADP minerals & metals¹ | kg Sb eq. | 3.35E-06 | 1.42E-08 | 1.69E-08 | 1.94E-06 | 1.01E-09 | -1.43E-06"
+        },
+        "C2": {
+          "value": 1.69e-8,
+          "page_number": 18,
+          "excerpt": "ADP minerals & metals¹ | kg Sb eq. | 3.35E-06 | 1.42E-08 | 1.69E-08 | 1.94E-06 | 1.01E-09 | -1.43E-06"
+        },
+        "C3": {
+          "value": 0.00000194,
+          "page_number": 18,
+          "excerpt": "ADP minerals & metals¹ | kg Sb eq. | 3.35E-06 | 1.42E-08 | 1.69E-08 | 1.94E-06 | 1.01E-09 | -1.43E-06"
+        },
+        "C4": {
+          "value": 1.01e-9,
+          "page_number": 18,
+          "excerpt": "ADP minerals & metals¹ | kg Sb eq. | 3.35E-06 | 1.42E-08 | 1.69E-08 | 1.94E-06 | 1.01E-09 | -1.43E-06"
+        },
+        "D": {
+          "value": -0.00000143,
+          "page_number": 18,
+          "excerpt": "ADP minerals & metals¹ | kg Sb eq. | 3.35E-06 | 1.42E-08 | 1.69E-08 | 1.94E-06 | 1.01E-09 | -1.43E-06"
+        }
+      }
+    },
+    "adp_fossil": {
+      "indicator_name": "ADP fossil",
+      "unit": "MJ (NCV)",
+      "modules": {
+        "A1-A3": {
+          "value": 1200,
+          "page_number": 18,
+          "excerpt": "ADP fossil¹ | MJ (NCV) | 1.20E+03 | 1.68E+02 | 2.00E+02 | 1.12E+02 | 1.23E+01 | -1.40E+02"
+        },
+        "C1": {
+          "value": 168,
+          "page_number": 18,
+          "excerpt": "ADP fossil¹ | MJ (NCV) | 1.20E+03 | 1.68E+02 | 2.00E+02 | 1.12E+02 | 1.23E+01 | -1.40E+02"
+        },
+        "C2": {
+          "value": 200,
+          "page_number": 18,
+          "excerpt": "ADP fossil¹ | MJ (NCV) | 1.20E+03 | 1.68E+02 | 2.00E+02 | 1.12E+02 | 1.23E+01 | -1.40E+02"
+        },
+        "C3": {
+          "value": 112,
+          "page_number": 18,
+          "excerpt": "ADP fossil¹ | MJ (NCV) | 1.20E+03 | 1.68E+02 | 2.00E+02 | 1.12E+02 | 1.23E+01 | -1.40E+02"
+        },
+        "C4": {
+          "value": 12.3,
+          "page_number": 18,
+          "excerpt": "ADP fossil¹ | MJ (NCV) | 1.20E+03 | 1.68E+02 | 2.00E+02 | 1.12E+02 | 1.23E+01 | -1.40E+02"
+        },
+        "D": {
+          "value": -140,
+          "page_number": 18,
+          "excerpt": "ADP fossil¹ | MJ (NCV) | 1.20E+03 | 1.68E+02 | 2.00E+02 | 1.12E+02 | 1.23E+01 | -1.40E+02"
+        }
+      }
+    },
+    "wdp": {
+      "indicator_name": "WDP",
+      "unit": "m³ world eq. deprived",
+      "modules": {
+        "A1-A3": {
+          "value": 532,
+          "page_number": 18,
+          "excerpt": "WDP¹ | m³ world eq. deprived | 5.32E+02 | 1.06E+00 | 1.26E+00 | 1.14E+00 | 7.74E-02 | -6.53E+01"
+        },
+        "C1": {
+          "value": 1.06,
+          "page_number": 18,
+          "excerpt": "WDP¹ | m³ world eq. deprived | 5.32E+02 | 1.06E+00 | 1.26E+00 | 1.14E+00 | 7.74E-02 | -6.53E+01"
+        },
+        "C2": {
+          "value": 1.26,
+          "page_number": 18,
+          "excerpt": "WDP¹ | m³ world eq. deprived | 5.32E+02 | 1.06E+00 | 1.26E+00 | 1.14E+00 | 7.74E-02 | -6.53E+01"
+        },
+        "C3": {
+          "value": 1.14,
+          "page_number": 18,
+          "excerpt": "WDP¹ | m³ world eq. deprived | 5.32E+02 | 1.06E+00 | 1.26E+00 | 1.14E+00 | 7.74E-02 | -6.53E+01"
+        },
+        "C4": {
+          "value": 0.0774,
+          "page_number": 18,
+          "excerpt": "WDP¹ | m³ world eq. deprived | 5.32E+02 | 1.06E+00 | 1.26E+00 | 1.14E+00 | 7.74E-02 | -6.53E+01"
+        },
+        "D": {
+          "value": -65.3,
+          "page_number": 18,
+          "excerpt": "WDP¹ | m³ world eq. deprived | 5.32E+02 | 1.06E+00 | 1.26E+00 | 1.14E+00 | 7.74E-02 | -6.53E+01"
+        }
+      }
+    },
+    "gwp_ghg": {
+      "indicator_name": "GWP-GHG",
+      "unit": "kg CO₂-eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 139,
+          "page_number": 18,
+          "excerpt": "GWP-GHG | kg CO₂-eq. | 1.39E+02 | 1.20E+01 | 1.45E+01 | 7.83E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C1": {
+          "value": 12,
+          "page_number": 18,
+          "excerpt": "GWP-GHG | kg CO₂-eq. | 1.39E+02 | 1.20E+01 | 1.45E+01 | 7.83E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C2": {
+          "value": 14.5,
+          "page_number": 18,
+          "excerpt": "GWP-GHG | kg CO₂-eq. | 1.39E+02 | 1.20E+01 | 1.45E+01 | 7.83E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C3": {
+          "value": 7.83,
+          "page_number": 18,
+          "excerpt": "GWP-GHG | kg CO₂-eq. | 1.39E+02 | 1.20E+01 | 1.45E+01 | 7.83E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "C4": {
+          "value": 0.861,
+          "page_number": 18,
+          "excerpt": "GWP-GHG | kg CO₂-eq. | 1.39E+02 | 1.20E+01 | 1.45E+01 | 7.83E+00 | 8.61E-01 | -9.79E+00"
+        },
+        "D": {
+          "value": -9.79,
+          "page_number": 18,
+          "excerpt": "GWP-GHG | kg CO₂-eq. | 1.39E+02 | 1.20E+01 | 1.45E+01 | 7.83E+00 | 8.61E-01 | -9.79E+00"
+        }
+      }
+    },
+    "pm": {
+      "indicator_name": "PM",
+      "unit": "Disease incidence",
+      "modules": {
+        "A1-A3": {
+          "value": 0.00000683,
+          "page_number": 18,
+          "excerpt": "PM | Disease incidence | 6.83E-06 | 3.50E-06 | 7.18E-07 | 1.43E-07 | 1.09E-08 | -2.99E-07"
+        },
+        "C1": {
+          "value": 0.0000035,
+          "page_number": 18,
+          "excerpt": "PM | Disease incidence | 6.83E-06 | 3.50E-06 | 7.18E-07 | 1.43E-07 | 1.09E-08 | -2.99E-07"
+        },
+        "C2": {
+          "value": 7.18e-7,
+          "page_number": 18,
+          "excerpt": "PM | Disease incidence | 6.83E-06 | 3.50E-06 | 7.18E-07 | 1.43E-07 | 1.09E-08 | -2.99E-07"
+        },
+        "C3": {
+          "value": 1.43e-7,
+          "page_number": 18,
+          "excerpt": "PM | Disease incidence | 6.83E-06 | 3.50E-06 | 7.18E-07 | 1.43E-07 | 1.09E-08 | -2.99E-07"
+        },
+        "C4": {
+          "value": 1.09e-8,
+          "page_number": 18,
+          "excerpt": "PM | Disease incidence | 6.83E-06 | 3.50E-06 | 7.18E-07 | 1.43E-07 | 1.09E-08 | -2.99E-07"
+        },
+        "D": {
+          "value": -2.99e-7,
+          "page_number": 18,
+          "excerpt": "PM | Disease incidence | 6.83E-06 | 3.50E-06 | 7.18E-07 | 1.43E-07 | 1.09E-08 | -2.99E-07"
+        }
+      }
+    },
+    "irp": {
+      "indicator_name": "IRP",
+      "unit": "kBq U235 eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 0.321,
+          "page_number": 18,
+          "excerpt": "IRP² | kBq U235 eq. | 3.21E-01 | 2.45E-04 | 2.91E-04 | 1.58E-03 | 1.78E-05 | -8.89E-04"
+        },
+        "C1": {
+          "value": 0.000245,
+          "page_number": 18,
+          "excerpt": "IRP² | kBq U235 eq. | 3.21E-01 | 2.45E-04 | 2.91E-04 | 1.58E-03 | 1.78E-05 | -8.89E-04"
+        },
+        "C2": {
+          "value": 0.000291,
+          "page_number": 18,
+          "excerpt": "IRP² | kBq U235 eq. | 3.21E-01 | 2.45E-04 | 2.91E-04 | 1.58E-03 | 1.78E-05 | -8.89E-04"
+        },
+        "C3": {
+          "value": 0.00158,
+          "page_number": 18,
+          "excerpt": "IRP² | kBq U235 eq. | 3.21E-01 | 2.45E-04 | 2.91E-04 | 1.58E-03 | 1.78E-05 | -8.89E-04"
+        },
+        "C4": {
+          "value": 0.0000178,
+          "page_number": 18,
+          "excerpt": "IRP² | kBq U235 eq. | 3.21E-01 | 2.45E-04 | 2.91E-04 | 1.58E-03 | 1.78E-05 | -8.89E-04"
+        },
+        "D": {
+          "value": -0.000889,
+          "page_number": 18,
+          "excerpt": "IRP² | kBq U235 eq. | 3.21E-01 | 2.45E-04 | 2.91E-04 | 1.58E-03 | 1.78E-05 | -8.89E-04"
+        }
+      }
+    },
+    "etp_fw": {
+      "indicator_name": "ETP-fw",
+      "unit": "CTUe",
+      "modules": {
+        "A1-A3": {
+          "value": 483,
+          "page_number": 18,
+          "excerpt": "ETP-fw¹ | CTUe | 4.83E+02 | 3.72E+01 | 4.41E+01 | 1.93E+01 | 2.67E+00 | -6.70E+00"
+        },
+        "C1": {
+          "value": 37.2,
+          "page_number": 18,
+          "excerpt": "ETP-fw¹ | CTUe | 4.83E+02 | 3.72E+01 | 4.41E+01 | 1.93E+01 | 2.67E+00 | -6.70E+00"
+        },
+        "C2": {
+          "value": 44.1,
+          "page_number": 18,
+          "excerpt": "ETP-fw¹ | CTUe | 4.83E+02 | 3.72E+01 | 4.41E+01 | 1.93E+01 | 2.67E+00 | -6.70E+00"
+        },
+        "C3": {
+          "value": 19.3,
+          "page_number": 18,
+          "excerpt": "ETP-fw¹ | CTUe | 4.83E+02 | 3.72E+01 | 4.41E+01 | 1.93E+01 | 2.67E+00 | -6.70E+00"
+        },
+        "C4": {
+          "value": 2.67,
+          "page_number": 18,
+          "excerpt": "ETP-fw¹ | CTUe | 4.83E+02 | 3.72E+01 | 4.41E+01 | 1.93E+01 | 2.67E+00 | -6.70E+00"
+        },
+        "D": {
+          "value": -6.7,
+          "page_number": 18,
+          "excerpt": "ETP-fw¹ | CTUe | 4.83E+02 | 3.72E+01 | 4.41E+01 | 1.93E+01 | 2.67E+00 | -6.70E+00"
+        }
+      }
+    },
+    "htp_c": {
+      "indicator_name": "HTP-c",
+      "unit": "CTUh",
+      "modules": {
+        "A1-A3": {
+          "value": 3.19e-8,
+          "page_number": 18,
+          "excerpt": "HTP-c¹ | CTUh | 3.19E-08 | 4.65E-10 | 6.23E-11 | 1.64E-10 | 6.81E-12 | -4.25E-10"
+        },
+        "C1": {
+          "value": 4.65e-10,
+          "page_number": 18,
+          "excerpt": "HTP-c¹ | CTUh | 3.19E-08 | 4.65E-10 | 6.23E-11 | 1.64E-10 | 6.81E-12 | -4.25E-10"
+        },
+        "C2": {
+          "value": 6.23e-11,
+          "page_number": 18,
+          "excerpt": "HTP-c¹ | CTUh | 3.19E-08 | 4.65E-10 | 6.23E-11 | 1.64E-10 | 6.81E-12 | -4.25E-10"
+        },
+        "C3": {
+          "value": 1.64e-10,
+          "page_number": 18,
+          "excerpt": "HTP-c¹ | CTUh | 3.19E-08 | 4.65E-10 | 6.23E-11 | 1.64E-10 | 6.81E-12 | -4.25E-10"
+        },
+        "C4": {
+          "value": 6.81e-12,
+          "page_number": 18,
+          "excerpt": "HTP-c¹ | CTUh | 3.19E-08 | 4.65E-10 | 6.23E-11 | 1.64E-10 | 6.81E-12 | -4.25E-10"
+        },
+        "D": {
+          "value": -4.25e-10,
+          "page_number": 18,
+          "excerpt": "HTP-c¹ | CTUh | 3.19E-08 | 4.65E-10 | 6.23E-11 | 1.64E-10 | 6.81E-12 | -4.25E-10"
+        }
+      }
+    },
+    "htp_nc": {
+      "indicator_name": "HTP-nc",
+      "unit": "CTUh",
+      "modules": {
+        "A1-A3": {
+          "value": 5.57e-7,
+          "page_number": 18,
+          "excerpt": "HTP-nc¹ | CTUh | 5.57E-07 | 2.48E-09 | 1.19E-09 | 1.07E-09 | 8.23E-11 | -2.68E-09"
+        },
+        "C1": {
+          "value": 2.48e-9,
+          "page_number": 18,
+          "excerpt": "HTP-nc¹ | CTUh | 5.57E-07 | 2.48E-09 | 1.19E-09 | 1.07E-09 | 8.23E-11 | -2.68E-09"
+        },
+        "C2": {
+          "value": 1.19e-9,
+          "page_number": 18,
+          "excerpt": "HTP-nc¹ | CTUh | 5.57E-07 | 2.48E-09 | 1.19E-09 | 1.07E-09 | 8.23E-11 | -2.68E-09"
+        },
+        "C3": {
+          "value": 1.07e-9,
+          "page_number": 18,
+          "excerpt": "HTP-nc¹ | CTUh | 5.57E-07 | 2.48E-09 | 1.19E-09 | 1.07E-09 | 8.23E-11 | -2.68E-09"
+        },
+        "C4": {
+          "value": 8.23e-11,
+          "page_number": 18,
+          "excerpt": "HTP-nc¹ | CTUh | 5.57E-07 | 2.48E-09 | 1.19E-09 | 1.07E-09 | 8.23E-11 | -2.68E-09"
+        },
+        "D": {
+          "value": -2.68e-9,
+          "page_number": 18,
+          "excerpt": "HTP-nc¹ | CTUh | 5.57E-07 | 2.48E-09 | 1.19E-09 | 1.07E-09 | 8.23E-11 | -2.68E-09"
+        }
+      }
+    },
+    "sqp": {
+      "indicator_name": "SQP",
+      "unit": "-",
+      "modules": {
+        "A1-A3": {
+          "value": 268,
+          "page_number": 18,
+          "excerpt": "SQP¹ | - | 2.68E+02 | 8.05E-01 | 8.96E-01 | 2.12E+04 | 2.03E+01 | -2.01E+02"
+        },
+        "C1": {
+          "value": 0.805,
+          "page_number": 18,
+          "excerpt": "SQP¹ | - | 2.68E+02 | 8.05E-01 | 8.96E-01 | 2.12E+04 | 2.03E+01 | -2.01E+02"
+        },
+        "C2": {
+          "value": 0.896,
+          "page_number": 18,
+          "excerpt": "SQP¹ | - | 2.68E+02 | 8.05E-01 | 8.96E-01 | 2.12E+04 | 2.03E+01 | -2.01E+02"
+        },
+        "C3": {
+          "value": 21200,
+          "page_number": 18,
+          "excerpt": "SQP¹ | - | 2.68E+02 | 8.05E-01 | 8.96E-01 | 2.12E+04 | 2.03E+01 | -2.01E+02"
+        },
+        "C4": {
+          "value": 20.3,
+          "page_number": 18,
+          "excerpt": "SQP¹ | - | 2.68E+02 | 8.05E-01 | 8.96E-01 | 2.12E+04 | 2.03E+01 | -2.01E+02"
+        },
+        "D": {
+          "value": -201,
+          "page_number": 18,
+          "excerpt": "SQP¹ | - | 2.68E+02 | 8.05E-01 | 8.96E-01 | 2.12E+04 | 2.03E+01 | -2.01E+02"
+        }
+      }
+    },
+    "gwp_ghg_ipcc_ar5": {
+      "indicator_name": "GWP-GHG (IPCC AR5)",
+      "unit": "kg CO₂ eq",
+      "modules": {
+        "A1-A3": {
+          "value": 139,
+          "page_number": 18,
+          "excerpt": "GWP-GHG (IPCC AR5) | kg CO₂ eq | 139 | 12.0 | 14.5 | 7.83 | 0.861 | -9.8"
+        },
+        "C1": {
+          "value": 12,
+          "page_number": 18,
+          "excerpt": "GWP-GHG (IPCC AR5) | kg CO₂ eq | 139 | 12.0 | 14.5 | 7.83 | 0.861 | -9.8"
+        },
+        "C2": {
+          "value": 14.5,
+          "page_number": 18,
+          "excerpt": "GWP-GHG (IPCC AR5) | kg CO₂ eq | 139 | 12.0 | 14.5 | 7.83 | 0.861 | -9.8"
+        },
+        "C3": {
+          "value": 7.83,
+          "page_number": 18,
+          "excerpt": "GWP-GHG (IPCC AR5) | kg CO₂ eq | 139 | 12.0 | 14.5 | 7.83 | 0.861 | -9.8"
+        },
+        "C4": {
+          "value": 0.861,
+          "page_number": 18,
+          "excerpt": "GWP-GHG (IPCC AR5) | kg CO₂ eq | 139 | 12.0 | 14.5 | 7.83 | 0.861 | -9.8"
+        },
+        "D": {
+          "value": -9.8,
+          "page_number": 18,
+          "excerpt": "GWP-GHG (IPCC AR5) | kg CO₂ eq | 139 | 12.0 | 14.5 | 7.83 | 0.861 | -9.8"
+        }
+      }
+    }
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-07-03T08:14:54.184Z",
+    "markdown_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/epd-ies-0021754-001-acm-rockbank-ar2520/markdown.md",
+    "segment_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/epd-ies-0021754-001-acm-rockbank-ar2520/segment.json",
+    "product_info_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      23
+    ],
+    "environmental_impact_pages": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      24
+    ],
+    "model": "deepseek-v4-pro:cloud",
+    "gateway": "cloudflare-ai-gateway"
+  }
+}

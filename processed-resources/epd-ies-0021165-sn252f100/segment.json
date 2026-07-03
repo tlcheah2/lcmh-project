@@ -1,0 +1,134 @@
+{
+  "segments": [
+    {
+      "category": "uncategorized",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        10
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        11
+      ],
+      "confidence_category": "medium"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        12,
+        13
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        22
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        28
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        36
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        37
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        38
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        39
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        40
+      ],
+      "confidence_category": "high"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "segments": [
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "confidence_category": "high"
+    }
+  ]
+}

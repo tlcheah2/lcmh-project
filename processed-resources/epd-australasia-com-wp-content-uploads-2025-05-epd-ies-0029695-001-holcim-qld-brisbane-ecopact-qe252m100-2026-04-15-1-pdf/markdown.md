@@ -1,0 +1,885 @@
+<PAGE>1<PAGE>
+HOLCIM logo
+
+# READY-MIX CONCRETE
+
+## Environmental Product Declaration (EPD)
+
+**QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use**
+
+**In accordance with ISO 14025 and EN15804:2012+A2:2019/AC:2021**
+**Programme:** International EPD System | www.environdec.com
+**Programme operator:** EPD International AB
+**Regional Programme:** EPD Australasia | [www.epd-australasia.com](http://www.epd-australasia.com/)
+**Managed by:** Holcim Certified EPD Process
+**EPD Process Certificate Number:** 04
+
+**Accreditation Body:** Epsten Group, Inc.
+**EPD Registration No.:** EPD-IES-0029695:001
+**Valid from:** 15/4/2026 | 15/4/2031
+**Revision Date:** 15/4/2026
+**Revision Number:** 1
+**EPD Process Geographical Scope:** Australia
+
+Photograph of Holcim ECOPact concrete mixer trucks
+
+AUSTRALASIA EPD INTERNATIONAL EPD SYSTEM logo
+
+EPD INTERNATIONAL EPD SYSTEM logo
+
+ECO PLATFORM EPD VERIFIED logo
+
+An EPD may be updated or depublished if conditions change. To find the latest version for the EPD and to confirm its validity, see www.environdec.com.
+
+<PAGE>2<PAGE>
+# Programme-related information and verification
+
+| EPD Owner                    | Evan Smith<br/>Holcim (Australia) Pty Ltd<br/>Level 40, Northpoint Tower, 100 Miller St, North<br/>Sydney NSW 2060, Australia<br/>Web: \[www\.holcim.com.au]\(http\://www\.holcim.com.au/)<br/>Phone: +61 2 9412 6600                               | HOLCIM logo                                           |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Programme Operator           | EPD International AB<br/>Box 210 60, SE-100 31<br/>Stockholm, Sweden<br/>Web: www\.environdec.com<br/>E-mail: \[support\@environdec.com]\(mailto:support\@environdec.com)                                                                           | EPD INTERNATIONAL EPD SYSTEM logo                     |
+| Regional Programme Operator  | EPD Australasia Limited<br/>6 Cube Court, Richmond, 7020 New Zealand<br/>Web: \[www\.epd-australasia.com]\(http\://www\.epd-australasia.com/)<br/>Email: \[info\@epd-australasia.com]\(mailto:info\@epd-australasia.com)<br/>Phone: +61 2 8005 8206 | AUSTRALASIA EPD INTERNATIONAL EPD SYSTEM logo         |
+| EPD Produced by              | Jonas Bengtsson, Sazal Kundu & Weiqi Xing<br/>Edge Environment Pty Ltd<br/>Level 3, Greenhouse, 180 George Street,<br/>Sydney NSW 2000 Australia<br/>Web: \[www\.edgeimpact.global]\(http\://www\.edgeimpact.global/)<br/>Phone: +61 2 9438 0100    | edge impact logo                                      |
+| EPD Process Certified by     | Epsten Group<br/>Suite 2600, 101 Marietta St NW, Atlanta,<br/>Georgia 30303, USA<br/>Web: \[www\.epstengroup.com]\(http\://www\.epstengroup.com/)<br/>Approved by: EPD Australasia                                                                  | epstengroup logo                                      |
+| EPD Registration Number      |                                                                                                                                                                                                                                                     | EPD-IES-0029695:001                                   |
+| Valid From                   |                                                                                                                                                                                                                                                     | 15/4/2026                                             |
+| Revision Number              |                                                                                                                                                                                                                                                     | 1                                                     |
+| Valid Until                  |                                                                                                                                                                                                                                                     | 15/4/2031                                             |
+| Product group classification |                                                                                                                                                                                                                                                     | UN CPC 375 (Articles of concrete, cement and plaster) |
+| Geographical Scope           |                                                                                                                                                                                                                                                     | Australia                                             |
+| Reference Year for Data      |                                                                                                                                                                                                                                                     | 2022 Plant Data, 2026 Mix/Materials Data              |
+
+
+## CEN standard EN 15804:2012+A2:2019/AC:2021 serves as the core Product Category Rules (PCR)
+
+| Product category rules                                                                         | PCR 2019:14 Construction Products, Version 2.0.1, 2025-06-05<br/>c-PCR-003 Concrete and Concrete Elements, 2025-04-08                                                                                                                                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PCR review was conducted by                                                                    | The Technical Committee of the International EPD System. A full list of members is<br/>available on www\.environdec.com<br/>Review chair: Claudia A. Peña, University of Concepción, Chile. The review panel may<br/>be contacted via the Secretariat www\.environdec.com/contact                                                                                                                         |
+| Independent third-party verification of the declaration and data, according to ISO 14025:2006: | \[x] EPD process certification\* without a pre-verified LCA/EPD tool<br/>\\\* EPD process certification involves an accredited certification body certifying and<br/>periodically auditing the EPD process and conducting external and independent verification<br/>of EPDs that are regularly published. More information can be found in the General<br/>Programme Instructions on www\.environdec.com. |
+| Process certification                                                                          | Epsten Group, Inc., Megan Blizzard, is an approved<br/>certification body accountable for third-party verification.<br/>Third-party verifier is accredited by: A2LA, Certificate<br/>#3142.03                                                                                                                                                                                                             |
+| Procedure for follow-up of data during EPD validity involves third party verifier:             | \[ ] Yes<br/>\[x] No                                                                                                                                                                                                                                                                                                                                                                                      |
+
+
+## Programme-related information and verification:
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product category but published in different EPD programmes, may not be comparable. For two EPDs to be comparable, they shall be based on the same PCR (including the same first-digit version number) or be based on fully aligned PCRs or versions of PCRs; cover products with identical functions, technical performances and use (e.g. identical declared/functional units); have identical scope in terms of included life-cycle stages (unless the excluded life-cycle stage is demonstrated to be insignificant); apply identical impact assessment methods (including the same version of characterisation factors); and be valid at the time of comparison. For further information about comparability, see EN 15804 and ISO 14025.
+
+<PAGE>3<PAGE>
+Aerial view of a modern walkway surrounded by lush tropical vegetation and ferns
+
+# TABLE OF CONTENTS
+
+| Introduction                                     | 5  |
+| ------------------------------------------------ | -- |
+| About Holcim                                     | 5  |
+| A first for ready-mix concrete in Australia      | 5  |
+| LCA Information                                  | 7  |
+| EPD Product Description and Use                  | 11 |
+| Environmental Performance                        | 14 |
+| Other life cycle stages not included in this EPD | 19 |
+| References                                       | 20 |
+
+| Revision Number | Revision Date | Description of Changes |
+| --------------- | ------------- | ---------------------- |
+| 1               | 15/4/2026     |                        |
+
+
+<PAGE>4<PAGE>
+# INTRODUCTION
+
+Currently, the building environment account for 39% of global CO₂ emissions, with construction materials comprising 11% of global CO₂ emissions (World Green Building Council). By 2030, the embodied carbon of all construction materials needs to be at least 40% lower. By 2050, all new construction materials need to be net zero (World Green Building Council).
+
+EPDs include data on a product's life cycle impacts, such as its carbon footprint, energy consumption, and resource use. This transparency empowers stakeholders to make informed selections of products.
+
+Environmental Product Declarations (EPDs) play a crucial role in promoting transparency and sustainability in the construction industry. By providing comprehensive and standardised information about the environmental performance of products, EPDs enable informed decision-making among stakeholders, including architects, engineers, builders, and consumers.
+
+EPDs also serve as valuable tools for benchmarking environmental performance and driving the decarbonation of construction materials. Demand for low carbon products backed by an EPD drives and rewards the decarbonisation of the entire supply chain.
+
+As a result, EPDs will play a key role in our mission to decarbonise construction materials and the built environment.
+
+# ABOUT HOLCIM
+
+Holcim Australia is a leading supplier of construction materials in Australia, dating back to 1901. Today Holcim continues to supply essential construction materials including aggregates, sand, ready-mix concrete, engineered precast concrete and prestressed concrete solutions to a range of customers and projects throughout Australia.
+
+Sustainability is at the core of our strategy, with our industry’s first 2050 net-zero targets, endorsed by the Science Based Targets initiative (SBTi).
+
+Holcim operates right across the Australian continent supplying concrete from a network of concrete plants, quarries, precast and concrete pipe places, and mobile and on-site project facilities.
+
+Globally, Holcim is 63,000 people around the world who are passionate about building progress for people and the planet through four business segments: Cement, Ready-Mix Concrete, Aggregates and Solutions & Products.
+
+# A FIRST FOR READY-MIX CONCRETE IN AUSTRALIA
+
+In 2019, Holcim published the first EPD for ready-mix concrete. This was an Australian first for ready-mix concrete and covered Holcim’s Normal-class concrete range across Australia. The EPD had 147 datasets for normal-class concrete that representative of over 4,000 mix designs. The EPD also provided Special-class concrete data for a major Infrastructure Sustainability and Green Star building project. This EPD heralded the introduction of rigorously verified life cycle impact data, setting a new benchmark in transparency and accountability within the Australian construction sector.
+
+To achieve EPD Process Certification, Holcim integrated Life Cycle Assessment (LCA) processes and procedures into its Management Systems. We then undergo ongoing rigorous third-party verification in accordance with internationally recognized ISO standards and guidelines.
+
+Fast forward to 2021, Holcim achieved Process EPD Certification, a first not just within the concrete industry but across all sectors in Australia. This certification empowers Holcim to develop and register EPDs on demand for ready-mix concrete.
+
+This EPD has been developed using our EPD Process Certification with production occurring at the following sites.
+
+<PAGE>5<PAGE>
+# READY-MIX CONCRETE
+
+Diagram showing the process of ready-mix concrete production: Aggregates (Load and Haul, Crushing and Screening, Stockpiling and Distribution) and Concrete (Material Handling and Storage, Batching)
+
+## Summary of properties and classes
+
+Concrete is prepared by mixing cement, coarse and fine aggregates, and water, with or without the addition of auxiliary agents and additives. The fresh concrete is placed on the building site or prefabricated in factory moulds, compacted and hardened in the desired shape by the hydration of cement to form concrete.
+
+General Australian Standard AS 1379 sets out ways of specifying and ordering concrete to promote uniformity, efficiency and economy in production and delivery. It refers to two classes of concrete: normal-class and special-class.
+
+* **Normal-class** – designed for everyday applications such as residential and commercial foundations, driveways and footpaths.
+
+* **Special-class** – typically supplied to major construction projects from high rise buildings, dams and spillways, roads, bridges to public works infrastructure etc.
+
+Special-class concrete is typically specified in accordance with the technical parameters and performance requirements, which can include high-strength/high-performances concrete, high durability, or marine application, post-tensioned, high-pumpability, super workable, piling concrete, architectural off-form finishes and other decorative applications.
+
+<PAGE>6<PAGE>
+# LCA INFORMATION
+
+## Declared Unit
+
+1 m³ of ready-mix concrete.
+
+## Scope
+
+The scope of this EPD is cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D.
+
+## Technical Lifetime
+
+The reference service life is not specified as the scope of Holcim’s operational control is from cradle to delivery. Instead, AS 3600, the Australian Standard for concrete structures, typically specifies a design life of 50 years. For structures with a 100-year design life, like bridges, AS 5100 is the relevant standard.
+
+## Time Representativeness
+
+The plant data for the LCA is based on 2022 calendar year production data. The mix data for the LCA is based on 2026 calendar year production data.
+
+## LCA Methodology
+
+This EPD has been produced in conformance with the requirements of:
+
+* c-PCR-003 Concrete and concrete element
+* Product Category Rules (PCR) 2019:14 v2.0.1.
+* EN 15804+A2
+* General Program Instructions (GPI) v5.0.1
+* Instructions of EPD Australasia v4.2
+* EN 14040 and EN 14044
+
+## Databases and LCA Software Used
+
+SimaPro® LCA software (v10.2) was used for the LCA modelling which developed the LCA Calculator, used as per the certified EPD Process. It uses background data with the following preferences:
+
+1. Product specific EPDs for cements, admixtures, pigments and fibres
+2. The Australian National Life Cycle Inventory Database (AusLCI v2.45) (2025)
+3. Ecoinvent 3.11 and EN15804+A2 package (2024).
+
+The environmental impacts modelled from the existing EPDs do not include impacts for EN15804+A1, and the additional Green Star (v1.3) impact categories included in the environmental impact tables. These indicators are modelled separately based on generic processes. The following impact categories were calculated manually for the foreground data:
+
+* Use of renewable primary energy resources used as raw materials
+* Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials
+* Use of secondary material
+* Use of renewable secondary fuels
+* Use of non-renewable secondary fuels
+
+## Allocation
+
+Allocation was necessary to proportion inputs and outputs to intermediate flows at the quarry and processes at the batching plant level. As much as possible, intermediate flows were allocated physically based on weight (quarries) or based on m³ of concrete (at the batching plant). The impacts of fly ash, granulated blast furnace slag, and silica fume are allocated based on the economic values. Please refer to the “Recycled Material” section for further detail.
+
+## Cut-Off Criteria
+
+In accordance with the PCR 2019:14 v2.0.1, the following system boundaries are applied to manufacturing equipment and employees:
+
+* The infrastructure associated with electricity and heating supply in Module A3, and infrastructure in the manufacturing site operated by Holcim, where impacts such as those from the construction of power plants and manufacturing plants, are included.
+* Environmental impact from other infrastructure, construction, production equipment, and tools that are not directly consumed in the production process are not accounted for in the LCI. Capital equipment and buildings typically account for less than a few percent of nearly all LCIs and this is usually smaller than the error in the inventory data itself. For this project, it is assumed that capital equipment makes a negligible contribution to the impacts as per Frischknecht et al. (2007) with no further investigation.
+* Personnel-related impacts, such as transportation to and from work, are also not accounted for in the LCI. The impacts of employees are also excluded from inventory impacts on the basis that if they were not employed for this production or service function, they would be employed for another. It is very hard to decide what proportion of the impacts from their whole lives should count towards their employment. For this project, the impacts of employees are excluded.
+
+Based on this guidance, no energy or mass flows, except packaging of materials were excluded. All materials required for manufacturing are delivered via trucks and ships without packaging.
+
+## Address and Contact Information
+
+Holcim (Australia) Pty Ltd
+Level 40, Northpoint Tower, 100 Miller St,
+North Sydney, NSW 2060, Australia
+Web: [www.holcim.com.au](http://www.holcim.com.au/)
+Phone: +61 2 9412 6600
+
+<PAGE>7<PAGE>
+### Data Quality
+
+Data quality was assessed in terms of geographic, technical and temporal representativeness. All data sources were scored good or very good.
+
+Background data sources were also assessed with respect to their timeliness, with all data sources being updated within the 3 years required under PCR 2019:14.
+
+| Modul e | Input/ outputs            | Sub-processes                        | Data source & LCA Factor                                              | Temporal scope                | Technical scope               | Geographic scope |           |      |
+| ------- | ------------------------- | ------------------------------------ | --------------------------------------------------------------------- | ----------------------------- | ----------------------------- | ---------------- | --------- | ---- |
+|         |                           | Cement                               | Supplier data and EPD factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         | Cementitiou s materials   | Supplementary cementitious materials | Supplier data and database factors                                    | Very good                     | Good                          | Good             |           |      |
+|         |                           | Electricity                          | Invoices and database factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         |                           |                                      |                                                                       | Diesel                        | Invoices and database factors | Very good        | Good      | Good |
+|         | Coarse                    | LPG                                  | Invoices and database factors                                         | Very good                     | Good                          | Good             |           |      |
+|         | aggregate                 | Pollutants                           | National Pollution Inventory (NPI) data and database factors          | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | Mains water                          | Invoices and database factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         | Manufacture d sand        | Water – other sources                | Metered and database factors                                          | Very good                     | Very good                     | Very good        |           |      |
+| A1      |                           | Water                                | Metered and database factors                                          | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | discharge from                       |                                                                       |                               |                               |                  |           |      |
+|         | Fine aggregate            | site                                 |                                                                       |                               |                               |                  |           |      |
+|         |                           | Explosives                           | Supplier data and database factors                                    | Very good                     | Good                          | Good             |           |      |
+|         |                           |                                      | Gravel                                                                | Production data               | Very good                     | Very good        | Very good |      |
+|         | Other aggregates          | Recycled aggregates                  | Database factors                                                      | Very good                     | Good                          | Good             |           |      |
+|         | Admixture                 | Admixtures                           | Supplier data and database factors                                    | Very good                     | Good                          | Good             |           |      |
+|         | Oxide                     | Oxides                               | Invoices and database / EPD factors                                   | Very good                     | Good                          | Good             |           |      |
+|         | Fibre                     | Plastic and steel fibres             | Invoices and database / EPD factors                                   | Very good                     | Good                          | Good             |           |      |
+| A2      | Raw                       | Background                           | Holcim and supplier actual                                            | Very good                     | Good                          | Good             |           |      |
+|         | material                  | data used to                         | transport distances and loads per                                     |                               |                               |                  |           |      |
+|         | transport                 | model                                | trip and database factors                                             |                               |                               |                  |           |      |
+|         |                           | Electricity                          | Invoices and database factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | Diesel                               | Invoices and database factors                                         | Very good                     | Good                          | Good             |           |      |
+|         |                           | Mains water                          | Water meters, with utility invoices as a back-up and database factors | Very good                     | Very good                     | Very good        |           |      |
+|         | Concrete batching         | Water – other sources                | Estimate based on water balance and database factors                  | Very good                     | Very good                     | Very good        |           |      |
+| A3      | plant                     | Water                                | Estimate based on Holcim site                                         | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | discharge from                       | performance metrics and database                                      |                               |                               |                  |           |      |
+|         |                           | site                                 | factors                                                               |                               |                               |                  |           |      |
+|         |                           | Lubricating oil                      |                                                                       |                               |                               |                  |           |      |
+|         |                           |                                      | Conveyor belt                                                         | Invoices and database factors | Very good                     | Good             | Good      |      |
+|         | Concrete mix designs      | Background data used to model        | Holcim internal technical database containing mix designs             | Very good                     | Good                          | Good             |           |      |
+| A4      | Distribution              | Background data used to model        | Actual transport data and database factors                            | Very good                     | Good                          | Good             |           |      |
+|         |                           | Electricity                          |                                                                       |                               |                               |                  |           |      |
+| A5      | Installation              | Diesel                               | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+|         |                           | Water                                |                                                                       |                               |                               |                  |           |      |
+| C1      | Deconstructio n           | Excavation                           | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| C2      | Transport                 | Background data used to model        | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| C3      | Waste processing          | Concrete recycling                   | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| C4      | Final disposal            | Inert waste landfilling              | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| D       | Benefits and loads beyond | Crushed gravel                       | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+
+
+
+
+| Modul e | Input/ outputs            | Sub-processes                        | Data source & LCA Factor                                              | Temporal scope                | Technical scope               | Geographic scope |           |      |
+| ------- | ------------------------- | ------------------------------------ | --------------------------------------------------------------------- | ----------------------------- | ----------------------------- | ---------------- | --------- | ---- |
+|         |                           | Cement                               | Supplier data and EPD factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         | Cementitiou s materials   | Supplementary cementitious materials | Supplier data and database factors                                    | Very good                     | Good                          | Good             |           |      |
+|         |                           | Electricity                          | Invoices and database factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         |                           |                                      |                                                                       | Diesel                        | Invoices and database factors | Very good        | Good      | Good |
+|         | Coarse                    | LPG                                  | Invoices and database factors                                         | Very good                     | Good                          | Good             |           |      |
+|         | aggregate                 | Pollutants                           | National Pollution Inventory (NPI) data and database factors          | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | Mains water                          | Invoices and database factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         | Manufacture d sand        | Water – other sources                | Metered and database factors                                          | Very good                     | Very good                     | Very good        |           |      |
+| A1      |                           | Water                                | Metered and database factors                                          | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | discharge from                       |                                                                       |                               |                               |                  |           |      |
+|         | Fine aggregate            | site                                 |                                                                       |                               |                               |                  |           |      |
+|         |                           | Explosives                           | Supplier data and database factors                                    | Very good                     | Good                          | Good             |           |      |
+|         |                           |                                      | Gravel                                                                | Production data               | Very good                     | Very good        | Very good |      |
+|         | Other aggregates          | Recycled aggregates                  | Database factors                                                      | Very good                     | Good                          | Good             |           |      |
+|         | Admixture                 | Admixtures                           | Supplier data and database factors                                    | Very good                     | Good                          | Good             |           |      |
+|         | Oxide                     | Oxides                               | Invoices and database / EPD factors                                   | Very good                     | Good                          | Good             |           |      |
+|         | Fibre                     | Plastic and steel fibres             | Invoices and database / EPD factors                                   | Very good                     | Good                          | Good             |           |      |
+| A2      | Raw                       | Background                           | Holcim and supplier actual                                            | Very good                     | Good                          | Good             |           |      |
+|         | material                  | data used to                         | transport distances and loads per                                     |                               |                               |                  |           |      |
+|         | transport                 | model                                | trip and database factors                                             |                               |                               |                  |           |      |
+|         |                           | Electricity                          | Invoices and database factors                                         | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | Diesel                               | Invoices and database factors                                         | Very good                     | Good                          | Good             |           |      |
+|         |                           | Mains water                          | Water meters, with utility invoices as a back-up and database factors | Very good                     | Very good                     | Very good        |           |      |
+|         | Concrete batching         | Water – other sources                | Estimate based on water balance and database factors                  | Very good                     | Very good                     | Very good        |           |      |
+| A3      | plant                     | Water                                | Estimate based on Holcim site                                         | Very good                     | Very good                     | Very good        |           |      |
+|         |                           | discharge from                       | performance metrics and database                                      |                               |                               |                  |           |      |
+|         |                           | site                                 | factors                                                               |                               |                               |                  |           |      |
+|         |                           | Lubricating oil                      |                                                                       |                               |                               |                  |           |      |
+|         |                           |                                      | Conveyor belt                                                         | Invoices and database factors | Very good                     | Good             | Good      |      |
+|         | Concrete mix designs      | Background data used to model        | Holcim internal technical database containing mix designs             | Very good                     | Good                          | Good             |           |      |
+| A4      | Distribution              | Background data used to model        | Actual transport data and database factors                            | Very good                     | Good                          | Good             |           |      |
+|         |                           | Electricity                          |                                                                       |                               |                               |                  |           |      |
+| A5      | Installation              | Diesel                               | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+|         |                           | Water                                |                                                                       |                               |                               |                  |           |      |
+| C1      | Deconstructio n           | Excavation                           | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| C2      | Transport                 | Background data used to model        | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| C3      | Waste processing          | Concrete recycling                   | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| C4      | Final disposal            | Inert waste landfilling              | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+| D       | Benefits and loads beyond | Crushed gravel                       | Typical scenario & database factors                                   | Very good                     | Good                          | Good             |           |      |
+
+
+<PAGE>8<PAGE>
+# System Diagram
+
+The processes included in the LCA are presented in a process diagram in the figure below.
+
+```mermaid
+graph TD
+    subgraph Holcim_operations_system_boundary [Holcim operations system boundary]
+        subgraph A1 [A1]
+            subgraph Coarse_aggregate_and_manufactured_sand_site [Coarse aggregate and manufactured sand site]
+                Gravel --> Quarrying1[Quarrying]
+                Diesel1[Diesel] --> Quarrying1
+                Explosives --> Quarrying1
+                Water1[Water] --> Quarrying1
+                Quarrying1 --> Emissions1[Emissions]
+                Quarrying1 --> Wastewater1[Wastewater]
+                Quarrying1 --> Waste1[Waste]
+                
+                Diesel2[Diesel] --> On_site_transport1[On-site transport]
+                On_site_transport1 --> Emissions2[Emissions]
+                
+                Electricity1[Electricity] --> Processing1[Processing]
+                Processing1 --> Aggregates_for_concrete1[Aggregates for concrete]
+                Aggregates_for_concrete1 --> Coarse_aggregate_for_concrete[Coarse aggregate for concrete]
+                Aggregates_for_concrete1 --> Manufactured_sand[Manufactured sand]
+                
+                Diesel3[Diesel] --> Aggregates_not_for_concrete1[Aggregates not for concrete]
+                Aggregates_not_for_concrete1 --> Coarse_aggregate_not_for_concrete[Coarse aggregate not for concrete]
+                
+                Waste2[Waste]
+                Emissions3[Emissions]
+                Wastewater2[Wastewater]
+            end
+
+            subgraph Natural_sand_site [Natural sand site]
+                Sand --> Quarrying2[Quarrying]
+                Diesel4[Diesel] --> Quarrying2
+                Water2[Water] --> Quarrying2
+                Quarrying2 --> Emissions4[Emissions]
+                Quarrying2 --> Wastewater3[Wastewater]
+                Quarrying2 --> Waste3[Waste]
+                
+                Diesel5[Diesel] --> On_site_transport2[On-site transport]
+                On_site_transport2 --> Emissions5[Emissions]
+                
+                Electricity2[Electricity] --> Processing2[Processing]
+                Processing2 --> Aggregates_for_concrete2[Aggregates for concrete]
+                Aggregates_for_concrete2 --> Fine_aggregate_for_concrete[Fine aggregate for concrete]
+                
+                Diesel6[Diesel] --> Aggregates_not_for_concrete2[Aggregates not for concrete]
+                Aggregates_not_for_concrete2 --> Fine_aggregate_not_for_concrete[Fine aggregate not for concrete]
+                
+                Waste4[Waste]
+                Emissions6[Emissions]
+                Wastewater4[Wastewater]
+            end
+        end
+
+        subgraph A2 [A2]
+            Transport1[Transport by rigid truck and rail]
+            Transport2[Transport by rigid truck, rail, and/or freight ship]
+        end
+
+        subgraph A3 [A3]
+            subgraph Concrete_batching_plant [Concrete batching plant]
+                Coarse_aggregate --> Storage
+                Natural_sand --> Storage
+                Manufactured_sand --> Storage
+                
+                Cement --> Storage
+                SCMs --> Storage
+                Other_aggregates --> Storage
+                Admixtures --> Storage
+                Oxides --> Storage
+                Fibres --> Storage
+                Ice --> Storage
+                
+                Storage --> Mixing
+                
+                Electricity3[Electricity] --> Mixing
+                Diesel7[Diesel] --> Mixing
+                Water3[Water] --> Mixing
+                Conveyor_belts --> Mixing
+                Lubricating_oil --> Mixing
+                
+                Mixing --> Ready_mix_concrete[Ready-mix concrete]
+                Mixing --> Non_hazardous_waste[Non-hazardous waste]
+            end
+        end
+
+        subgraph A4_A5 [A4 - A5]
+            Transport3[Transport by rigid truck] --> Installation
+            Installation --> Waste_concrete
+            Installation --> Wastewater5[Wastewater]
+            Electricity4[Electricity] --> Installation
+            Diesel8[Diesel] --> Installation
+            Water4[Water] --> Installation
+        end
+
+        subgraph C [C]
+            Diesel9[Diesel] --> Deconstruction
+            Deconstruction --> Transport4[Transport]
+            Transport4 --> Waste_processing
+            Deconstruction --> Final_disposal
+            Waste_processing --> Final_disposal
+        end
+
+        subgraph D [D]
+            Benefits[Benefits from recycling and reuse]
+        end
+    end
+
+    subgraph External_Inputs [External Inputs]
+        Personnel_impacts[Personnel impacts]
+        Capital_goods[Capital goods]
+    end
+
+    subgraph Raw_material_extraction [Raw material extraction]
+        subgraph Cement_plant [Cement plant]
+            Cement_manufacturing[Cement manufacturing]
+        end
+        subgraph Industrial_plant [Industrial plant]
+            Secondary_materials_manufacturing[Secondary materials manufacturing]
+        end
+        subgraph Quarry [Quarry]
+            Virgin_aggregate_manufacturing[Virgin aggregate manufacturing]
+        end
+        subgraph Chemical_plant [Chemical plant]
+            Admixture_and_oxide_production[Admixture and oxide production]
+        end
+        subgraph Reinforcing_fibre_manufacturing [Reinforcing fibre manufacturing]
+            Fibre_manufacturing[Fibre manufacturing]
+        end
+        subgraph Ice_manufacturing_plant [Ice manufacturing plant]
+            Ice_manufacturing[Ice manufacturing]
+        end
+    end
+
+    %% Connections between subgraphs
+    Coarse_aggregate_for_concrete --> Transport1
+    Manufactured_sand --> Transport1
+    Fine_aggregate_for_concrete --> Transport1
+    
+    Raw_material_extraction --> Transport2
+    Transport1 --> Concrete_batching_plant
+    Transport2 --> Concrete_batching_plant
+    Ready_mix_concrete --> Transport3
+    Final_disposal -.-> Benefits
+```
+
+<PAGE>9<PAGE>
+# Description of System Boundaries and Excluded Lifecycle Stages
+
+The scope of the LCA and EPD is from cradle to gate (A1-A3) with options, modules A4-A5, modules C1-C4 and module D. The following life cycle stages have not been declared (marked as ND), as they are deemed not applicable for Holcim’s ready-mix concrete ranges: Material emissions from usage (B1); Maintenance (B2); Repair (B3); Replacement (B4); Refurbishment (B5); Operational energy use (B6), and Operational water use (B7).
+
+| Module                   | Product Stage<br/>Raw Material Supply<br/>A1 | Product Stage<br/>Transport<br/>A2 | Product Stage<br/>Manufacturing<br/>A3 | Construction Stage<br/>Transport<br/>A4 | Construction Stage<br/>Construction/installation process<br/>A5 | Usage Stage<br/>Use<br/>B1 | Usage Stage<br/>Maintenance incl. transport<br/>B2 | Usage Stage<br/>Repair incl. transport<br/>B3 | Usage Stage<br/>Replacement incl. transport<br/>B4 | Usage Stage<br/>Refurbishment incl. transport<br/>B5 | Usage Stage<br/>Operational Energy Use<br/>B6 | Usage Stage<br/>Operational Water Use<br/>B7 | End of Life Stage<br/>De-construction & demolition<br/>C1 | End of Life Stage<br/>Transport<br/>C2 | End of Life Stage<br/>Re-use recycling<br/>C3 | End of Life Stage<br/>Final Disposal<br/>C4 | Benefits & loads for the next product system<br/>Reuse, Recovery Recycling potential<br/>D |
+| ------------------------ | -------------------------------------------- | ---------------------------------- | -------------------------------------- | --------------------------------------- | --------------------------------------------------------------- | -------------------------- | -------------------------------------------------- | --------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------- | -------------------------------------------- | --------------------------------------------------------- | -------------------------------------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Modules declared         | X                                            | X                                  | X                                      | X                                       | X                                                               | ND                         | ND                                                 | ND                                            | ND                                                 | ND                                                   | ND                                            | ND                                           | X                                                         | X                                      | X                                             | X                                           | X                                                                                          |
+| Geography                | GLO                                          | AU                                 | AU                                     | AU                                      | AU                                                              | -                          | -                                                  | -                                             | -                                                  | -                                                    | -                                             | -                                            | AU                                                        | AU                                     | AU                                            | AU                                          | AU                                                                                         |
+| Share of specific data\* | 17.3 %                                       |                                    |                                        | -                                       | -                                                               | -                          | -                                                  | -                                             | -                                                  | -                                                    | -                                             | -                                            | -                                                         | -                                      | -                                             | -                                           | -                                                                                          |
+| Variation – products     | 0%                                           |                                    |                                        | -                                       | -                                                               | -                          | -                                                  | -                                             | -                                                  | -                                                    | -                                             | -                                            | -                                                         | -                                      | -                                             | -                                           | -                                                                                          |
+| Variation – sites        | <10%                                         |                                    |                                        | -                                       | -                                                               | -                          | -                                                  | -                                             | -                                                  | -                                                    | -                                             | -                                            | -                                                         | -                                      | -                                             | -                                           | -                                                                                          |
+
+
+\* The share of primary data is calculated based on GWP-GHG results. It is a simplified indicator for data quality that supports the use of more primary data, to increase the representativeness of and comparability between EPDs. Note that the indicator does not capture all relevant aspects of data quality and is not comparable across product categories.
+
+\* The reported share of primary data is associated with uncertainty, as several EPDs used as data source lack information on the share of primary data.
+
+## Upstream processes
+
+The upstream processes include those involved in Module A1 – Raw material supply. This module includes:
+
+* Extraction, transport, and manufacturing of raw materials.
+
+* Generation of electricity from primary and secondary energy resources, also including their extraction, refining and transport for Modules A1.
+
+## Core Processes
+
+The core processes include those involved in Module A2 and Module A3, including:
+
+* External transportation of materials to the core processes and internal transport.
+
+* Manufacturing of concrete (excluding mixing, which occurs in the mixing truck and is considered part of the A4 module).
+
+* Treatment of waste and wastewater generated from the manufacturing processes.
+
+## Downstream Processes
+
+The downstream processes include those involved in Module A4 to D, including:
+
+* Distribution of concrete mixes.
+
+* Installation of the ready-mix concrete on the site.
+
+* Wastage of construction products (This is accounted for in module A5. This includes waste concrete on site).
+
+* Transport of equipment and use of materials for deconstruction at the end of life.
+
+* Transport of waste generated at the end of life.
+
+* Treatment of waste generated at the end of life.
+
+## Other Environmental Information
+
+Other environmental information includes process involved in Module D. This module indicates the environmental benefits from reuse, recovery, and recycling of wastes.
+
+<PAGE>10<PAGE>
+# EPD PRODUCT DESCRIPTION AND USE
+
+**QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use**
+
+UN CPC code: 375 (articles of concrete, cement and plaster). ANZSIC Classification: 2033 Ready Mix Concrete Manufacturing.
+
+**Product lifespan:** The product lifespan is not declared because the lifespan of the product can vary significantly depending on its application, usage and maintenance. Additionally, according to Section 4.2.2 of the PCR for Construction Products version 2.0.1, the product lifespan is not relevant since the use stage modules are not declared.
+
+**Product description:** A generic description of ready-mix concrete has been provided on page 5. A detailed breakdown of the functional properties of the ready-mix concrete, including the mix design covered in this EPD, is provided below.
+
+Product environmental information should only be compared when the products are functionally equivalent and used in the same context.
+
+| Strength (MPa) | Mix Code  | Weight (kg/m³) | Mix Description             | Applications / intended use |
+| -------------- | --------- | -------------- | --------------------------- | --------------------------- |
+| 25             | QE252M100 | 2319           | S25/20/100 Ecopact Concrete | General use                 |
+
+| Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites | Production Sites |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| Brisbane City    | Acacia Ridge     | Beaudesert       | Beenleigh        | Boonah           | Darra            | Cleveland        | Geebung          | Narangba         | Wacol            | Murarrie         | Caboolture       | Brendale         | Raceview.        |
+
+
+## Content Declaration
+
+The gross weight of this declared material is 2319 kg per cubic meter makes up a minimum of 99% of the products covered by this EPD. The following table provides a summary of the materials included in Holcim ready-mix concrete and their relative composition by weight.
+
+| Material                             | % by weight | Post-consumer recycled material, weight % of product | Biogenic material, weight-% of product | Biogenic material, kg C/m³ |
+| ------------------------------------ | ----------- | ---------------------------------------------------- | -------------------------------------- | -------------------------- |
+| General purpose cement               | 5 - 21      | 0                                                    | 0                                      | 0                          |
+| Aggregate                            | 67 - 84     | 0                                                    | 0                                      | 0                          |
+| Supplementary cementitious materials | 0 - 11      | 0                                                    | 0                                      | 0                          |
+| Water                                | 11.6 - 12   | 0                                                    | 0                                      | 0                          |
+| Admixtures                           | 0           | 0                                                    | 0                                      | 0                          |
+
+
+Holcim Ready-mix concrete is classified as Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail. The [safety data sheet for pre-mixed concrete](https://www.holcim.com.au/sites/australia/files/documents/holcim-premixedconcrete-sds.pdf) lists all associated hazard phrases. None of the products contain one or more substances that are listed in the “Candidate List of Substances of Very High Concern for authorisation”. According to the PCR 2019:14, if one or more substances of the “Candidate List of Substances of Very High Concern (SVHC) for authorisation” are present in a product and their total content exceeds 0.1% of the weight of the product, they need to be reported.
+
+<PAGE>11<PAGE>
+# Packaging
+
+Holcim ready-mix concrete is delivered in bulk with no packaging.
+
+# Recycled Material
+
+BS EN 16757:2017 specifically lists the following materials relevant to the study as co-products:
+
+* Fly ash,
+
+* Ground granulated blast furnace slag; and
+
+* Silica fume.
+
+As such, the above materials are considered as co-products of their production process and the impacts for their production process are allocated according to PCR 2019:14 Construction Products and Construction Services (co-produced goods, multi-output allocation).
+
+According to PCR 2019:14, economic allocation shall be used for processes producing co-products for use in cement and concrete. It should be based on market prices, preferably in long-term averages (≥3 years). While assessing the environmental burden of the high value co-products (e.g., steel, electricity, silicon), the environmental burden allocated to the low value co-products used in cement and concrete can be omitted as a conservative estimate. Therefore, the economic allocation method is applied to the below materials:
+
+* Fly ash: It is sourced directly from coal fired electricity generation. The environmental impact of fly ash is derived from coal-fired electricity, converted from the heating value of coal on a per-kWh basis.
+
+* Ground granulated blast furnace slag: The environmental impact is allocated to blast furnace slag at the point of generation during pig iron production, based on both production volumes and market prices. However, the specific energy and processing impacts associated with grinding the slag into ground granulated blast furnace slag are included in stage A1.
+
+* Silica fume: It is sourced as a co-product of ferrosilicon production. The raw material impact of silica fume is allocated directly from ferrosilicon, considering the relative production volumes and market prices.
+
+Since SCM market price fluctuate and full datasets are often confidential and not disclosed by upstream suppliers, economic allocation has been based on the mix of primary and secondary data, from Holcim internal records, the AusLCI database and values reported in a peer-reviewed Australian LCA study (Mohammadi & South, 2017). The AusLCI dataset conforms to EN 15804+A2 when applying allocation to its various processes and sub-processes.
+
+# Cradle to Gate (Modules A1 – A3)
+
+Raw materials for producing Holcim’s ready-mix concrete include cementitious materials, aggregates, admixtures, oxides, fibres, water, and ice. These raw materials are generally transported from various locations around Australia, China, Indonesia, and Europe. The raw materials are stored in silos, hoppers, ground bins or tanks. The materials are feed to batching plant hopper with calibrated scale. Then all the raw materials are discharged via a chute into the ready-mix concrete truck. Water is then weighed, or volume metered and discharged into the mixer truck through the same charging tank.
+
+Holcim’s ready-mix concrete is manufactured across ACT, NSW, QLD, SA, VIC, and WA, Australia. State-specific residual electricity mix available in the AusLCI database is used to model electricity in the foreground processes. The AusLCI dataset was last updated in 2025 to reflect the latest residual electricity mix source from the FY2023.
+
+| State    | Energy source in residual electricity mix                            | GWP-GHG(kg CO₂eq./kWh) |
+| -------- | -------------------------------------------------------------------- | ---------------------- |
+| NSW\&ACT | 69% black coal, 12% solar, 6% wind, 5% hydro, and 8% others          | 8.6E-01                |
+| QLD      | 71% black coal, 13% solar, 10% natural gas, and 6% others            | 9.3E-01                |
+| SA       | 34% wind, 31% natural gas, 24% solar, 9% brown coal, and 2% others   | 1.6E-01                |
+| VIC      | 64% brown coal, 15% wind, 8% solar, 7% hydro, and 6% others          | 1.0E+00                |
+| WA       | 44% natural gas, 30% black coal, 13% solar, 13% wind, and <1% others | 7.2E-01                |
+
+
+<PAGE>12<PAGE>
+# Gate to Site (Module A4)
+
+Distribution is dependent on the market requirements of ready-mix concrete products. All Holcim ready-mix concrete products transported in Australia is by EURO5 28t – 32t trucks. The transport distances from manufacturing gate to the site is 11.89 km. The product weight for 1m³ ready-mix concrete is the sum of weights from all raw material inputs.
+
+| Vehicle      | Fuel use (L/tkm) | Fuel type | Carrying capacity | Density of products | Average load factor | Volume capacity utilization factor |
+| ------------ | ---------------- | --------- | ----------------- | ------------------- | ------------------- | ---------------------------------- |
+| EURO 5 Truck | 2.3E-02          | Diesel    | 28 t – 32 t       | 2319 kg/m³          | 50%                 | <1                                 |
+
+
+# Installation (Module A5)
+
+As Holcim does not have operational control over the installation of ready-mix concrete at the construction site, assumptions for construction inputs and installation waste are made based on industrial expertise and experience, and the GCCA tool. The inputs account for the pouring of concrete from a ready-mix truck and pump, excluding any pre-installation activities such as site work and forms. The concrete slabs are then manually finished, and no additional inputs are required to be modelled.
+
+| Construction inputs and waste       | Value   | Unit |
+| ----------------------------------- | ------- | ---- |
+| Concrete losses that go to landfill | 3.0E+00 | %    |
+| Water use                           | 6.7E+02 | L    |
+| Electricity use                     | 2.8E+00 | kWh  |
+| Diesel, in building machine         | 1.7E+00 | L    |
+| Wastewater                          | 6.7E-01 | L    |
+
+
+# Deconstruction and End of Life (Modules C1 – C4)
+
+EN 15804 (chapter 7.2.3.3) and applicable PCRs discourage the use of the results of modules A1-A3 & (A1-A5 for services) without considering the results of module C.
+
+Following the supply of ready-mix concrete products, Holcim has no control over the end-of-life fate for their products. The recommended cradle to gate environmental profile will be based on the most common scenario as the majority of construction products are generally deconstructed and transported for recycling. The following assumptions have been used in this study to model deconstruction and end of life scenarios of Holcim’s ready-mix concrete:
+
+\* Deconstruction is modelled as the physical process of drilling and removing the concrete. Hydraulic excavator is assumed as the operating tool for deconstruction. This process is based on ecoinvent v3.11 (2024) database and the diesel used is extracted from the process.
+
+\* 100% of the products ( 2319 kg) are assumed to be separately collected during deconstruction.
+
+\* 25 km delivery distance to landfilling as well as reprocessing facility is assumed for waste collection process since there was no primary data available.
+
+\* This EPD assumes 100% of the product is reprocessed/recycled as Module C3. The National Waste Report (DCCEEW, 2023) notes that the current recycling and recovery rate of waste aggregate and concrete is 80%. However, as PCR 2.0.1 requires that if any declared scenario is a mix of end-of-life alternatives (reuse, recycling, incineration with energy recovery, landfill, etc.), a 100% scenario must be declared (e.g., 100% reuse, 100% recycling, 100% incineration with energy recovery, or 100% landfill), a 100% recycling scenario has been used for Module D of this EPD.
+
+\* The remaining waste concrete undergoes inert waste landfill as Module C4.
+
+| Vehicle      | Fuel use (L/tkm) | Fuel type | Carrying capacity | Average load factor | Volume capacity utilization factor |
+| ------------ | ---------------- | --------- | ----------------- | ------------------- | ---------------------------------- |
+| EURO 5 Truck | 2.2E-02          | Diesel    | 40 t              | 50%                 | <1                                 |
+
+
+<PAGE>13<PAGE>
+| Module                | Parameter              | Value   | Unit |
+| --------------------- | ---------------------- | ------- | ---- |
+| C1 – Deconstruction   | Diesel                 | 1.3E-01 | L    |
+| C2 – Transportation   | Distance to processing | 2.5E+01 | km   |
+| C3 – Waste processing | Concrete recycling     | 1.9E+03 | kg   |
+| C4 – Final disposal   | Inert waste landfill   | 4.8E+02 | kg   |
+
+
+## Benefits and loads beyond the system boundary (Module D)
+
+The end-of-life recyclers process the waste concrete into a recycled aggregate, which can be replaced with virgin coarse aggregate for a range of applications depending on the product's performance requirements. This EPD assumes 100% of the product is reprocessed/recycled as Module C3. The National Waste Report (DCCEEW, 2023) notes that the current recycling and recovery rate of waste aggregate and concrete is 80%. However, as PCR 2.0.1 requires that if any declared scenario is a mix of end-of-life alternatives (reuse, recycling, incineration with energy recovery, landfill, etc.), a 100% scenario must be declared (e.g., 100% reuse, 100% recycling, 100% incineration with energy recovery, or 100% landfill), a 100% recycling scenario has been used for Module D of this EPD.
+
+For Holcim’s internal aggregate production, waste concrete coarse and fine aggregates are able to be recycled and repurposed as recycled coarse aggregate and sand. The environmental benefits from avoiding the use of virgin materials are fully accounted for.
+
+In the consideration of Module C, the end-of-life recyclers process the waste concrete into a recycled aggregate, which can be replaced with virgin coarse aggregate for a range of applications depending on the products performance requirements.
+
+<PAGE>14<PAGE>
+# ENVIRONMENTAL PERFORMANCE
+
+The environmental impacts considered in this EPD are listed in the table below. EN 15804+A2 reference package based on EF 3.1 (Environmental Footprint) or a later version has been used. All further tables from this point will contain abbreviation only.
+
+| Impact Category                                                                                                         | Abbreviation     | Measurement Unit            |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------- |
+| **Potential Environmental Impact indicators**                                                                           |                  |                             |
+| Total global warming potential                                                                                          | GWP – T          | kg CO₂ equivalents (GWP100) |
+| Global warming potential (fossil)                                                                                       | GWP – F          | kg CO₂ equivalents (GWP100) |
+| Global warming potential (biogenic)                                                                                     | GWP – B          | kg CO₂ equivalents (GWP100) |
+| Global warming potential (land use/ land transformation)                                                                | GWP – Luluc      | kg CO₂ equivalents (GWP100) |
+| Ozone depletion potential                                                                                               | ODP              | kg CFC 11 equivalents       |
+| Acidification potential                                                                                                 | AP               | mol H+ eq.                  |
+| Eutrophication – aquatic freshwater                                                                                     | EP – freshwater  | kg P equivalent             |
+| Eutrophication – aquatic marine                                                                                         | EP - marine      | kg N equivalent             |
+| Eutrophication – terrestrial                                                                                            | EP – terrestrial | mol N equivalent            |
+| Photochemical ozone creation potential                                                                                  | POCP             | kg NMVOC equivalents        |
+| Abiotic depletion potential (elements)\\\*                                                                              | ADPE             | kg Sb equivalents           |
+| Abiotic depletion potential (fossil fuels)\\\*                                                                          | ADPF             | MJ net calorific value      |
+| Water Depletion Potential\\\*                                                                                           | WDP              | m³ equivalent deprived      |
+| **Resource use indicators**                                                                                             |                  |                             |
+| Use of renewable primary energy excluding renewable primary energy resources used as raw materials                      | PERE             | MJ, net calorific value     |
+| Use of renewable primary energy resources used as raw materials                                                         | PERM             | MJ, net calorific value     |
+| Total use of renewable primary energy resources (primary energy and primary energy resources used as raw materials)     | PERT             | MJ, net calorific value     |
+| Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials              | PENRE            | MJ, net calorific value     |
+| Use of non-renewable primary energy resources used as raw materials                                                     | PENRM            | MJ, net calorific value     |
+| Total use of non-renewable primary energy resources (primary energy and primary energy resources used as raw materials) | PENRT            | MJ, net calorific value     |
+| Use of secondary material                                                                                               | SM               | kg                          |
+| Use of renewable secondary fuels                                                                                        | RSF              | MJ, net calorific value     |
+| Use of non-renewable secondary fuels                                                                                    | NRSF             | MJ, net calorific value     |
+| Use of net fresh water                                                                                                  | FW               | m³                          |
+
+
+<PAGE>15<PAGE>
+| Impact Category                                                                 | Abbreviation  | Measurement Unit            |
+| ------------------------------------------------------------------------------- | ------------- | --------------------------- |
+| **Waste categories and Output flows indicators**                                |               |                             |
+| Hazardous waste disposed                                                        | HWD           | kg                          |
+| Non-hazardous waste disposed                                                    | NHWD          | kg                          |
+| Radioactive waste disposed/stored                                               | RWD           | kg                          |
+| Components for reuse                                                            | CFR           | kg                          |
+| Materials for recycling                                                         | MFR           | kg                          |
+| Materials for energy recovery                                                   | MFEE          | kg                          |
+| Exported energy                                                                 | EE - e        | MJ per energy carrier       |
+| Exported energy, thermal                                                        | EE - t        | MJ per energy carrier       |
+| **Additional environmental impact indicators**                                  |               |                             |
+| Global warming potential, excluding biogenic uptake, emissions and storage      | GWP-GHG       | kg CO₂ equivalents (GWP100) |
+| Global warming potential, aligned with the IPCC 2013 Fifth Assessment Report \* | GWP-GHG (AR5) | kg CO₂ equivalents (GWP100) |
+| Particulate matter                                                              | PM            | disease incidence           |
+| Ionising radiation – human health                                               | IRP           | kBq U-235 eq                |
+| Eco-toxicity (freshwater)\*                                                     | ETP-fw        | CTUe                        |
+| Human toxicity potential – cancer effects\*                                     | HTP-c         | CTUh                        |
+| Human toxicity potential – non cancer effects\*                                 | HTP-nc        | CTUh                        |
+| Soil quality\*                                                                  | SQP           | dimensionless               |
+| **Potential environmental Impact Indicators (EN15804+A1)**                      |               |                             |
+| Global warming (GWP100a) – A1                                                   | GWP (A1)      | kg CO₂ equivalents          |
+| Ozone layer depletion (ODP) – A1                                                | ODP (A1)      | kg CFC-11 equivalents       |
+| Acidification – A1                                                              | AP (A1)       | kg SO₂ equivalents          |
+| Eutrophication – A1                                                             | EP (A1)       | kg PO₄³⁻ equivalents        |
+| Photochemical oxidation – A1                                                    | POCP (A1)     | kg C₂H₄ equivalents         |
+| Abiotic depletion – A1                                                          | ADPE (A1)     | kg Sb equivalents           |
+| Abiotic depletion (fossil fuels) – A1                                           | ADPF (A1)     | MJ, net calorific value     |
+| Global warming (GWP100a) – A1                                                   | GWP (A1)      | kg CO₂ equivalents          |
+| **Additional Greenstar v1.3 Indicators**                                        |               |                             |
+| Human Toxicity cancer Green Star                                                | HTc (GS)      | CTUh                        |
+| Human Toxicity non-cancer Green Star                                            | HTnc (GS)     | CTUh                        |
+| Land use Green Star                                                             | LU (GS)       | kg C deficit equivalents    |
+| Ionising radiation Green Star                                                   | IR (GS)       | kBq U-235 equivalents       |
+| Particulate Matter Green Star                                                   | PM (GS)       | kg PM2.5 equivalents        |
+| WSI Green Star                                                                  | WSI (GS)      | m³ equivalents              |
+
+
+\*Disclaimer – The results of these environmental impact indicators shall be used with care as the uncertainties on these results are high or as there is limited experience with the indicator.
+
+\*\*Disclaimer – This impact category deals mainly with the eventual impact of low dose ionizing radiation on human health of the nuclear fuel cycle. It does not consider effects due to possible nuclear accidents, occupational exposure nor due to radioactive waste disposal in underground facilities. Potential ionizing radiation from the soil, from radon and from some construction materials is also not measured by this indicator.
+
+\*\*\* - GWP-GHG (IPCC AR5) is an additional GWP100 indicator that is aligned with the Intergovernmental Panel on Climate Change (IPCC) 2013 Fifth Assessment Report (AR5) (IPCC 2013), national greenhouse gas reporting frameworks in Australia and New Zealand and previous versions of the Construction Products PCR (PCR2019:14). It excludes biogenic carbon and indirect radiative forcing.
+
+<PAGE>16<PAGE>
+# QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use
+
+The use of results of modules A1-A3 or A1-A5, without considering the results of module C may mislead the communication and decision-making. The estimated impact results are only relative statements, which do not indicate the endpoints of the impact categories, exceeding threshold values, safety margins and/or risks.
+
+## PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete
+
+| Abbreviation | Unit                       | A1-A3   | A4        | A5       | C1        | C2       | C3        | C4 | D         |
+| ------------ | -------------------------- | ------- | --------- | -------- | --------- | -------- | --------- | -- | --------- |
+| GWP-Total    | kg CO₂ eq.                 | 146     | 2.58      | 12.9     | 0.522     | 4.31     | 10.4      | 0  | -18.5     |
+| GWP-Fossil   | kg CO₂ eq.                 | 145     | 2.58      | 12.8     | 0.522     | 4.31     | 10.3      | 0  | -18.5     |
+| GWP-Biogenic | kg CO₂ eq.                 | 0.822   | 0.0000896 | 0.0299   | 0.0000223 | 0.000150 | 0.00865   | 0  | -0.0150   |
+| GWP-Luluc    | kg CO₂ eq.                 | 0.0489  | 0.0000661 | 0.0104   | 0.0000184 | 0.000110 | 0.00810   | 0  | -0.0168   |
+| ODP          | kg CFC 11 eq.              | 1.33E-6 | 3.40E-8   | 1.40E-7  | 7.80E-9   | 5.68E-8  | 1.32E-7   | 0  | -9.01E-9  |
+| AP           | mol H+ eq.                 | 0.829   | 0.0134    | 0.0992   | 0.00491   | 0.0224   | 0.0915    | 0  | -0.105    |
+| EP-F         | kg P eq.                   | 0.0173  | 1.91E-6   | 0.000527 | 4.73E-7   | 3.19E-6  | 0.0000222 | 0  | -0.000715 |
+| EP-M         | kg N eq.                   | 0.112   | 0.00351   | 0.0332   | 0.00231   | 0.00587  | 0.0386    | 0  | -0.0266   |
+| EP-T         | mol N eq.                  | 1.91    | 0.0392    | 0.384    | 0.0253    | 0.0655   | 0.422     | 0  | -0.292    |
+| POCP         | kg NMVOC eq.               | 0.523   | 0.0148    | 0.112    | 0.00748   | 0.0247   | 0.125     | 0  | -0.0931   |
+| ADPE         | kg Sb eq.                  | 0.0147  | 8.67E-8   | 0.000440 | 2.15E-8   | 1.45E-7  | 1.69E-6   | 0  | -2.29E-6  |
+| ADPF         | MJ                         | 1029    | 33.5      | 125      | 6.89      | 56.0     | 121       | 0  | -243      |
+| WDP          | m³ equivalent<br/>deprived | 26.3    | 0.0122    | 43.7     | 0.00925   | 0.0204   | 2.41      | 0  | -32.6     |
+
+
+## RESOURCE USE PARAMETERS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete
+
+| Abbreviation | Unit | A1-A3 | A4       | A5     | C1       | C2       | C3     | C4 | D      |
+| ------------ | ---- | ----- | -------- | ------ | -------- | -------- | ------ | -- | ------ |
+| PERE         | MJ   | 43.6  | 0.0561   | 6.43   | 0.0129   | 0.0937   | 4.42   | 0  | -23.4  |
+| PERM         | MJ   | 0     | 0        | 0      | 0        | 0        | 0      | 0  | 0      |
+| PERT         | MJ   | 43.6  | 0.0561   | 6.43   | 0.0129   | 0.0937   | 4.42   | 0  | -23.4  |
+| PENRE        | MJ   | 1038  | 33.5     | 125    | 6.89     | 56.0     | 121    | 0  | -243   |
+| PENRM        | MJ   | 0     | 0        | 0      | 0        | 0        | 0      | 0  | 0      |
+| PENRT        | MJ   | 1038  | 33.5     | 125    | 6.89     | 56.0     | 121    | 0  | -243   |
+| SM           | kg   | 167   | 0        | 5.00   | 0        | 0        | 0      | 0  | 0      |
+| RSF          | MJ   | 1.58  | 0        | 0.0475 | 0        | 0        | 0      | 0  | 0      |
+| NRSF         | MJ   | 34.6  | 0        | 1.04   | 0        | 0        | 0      | 0  | 0      |
+| FW           | m³   | 0.483 | 0.000426 | 0.668  | 0.000222 | 0.000712 | 0.0417 | 0  | -0.784 |
+
+
+<PAGE>17<PAGE>
+# WASTE CATEGORIES AND OUTPUT FLOWS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete
+
+| Abbreviation | Unit | A1-A3     | A4       | A5      | C1        | C2       | C3       | C4 | D         |
+| ------------ | ---- | --------- | -------- | ------- | --------- | -------- | -------- | -- | --------- |
+| HWD          | kg   | 0.946     | 0.000230 | 0.0289  | 0.0000113 | 0.000383 | 0.000770 | 0  | -0.000841 |
+| NHWD         | kg   | 49.6      | 0.000861 | 71.1    | 2.19E-6   | 0.00144  | 0.115    | 0  | -0.235    |
+| RWD          | kg   | 0.0000348 | 1.27E-6  | 5.44E-6 | 0         | 2.12E-6  | 7.44E-6  | 0  | -0.000518 |
+| CRU          | kg   | 0         | 0        | 0       | 0         | 0        | 0        | 0  | 0         |
+| MFR          | kg   | 0.156     | 0        | 0.00467 | 0         | 0        | 2319     | 0  | 0         |
+| MFRE         | kg   | 0         | 0        | 0       | 0         | 0        | 0        | 0  | 0         |
+| EE - e       | MJ   | 0         | 0        | 0       | 0         | 0        | 0        | 0  | 0         |
+| EE - t       | MJ   | 0         | 0        | 0       | 0         | 0        | 0        | 0  | 0         |
+
+
+# ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete
+
+| Abbreviation  | Unit              | A1-A3     | A4       | A5      | C1       | C2       | C3       | C4 | D        |
+| ------------- | ----------------- | --------- | -------- | ------- | -------- | -------- | -------- | -- | -------- |
+| GWP-GHG       | kg CO₂ eq.        | 146       | 2.58     | 12.9    | 0.522    | 4.31     | 10.4     | 0  | -18.5    |
+| GWP-GHG (AR5) | kg CO₂ eq.        | 148       | 2.59     | 12.9    | 0.523    | 4.32     | 10.4     | 0  | -18.5    |
+| PM            | disease incidence | 0.0000167 | 2.34E-7  | 2.32E-6 | 1.41E-7  | 3.90E-7  | 2.36E-6  | 0  | -1.66E-6 |
+| IRP           | kBq U-235 eq      | 370       | 0.00245  | 11.1    | 0.000526 | 0.00408  | 0.0126   | 0  | -0.800   |
+| ETP-fw        | CTUe              | 352       | 1.25     | 13.8    | 0.250    | 2.09     | 5.18     | 0  | -33.5    |
+| HTP-c         | CTUh              | 1.92E-7   | 1.03E-10 | 6.20E-9 | 2.81E-11 | 1.73E-10 | 8.63E-10 | 0  | -2.08E-9 |
+| HTP-nc        | CTUh              | 5.36E-6   | 5.22E-9  | 1.74E-7 | 5.14E-10 | 8.72E-9  | 1.81E-8  | 0  | -7.91E-8 |
+| SQP           | dimensionless     | 315       | 0.0499   | 19.1    | 0.0133   | 0.0833   | 31.8     | 0  | -156     |
+
+
+<PAGE>18<PAGE>
+# ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS (in accordance with EN 15804:2012+A1:2013) – 1m³ of ready-mix concrete
+
+| Abbreviation | Unit          | A1-A3   | A4      | A5       | C1       | C2      | C3      | C4 | D        |
+| ------------ | ------------- | ------- | ------- | -------- | -------- | ------- | ------- | -- | -------- |
+| GWP (A1)     | kg CO₂ eq.    | 147     | 2.58    | 12.9     | 0.522    | 4.31    | 10.3    | 0  | -18.5    |
+| ODP (A1)     | kg CFC 11 eq. | 1.33E-6 | 3.40E-8 | 1.40E-7  | 7.80E-9  | 5.68E-8 | 1.32E-7 | 0  | -9.01E-9 |
+| AP (A1)      | kg SO₂ eq.    | 0.829   | 0.0134  | 0.0992   | 0.00491  | 0.0224  | 0.0915  | 0  | -0.105   |
+| EP (A1)      | kg PO₄³⁻ eq.  | 0.0853  | 0.00122 | 0.0127   | 0.000779 | 0.00204 | 0.0131  | 0  | -0.0113  |
+| POCP (A1)    | kg C₂H₄ eq.   | 0.523   | 0.0148  | 0.112    | 0.00748  | 0.0247  | 0.125   | 0  | -0.0931  |
+| ADPE (A1)    | kg SO₂ eq.    | 0.0147  | 8.67E-8 | 0.000440 | 2.15E-8  | 1.45E-7 | 1.69E-6 | 0  | -2.29E-6 |
+| ADPF (A1)    | MJ            | 1029    | 33.5    | 125      | 6.89     | 56.0    | 121     | 0  | -243     |
+
+
+# ADDITIONAL GREEN STAR (V1.3) IMPACT INDICATORS – 1m³ of ready-mix concrete
+
+| Abbreviation | Unit             | A1-A3     | A4       | A5       | C1       | C2       | C3       | C4 | D         |
+| ------------ | ---------------- | --------- | -------- | -------- | -------- | -------- | -------- | -- | --------- |
+| HTc (GS)     | CTUh             | 6.05E-9   | 2.41E-11 | 2.58E-10 | 3.60E-12 | 4.03E-11 | 1.04E-10 | 0  | -4.73E-10 |
+| HTnc (GS)    | CTUh             | 2.11E-10  | 2.65E-12 | 9.11E-12 | 2.08E-13 | 4.42E-12 | 4.74E-12 | 0  | -2.19E-11 |
+| LU (GS)      | kg C deficit eq. | 57.8      | 0.0275   | 2.06     | 0.00637  | 0.0459   | 2.97     | 0  | -494      |
+| IR (GS)      | kBq U235 eq.     | 0.141     | 0.00246  | 0.0121   | 0.000526 | 0.00410  | 0.0127   | 0  | -0.805    |
+| PM (GS)      | kg PM2.5 eq.     | 0.0000167 | 2.34E-7  | 2.32E-6  | 1.41E-7  | 3.90E-7  | 2.36E-6  | 0  | -1.66E-6  |
+| WSI (GS)     | m³               | 1.36      | 0.000415 | 2.28     | 0.000309 | 0.000693 | 0.122    | 0  | -1.04     |
+
+
+<PAGE>19<PAGE>
+# OTHER LIFE CYCLE STAGES NOT INCLUDED IN THIS EPD
+
+While the LCA study and EPD only consider the cradle to gate (modules A1-A3) with options modules A4-A5, modules C1-C4 and module D of the environmental impacts of Holcim’s ready-mix concrete, practitioners using the EPD for the purpose of whole-of-life building studies or the functional comparison of different building products on a whole-of-life basis will consider concrete’s other life cycle stages. Some of the environmental impacts of benefits associated with other life cycle stages not included in this EPD are described in the following sections.
+
+## Lifetime absorption of CO₂
+
+Carbonation is a natural process whereby concrete absorbs carbon dioxide (CO₂) from the atmosphere through a chemical reaction between the CO₂ in the ambient air and hydration products within the concrete (CaOH₂). Ready-mix concrete can be subject to carbonation from the use stage onward (i.e. after construction and curing). From a life cycle impact accounting perspective, this process can also be referred to as ‘reabsorption’, since the CO₂ emitted during the cement manufacturing process can be partly offset by the lifetime absorption of CO₂, therefore reducing the net CO₂ emissions associated with concrete over its lifetime.
+
+The carbonisation process is a commonly known process in building design and is typically taken into consideration by engineers when specifying special-class concrete.
+
+The total amount of CO₂ absorption during the life cycle of concrete is subject to a range of factors and varies over time. The calculation has been standardised in the British and European Standard BS EN 16757:2017 *Sustainability of construction works – Environmental Product Declarations – Product Category Rules for concrete and concrete elements*. It is recommended that practitioners make use of this standard when conducting whole-of-life building studies and if the building materials include substantial amounts of concrete. Please note that CO₂ absorption has not been considered in this EPD and is not reflected in the EPD results tables.
+
+Aerial photograph of Apple Park, Cupertino, California
+
+<PAGE>20<PAGE>
+# REFERENCES
+
+AusLCI. (2025) AusLCI Database – v2.45. Retrieved from Australian Life Cycle Inventory Database Initiative: [www.auslci.com.au/](http://www.auslci.com.au/)
+
+Australasian EPD Programme. (2024). A Regional Annex to the General Programme Instructions of the International EPD System V4.2. Published 2024-04-12.
+
+Department of Climate Change, Energy, the Environment and Water. (2023). National Waste Report 2022. Retrieved from [https://www.dcceew.gov.au/environment/protection/waste/national-waste-reports/2022](https://www.dcceew.gov.au/environment/protection/waste/national-waste-reports/2022).
+
+Ecoinvent Centre. (2024). Ecoinvent version 3.11 database. Zurich: ETH, Agroscope, EMPA, EPFL, PSI. Retrieved from [www.ecoinvent.org](http://www.ecoinvent.org/).
+
+EPD International. (2025). General Programme Instructions (GPI) for the International EPD System V5.0.1. Published 2025-02-07. Retrieved from [www.envirodec.com](http://www.envirodec.com/).
+
+EPD International. (2025). Product Category Rules for Construction Products and Construction Services, PCR2019:14 v2.0.1. Published 2025-06-05. Stockholm: EPD International.
+
+European Committee for Standardization. (2021). Sustainability of construction works. Environmental product declarations. Core rules for the product category of construction products, EN 15804:2012+A2:2019/AC:2021.
+
+European Committee for Standardization. (2022). European Committee for Standardization. (2022). Sustainability of construction works - Environmental product declarations - Product Category Rules for concrete and concrete elements, EN 16757:2022. European Committee for Standardization.
+
+European Committee for Standardization. (2024). Sustainability of construction works - Data quality for environmental assessment of products and construction work - Selection and use of data, EN 15941:2024. European Committee for Standardization.
+
+Green Building Council of Australia. (2022). An upfront conversation about upfront carbon. Retrieved from GBCA: [https://new.gbca.org.au/news/gbca-news/upfront-conversation-about-upfront-carbon/](https://new.gbca.org.au/news/gbca-news/upfront-conversation-about-upfront-carbon/)
+
+ISO. (2020). Environmental labels and declarations – Type III environmental declarations – Principles and procedures, ISO 14025:2006. Geneva: International Organization for Standardization.
+
+ISO. (2020). Environmental management – Life cycle assessment – Principles and framework, ISO 14040:2006+A2:2020. Geneva: International Organization for Standardization.
+
+ISO. (2020). Environmental management. Life cycle assessment. Requirements and guidelines, ISO 14044:2006+A2:2020. Geneva: International Organization for Standardization.
+
+Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of Australia’s Construction Sector’, Procedia Engineering, Volume 180, 2017, Pages 211-220, ISSN 1877-7058, ([http://www.sciencedirect.com/science/article/pii/S1877705817316879](http://www.sciencedirect.com/science/article/pii/S1877705817316879))
+
+Mohammadi, J., & South, W. (2017). Life cycle assessment (LCA) of benchmark concrete products in Australia. The International Journal of Life Cycle Assessment, 22(10), 1588-1608.
+
+World Green Building Council. (2019). Bringing embodied carbon upfront. Retrieved from World Green Building Council: [https://worldgbc.org/advancing-net-zero/embodied-carbon/](https://worldgbc.org/advancing-net-zero/embodied-carbon/)
+
+<PAGE>21<PAGE>
+HOLCIM logo
+
+Contact your Holcim representative today for more information.
+**Customer Service Centre 131 188**
+**Holcim (Australia) Pty Ltd**
+Level 40/100 Miller St,
+North Sydney NSW 2060, Australia
+Phone 02 9412 6600
+ABN 87 099 732 297
+www.holcim.com.au
+
+This publication supersedes all previous literature on this subject. As the specifications and details contained in this publication may change, please check with Holcim Customer Service for confirmation of current issue. This publication provides general information only and is no substitute for professional technical engineering advice. Users must make their own determination as to the suitability of this information or any Holcim product for their specific circumstances. Holcim accepts no liability for any loss or damage resulting from their specific circumstances. Holcim accepts no liability for a loss or damage resulting from any reliance on the information provided in this publication. Holcim is a registered trademark of Holcim Ltd.
+
+© 2026 Holcim (Australia) Pty Ltd ABN 87 732 297. All rights reserved.
+This guide or any part of it may not be reproduced without prior written consent of Holcim.
+

@@ -1,0 +1,88 @@
+{
+  "segments": [
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        1,
+        2
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        3,
+        4,
+        5
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        14,
+        15,
+        16
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        17
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        18,
+        19
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Product Information and Specs",
+      "pages": [
+        20
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "uncategorized",
+      "pages": [
+        21
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        22,
+        23
+      ],
+      "confidence_category": "high"
+    },
+    {
+      "category": "Environmental Impact Data",
+      "pages": [
+        24
+      ],
+      "confidence_category": "high"
+    }
+  ]
+}

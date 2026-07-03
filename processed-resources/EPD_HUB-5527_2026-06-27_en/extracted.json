@@ -1,0 +1,1011 @@
+{
+  "epd_program_operator": "EPD Hub",
+  "product_name": "Ready-mix concrete",
+  "product_type": "Ready-mix concrete",
+  "manufacturer": {
+    "name": "Tandy Concrete"
+  },
+  "manufacturing_location": "Central Queensland",
+  "manufacturing_sites": [
+    "Airlie Beach",
+    "Mackay",
+    "Marian",
+    "Rockhampton",
+    "Yeppoon"
+  ],
+  "environmental_impacts": {
+    "gwp_total": {
+      "indicator_name": "GWP – total",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 254,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "A2": {
+          "value": 26.3,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "A3": {
+          "value": 4.07,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "A1-A3": {
+          "value": 284,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C1": {
+          "value": 4.54,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C2": {
+          "value": 12.9,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C3": {
+          "value": 7.31,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C4": {
+          "value": 4.47,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "D": {
+          "value": -13.4,
+          "page_number": 9,
+          "excerpt": "GWP – total1) | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,19E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        }
+      }
+    },
+    "gwp_fossil": {
+      "indicator_name": "GWP – fossil",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 254,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "A2": {
+          "value": 26.3,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "A3": {
+          "value": 4.07,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "A1-A3": {
+          "value": 284,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C1": {
+          "value": 4.54,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C2": {
+          "value": 12.9,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C3": {
+          "value": 7.31,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "C4": {
+          "value": 4.47,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        },
+        "D": {
+          "value": -13.4,
+          "page_number": 9,
+          "excerpt": "GWP – fossil | kg CO₂e | 2,54E+02 | 2,63E+01 | 4,07E+00 | 2,84E+02 | 2,18E+00 | 1,67E+01 | ND | ND | ND | ND | ND | ND | ND | 4,54E+00 | 1,29E+01 | 7,31E+00 | 4,47E+00 | ‐1,34E+01"
+        }
+      }
+    },
+    "gwp_biogenic": {
+      "indicator_name": "GWP – biogenic",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": -0.0388,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "A2": {
+          "value": 0.0102,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "A3": {
+          "value": 0.000474,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "A1-A3": {
+          "value": -0.0281,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "C1": {
+          "value": 0.000464,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "C2": {
+          "value": 0.00291,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "C3": {
+          "value": -0.000746,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "C4": {
+          "value": -0.00142,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        },
+        "D": {
+          "value": -0.042,
+          "page_number": 9,
+          "excerpt": "GWP – biogenic | kg CO₂e | ‐3,88E‐02 | 1,02E‐02 | 4,74E‐04 | ‐2,81E‐02 | 4,95E‐04 | ‐5,33E‐05 | ND | ND | ND | ND | ND | ND | ND | 4,64E‐04 | 2,91E‐03 | ‐7,46E‐04 | ‐1,42E‐03 | ‐4,20E‐02"
+        }
+      }
+    },
+    "gwp_luluc": {
+      "indicator_name": "GWP – LULUC",
+      "unit": "kg CO₂e",
+      "modules": {
+        "A1": {
+          "value": 0.0157,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "A2": {
+          "value": 0.0173,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "A3": {
+          "value": 0.000353,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "A1-A3": {
+          "value": 0.0333,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "C1": {
+          "value": 0.000465,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "C2": {
+          "value": 0.00575,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "C3": {
+          "value": 0.000749,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "C4": {
+          "value": 0.00256,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        },
+        "D": {
+          "value": -0.0185,
+          "page_number": 9,
+          "excerpt": "GWP – LULUC | kg CO₂e | 1,57E‐02 | 1,73E‐02 | 3,53E‐04 | 3,33E‐02 | 9,77E‐04 | 2,06E‐03 | ND | ND | ND | ND | ND | ND | ND | 4,65E‐04 | 5,75E‐03 | 7,49E‐04 | 2,56E‐03 | ‐1,85E‐02"
+        }
+      }
+    },
+    "ozone_depletion_pot": {
+      "indicator_name": "Ozone depletion pot.",
+      "unit": "kg CFC-11e",
+      "modules": {
+        "A1": {
+          "value": 0.00000295,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "A2": {
+          "value": 3.58e-7,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "A3": {
+          "value": 6.43e-8,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "A1-A3": {
+          "value": 0.00000337,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "C1": {
+          "value": 6.96e-8,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "C2": {
+          "value": 1.9e-7,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "C3": {
+          "value": 1.12e-7,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "C4": {
+          "value": 1.3e-7,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        },
+        "D": {
+          "value": -0.00000112,
+          "page_number": 9,
+          "excerpt": "Ozone depletion pot. | kg CFC-11e | 2,95E‐06 | 3,58E‐07 | 6,43E‐08 | 3,37E‐06 | 3,23E‐08 | 2,28E‐07 | ND | ND | ND | ND | ND | ND | ND | 6,96E‐08 | 1,90E‐07 | 1,12E‐07 | 1,30E‐07 | ‐1,12E‐06"
+        }
+      }
+    },
+    "acidification_potential": {
+      "indicator_name": "Acidification potential",
+      "unit": "mol H+e",
+      "modules": {
+        "A1": {
+          "value": 0.924,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "A2": {
+          "value": 0.141,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "A3": {
+          "value": 0.0316,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "A1-A3": {
+          "value": 1.1,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "C1": {
+          "value": 0.041,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "C2": {
+          "value": 0.0438,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "C3": {
+          "value": 0.066,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "C4": {
+          "value": 0.0317,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        },
+        "D": {
+          "value": -0.0876,
+          "page_number": 9,
+          "excerpt": "Acidification potential | mol H+e | 9,24E‐01 | 1,41E‐01 | 3,16E‐02 | 1,10E+00 | 7,45E‐03 | 1,04E‐01 | ND | ND | ND | ND | ND | ND | ND | 4,10E‐02 | 4,38E‐02 | 6,60E‐02 | 3,17E‐02 | ‐8,76E‐02"
+        }
+      }
+    },
+    "ep_freshwater": {
+      "indicator_name": "EP-freshwater",
+      "unit": "kg Pe",
+      "modules": {
+        "A1": {
+          "value": 0.0432,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "A2": {
+          "value": 0.00301,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "A3": {
+          "value": 0.000344,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "A1-A3": {
+          "value": 0.0465,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "C1": {
+          "value": 0.000131,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "C2": {
+          "value": 0.001,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "C3": {
+          "value": 0.000211,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "C4": {
+          "value": 0.000368,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        },
+        "D": {
+          "value": -0.000793,
+          "page_number": 9,
+          "excerpt": "EP-freshwater2) | kg Pe | 4,32E‐02 | 3,01E‐03 | 3,44E‐04 | 4,65E‐02 | 1,70E‐04 | 1,66E‐03 | ND | ND | ND | ND | ND | ND | ND | 1,31E‐04 | 1,00E‐03 | 2,11E‐04 | 3,68E‐04 | ‐7,93E‐04"
+        }
+      }
+    },
+    "ep_marine": {
+      "indicator_name": "EP-marine",
+      "unit": "kg Ne",
+      "modules": {
+        "A1": {
+          "value": 0.0456,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "A2": {
+          "value": 0.0518,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "A3": {
+          "value": 0.0118,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "A1-A3": {
+          "value": 0.109,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "C1": {
+          "value": 0.019,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "C2": {
+          "value": 0.0144,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "C3": {
+          "value": 0.0306,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "C4": {
+          "value": 0.0121,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        },
+        "D": {
+          "value": -0.0189,
+          "page_number": 9,
+          "excerpt": "EP-marine | kg Ne | 4,56E‐02 | 5,18E‐02 | 1,18E‐02 | 1,09E‐01 | 2,45E‐03 | 3,59E‐02 | ND | ND | ND | ND | ND | ND | ND | 1,90E‐02 | 1,44E‐02 | 3,06E‐02 | 1,21E‐02 | ‐1,89E‐02"
+        }
+      }
+    },
+    "ep_terrestrial": {
+      "indicator_name": "EP-terrestrial",
+      "unit": "mol Ne",
+      "modules": {
+        "A1": {
+          "value": 2.19,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "A2": {
+          "value": 0.564,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "A3": {
+          "value": 0.129,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "A1-A3": {
+          "value": 2.88,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "C1": {
+          "value": 0.208,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "C2": {
+          "value": 0.157,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "C3": {
+          "value": 0.335,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "C4": {
+          "value": 0.132,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        },
+        "D": {
+          "value": -0.247,
+          "page_number": 9,
+          "excerpt": "EP-terrestrial | mol Ne | 2,19E+00 | 5,64E‐01 | 1,29E‐01 | 2,88E+00 | 2,66E‐02 | 4,44E‐01 | ND | ND | ND | ND | ND | ND | ND | 2,08E‐01 | 1,57E‐01 | 3,35E‐01 | 1,32E‐01 | ‐2,47E‐01"
+        }
+      }
+    },
+    "pocp_smog": {
+      "indicator_name": "POCP (“smog”)",
+      "unit": "kg NMVOCe",
+      "modules": {
+        "A1": {
+          "value": 0.522,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "A2": {
+          "value": 0.188,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "A3": {
+          "value": 0.0384,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "A1-A3": {
+          "value": 0.749,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "C1": {
+          "value": 0.0621,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "C2": {
+          "value": 0.0646,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "C3": {
+          "value": 0.1,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "C4": {
+          "value": 0.0473,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        },
+        "D": {
+          "value": -0.0635,
+          "page_number": 9,
+          "excerpt": "POCP (“smog”)3) | kg NMVOCe | 5,22E‐01 | 1,88E‐01 | 3,84E‐02 | 7,49E‐01 | 1,10E‐02 | 1,30E‐01 | ND | ND | ND | ND | ND | ND | ND | 6,21E‐02 | 6,46E‐02 | 1,00E‐01 | 4,73E‐02 | ‐6,35E‐02"
+        }
+      }
+    },
+    "adp_minerals_metals": {
+      "indicator_name": "ADP-minerals & metals",
+      "unit": "kg Sbe",
+      "modules": {
+        "A1": {
+          "value": 0.0000212,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "A2": {
+          "value": 0.0000712,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "A3": {
+          "value": 0.00000134,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "A1-A3": {
+          "value": 0.0000938,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "C1": {
+          "value": 0.00000163,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "C2": {
+          "value": 0.0000359,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "C3": {
+          "value": 0.00000262,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "C4": {
+          "value": 0.0000071,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        },
+        "D": {
+          "value": -0.000135,
+          "page_number": 9,
+          "excerpt": "ADP-minerals & metals4) | kg Sbe | 2,12E‐05 | 7,12E‐05 | 1,34E‐06 | 9,38E‐05 | 6,09E‐06 | 7,01E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,63E‐06 | 3,59E‐05 | 2,62E‐06 | 7,10E‐06 | ‐1,35E‐04"
+        }
+      }
+    },
+    "adp_fossil_resources": {
+      "indicator_name": "ADP-fossil resources",
+      "unit": "MJ",
+      "modules": {
+        "A1": {
+          "value": 398,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "A2": {
+          "value": 363,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "A3": {
+          "value": 51.7,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "A1-A3": {
+          "value": 813,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "C1": {
+          "value": 59.4,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "C2": {
+          "value": 186,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "C3": {
+          "value": 95.7,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "C4": {
+          "value": 110,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        },
+        "D": {
+          "value": -199,
+          "page_number": 9,
+          "excerpt": "ADP-fossil resources | MJ | 3,98E+02 | 3,63E+02 | 5,17E+01 | 8,13E+02 | 3,17E+01 | 1,34E+02 | ND | ND | ND | ND | ND | ND | ND | 5,94E+01 | 1,86E+02 | 9,57E+01 | 1,10E+02 | ‐1,99E+02"
+        }
+      }
+    },
+    "water_use": {
+      "indicator_name": "Water use",
+      "unit": "m³e depr.",
+      "modules": {
+        "A1": {
+          "value": 46.8,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "A2": {
+          "value": 2.53,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "A3": {
+          "value": 12.1,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "A1-A3": {
+          "value": 61.5,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "C1": {
+          "value": 0.148,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "C2": {
+          "value": 0.921,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "C3": {
+          "value": 0.239,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "C4": {
+          "value": 0.317,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        },
+        "D": {
+          "value": -26.5,
+          "page_number": 9,
+          "excerpt": "Water use5) | m³e depr. | 4,68E+01 | 2,53E+00 | 1,21E+01 | 6,15E+01 | 1,57E‐01 | 2,14E+00 | ND | ND | ND | ND | ND | ND | ND | 1,48E‐01 | 9,21E‐01 | 2,39E‐01 | 3,17E‐01 | ‐2,65E+01"
+        }
+      }
+    },
+    "particulate_matter": {
+      "indicator_name": "Particulate matter",
+      "unit": "Incidence",
+      "modules": {
+        "A1": {
+          "value": 0.00000739,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "A2": {
+          "value": 0.00000295,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "A3": {
+          "value": 7.92e-7,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "A1-A3": {
+          "value": 0.0000111,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "C1": {
+          "value": 0.00000117,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "C2": {
+          "value": 0.00000129,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "C3": {
+          "value": 0.0000143,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "C4": {
+          "value": 7.22e-7,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        },
+        "D": {
+          "value": -0.00000112,
+          "page_number": 10,
+          "excerpt": "Particulate matter | Incidence | 7,39E‐06 | 2,95E‐06 | 7,92E‐07 | 1,11E‐05 | 2,19E‐07 | 2,72E‐06 | ND | ND | ND | ND | ND | ND | ND | 1,17E‐06 | 1,29E‐06 | 1,43E‐05 | 7,22E‐07 | ‐1,12E‐06"
+        }
+      }
+    },
+    "ionizing_radiation": {
+      "indicator_name": "Ionizing radiation",
+      "unit": "kBq U235e",
+      "modules": {
+        "A1": {
+          "value": 827,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "A2": {
+          "value": 0.579,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "A3": {
+          "value": 0.0355,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "A1-A3": {
+          "value": 828,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "C1": {
+          "value": 0.0263,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "C2": {
+          "value": 0.162,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "C3": {
+          "value": 0.0424,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "C4": {
+          "value": 0.069,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        },
+        "D": {
+          "value": -3.16,
+          "page_number": 10,
+          "excerpt": "Ionizing radiation6) | kBq U235e | 8,27E+02 | 5,79E‐01 | 3,55E‐02 | 8,28E+02 | 2,76E‐02 | 2,49E+01 | ND | ND | ND | ND | ND | ND | ND | 2,63E‐02 | 1,62E‐01 | 4,24E‐02 | 6,90E‐02 | ‐3,16E+00"
+        }
+      }
+    },
+    "ecotoxicity_freshwater": {
+      "indicator_name": "Ecotoxicity (freshwater)",
+      "unit": "CTUe",
+      "modules": {
+        "A1": {
+          "value": 421,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "A2": {
+          "value": 60,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "A3": {
+          "value": 4.88,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "A1-A3": {
+          "value": 486,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "C1": {
+          "value": 3.27,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "C2": {
+          "value": 26.4,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "C3": {
+          "value": 5.27,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "C4": {
+          "value": 9.21,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        },
+        "D": {
+          "value": -239,
+          "page_number": 10,
+          "excerpt": "Ecotoxicity (freshwater) | CTUe | 4,21E+02 | 6,00E+01 | 4,88E+00 | 4,86E+02 | 4,49E+00 | 2,12E+01 | ND | ND | ND | ND | ND | ND | ND | 3,27E+00 | 2,64E+01 | 5,27E+00 | 9,21E+00 | ‐2,39E+02"
+        }
+      }
+    },
+    "human_toxicity_cancer": {
+      "indicator_name": "Human toxicity, cancer",
+      "unit": "CTUh",
+      "modules": {
+        "A1": {
+          "value": 4.09e-7,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "A2": {
+          "value": 5.12e-9,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "A3": {
+          "value": 3.55e-10,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "A1-A3": {
+          "value": 4.14e-7,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "C1": {
+          "value": 4.67e-10,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "C2": {
+          "value": 2.12e-9,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "C3": {
+          "value": 7.52e-10,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "C4": {
+          "value": 8.25e-10,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        },
+        "D": {
+          "value": -1.39e-8,
+          "page_number": 10,
+          "excerpt": "Human toxicity, cancer | CTUh | 4,09E‐07 | 5,12E‐09 | 3,55E‐10 | 4,14E‐07 | 3,61E‐10 | 1,33E‐08 | ND | ND | ND | ND | ND | ND | ND | 4,67E‐10 | 2,12E‐09 | 7,52E‐10 | 8,25E‐10 | ‐1,39E‐08"
+        }
+      }
+    },
+    "human_tox_non_cancer": {
+      "indicator_name": "Human tox. non-cancer",
+      "unit": "CTUh",
+      "modules": {
+        "A1": {
+          "value": 0.0000127,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "A2": {
+          "value": 2.18e-7,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "A3": {
+          "value": 1.22e-8,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "A1-A3": {
+          "value": 0.000013,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "C1": {
+          "value": 7.4e-9,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "C2": {
+          "value": 1.21e-7,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "C3": {
+          "value": 1.19e-8,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "C4": {
+          "value": 1.89e-8,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        },
+        "D": {
+          "value": -2.54e-7,
+          "page_number": 10,
+          "excerpt": "Human tox. non-cancer | CTUh | 1,27E‐05 | 2,18E‐07 | 1,22E‐08 | 1,30E‐05 | 2,05E‐08 | 4,06E‐07 | ND | ND | ND | ND | ND | ND | ND | 7,40E‐09 | 1,21E‐07 | 1,19E‐08 | 1,89E‐08 | ‐2,54E‐07"
+        }
+      }
+    },
+    "sqp": {
+      "indicator_name": "SQP",
+      "unit": "-",
+      "modules": {
+        "A1": {
+          "value": 729,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "A2": {
+          "value": 320,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "A3": {
+          "value": 6.58,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "A1-A3": {
+          "value": 1060,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "C1": {
+          "value": 4.16,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "C2": {
+          "value": 188,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "C3": {
+          "value": 6.71,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "C4": {
+          "value": 216,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        },
+        "D": {
+          "value": -192,
+          "page_number": 10,
+          "excerpt": "SQP7) | - | 7,29E+02 | 3,20E+02 | 6,58E+00 | 1,06E+03 | 3,19E+01 | 5,17E+01 | ND | ND | ND | ND | ND | ND | ND | 4,16E+00 | 1,88E+02 | 6,71E+00 | 2,16E+02 | ‐1,92E+02"
+        }
+      }
+    }
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-07-03T08:02:07.679Z",
+    "markdown_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD_HUB-5527_2026-06-27_en/markdown.md",
+    "segment_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD_HUB-5527_2026-06-27_en/segment.json",
+    "product_info_pages": [
+      3,
+      4
+    ],
+    "environmental_impact_pages": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "model": "deepseek-v4-pro:cloud",
+    "gateway": "cloudflare-ai-gateway"
+  }
+}

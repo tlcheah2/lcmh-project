@@ -1,0 +1,115 @@
+{
+  "epd_id": "EPD-IES-0014769:001",
+  "product_name": "ECOTERA® - High Performance Low Carbon Concrete",
+  "product_type": "Ready-mix concrete",
+  "epd_program_operator": "EPD International AB",
+  "epd_standards": [
+    "EN 15804:A2",
+    "ISO 14025",
+    "EN 16757:2023"
+  ],
+  "epd_publication_date": "2024-08-26",
+  "epd_last_updated_date": "2024-08-26",
+  "epd_valid_until_date": "2029-08-26",
+  "manufacturer": {
+    "name": "Hanson Construction Materials Pty Ltd",
+    "address": "L14, 35 Clarence St, Sydney NSW 2000",
+    "website": "hanson.com.au"
+  },
+  "manufacturing_location": "Brisbane, Queensland",
+  "manufacturing_sites": [
+    "Brisbane"
+  ],
+  "product_characteristics": {
+    "compressive_strength": {
+      "value": 25,
+      "page_number": 20,
+      "excerpt": "| Compressive Strength    | 25                                                                             |"
+    },
+    "density": {
+      "value": 2480,
+      "page_number": 20,
+      "excerpt": "| Density                 | 2480 kg/m³                                                                     |"
+    },
+    "reference_service_life": {
+      "value": 50,
+      "page_number": 20,
+      "excerpt": "| Reference Service Life  | 50 Years                                                                       |"
+    },
+    "recycling_rate_at_eol": {
+      "value": 78,
+      "page_number": 20,
+      "excerpt": "| Recycling Rate At Eol   | 78%                                                                            |"
+    },
+    "reference_year": {
+      "value": 2023,
+      "page_number": 20,
+      "excerpt": "| Reference Year          | 2023                                                                           |"
+    }
+  },
+  "environmental_impacts": {
+    "gwp_total": {
+      "indicator_name": "GWP-tot",
+      "unit": "kg CO₂ eq.",
+      "modules": {
+        "A1-A3": {
+          "value": 466.8,
+          "page_number": 27,
+          "excerpt": "Product Stage inc materials and batching | 466.8"
+        },
+        "A4": {
+          "value": 34.4,
+          "page_number": 27,
+          "excerpt": "Delivery and Construction Stage | 34.4"
+        },
+        "A5": {
+          "value": 0,
+          "page_number": 27,
+          "excerpt": "Use Stage | 0.0"
+        },
+        "C1-C4": {
+          "value": 31.4,
+          "page_number": 27,
+          "excerpt": "Waste & Recycling | 31.4"
+        }
+      }
+    }
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-07-03T05:31:32.332Z",
+    "markdown_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD-IES-0014769_P252080/markdown.md",
+    "segment_path": "/Users/tekloon/development/lcmh-assessment/processed-resources/EPD-IES-0014769_P252080/segment.json",
+    "product_info_pages": [
+      6,
+      7,
+      8,
+      20,
+      24
+    ],
+    "environmental_impact_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      21,
+      22,
+      25,
+      27,
+      28
+    ],
+    "model": "kimi-k2.6:cloud",
+    "gateway": "cloudflare-ai-gateway"
+  }
+}
