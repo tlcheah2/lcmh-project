@@ -4,9 +4,9 @@ This is the **LCMH Assessment** project, built with [Next.js](https://nextjs.org
 
 ## Project Structure
 
-### `processed-resources/`
+### `data/`
 
-All extracted EPD (Environmental Product Declaration) data lives in the `processed-resources/` folder. Each EPD has its own subfolder containing:
+All extracted EPD (Environmental Product Declaration) data lives in the `data/` folder. Each EPD has its own subfolder containing:
 
 - `extracted.json` — structured data extracted from the source PDF
 - `markdown.md` — markdown representation of the document
@@ -14,7 +14,7 @@ All extracted EPD (Environmental Product Declaration) data lives in the `process
 
 ### `scripts/`
 
-The `scripts/` folder contains parsing and extraction code used to process EPD source documents into the structured data found in `processed-resources/`.
+The `scripts/` folder contains parsing and extraction code used to process EPD source documents into the structured data found in `data/`.
 
 ## Getting Started
 

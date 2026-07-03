@@ -132,7 +132,7 @@ function buildStageValues(
 // ── Main loader ──────────────────────────────────────────────────────
 
 export function loadAllProducts(): ProductCard[] {
-  const baseDir = path.join(process.cwd(), "processed-resources");
+  const baseDir = path.join(process.cwd(), "data");
   if (!fs.existsSync(baseDir)) return [];
 
   const dirs = fs

@@ -6,26 +6,26 @@
  * sends each group of pages to an LLM via the Cloudflare AI Gateway
  * (OpenAI-compatible) to extract structured JSON.
  *
- * Iterates over every subdirectory in processed-resources/ that contains
+ * Iterates over every subdirectory in data/ that contains
  * both markdown.md and segment.json, writing extracted.json into each.
  *
  * Usage:
- *   npx tsx scripts/extract-segmented.ts [processed-resources-dir] [concurrency]
+ *   npx tsx scripts/extract-segmented.ts [data-dir] [concurrency]
  *   npx tsx scripts/extract-segmented.ts --single <subdirectory-name> [--combined]
- *   npx tsx scripts/extract-segmented.ts --combined [processed-resources-dir] [concurrency]
+ *   npx tsx scripts/extract-segmented.ts --combined [data-dir] [concurrency]
  *
- * Without flags: iterates over every subdirectory in processed-resources/ that contains
+ * Without flags: iterates over every subdirectory in data/ that contains
  * both markdown.md and segment.json, writing extracted.json into each.
  *
  * --single <name>: re-extracts a single EPD subdirectory (e.g. EPD_HUB-5210_2026-06-27_en)
  * and overwrites its existing extracted.json. The name can be a bare subdirectory name
- * (resolved against the default processed-resources/) or an absolute/relative path.
+ * (resolved against the default data/) or an absolute/relative path.
  *
  * --combined: send ALL environmental impact pages to the LLM in a single call instead
  * of the default page-by-page chunking. Useful when pages are small or when you want
  * the model to see all modules (A1-A3 and C1-D) together in one context.
  *
- * processed-resources-dir defaults to ./processed-resources relative to the workspace root.
+ * data-dir defaults to ./data relative to the workspace root.
  * concurrency (default 3) controls how many EPD directories are processed in parallel.
  */
 
@@ -484,12 +484,12 @@ async function processEPD(epdDir: string, combinedEnv = false): Promise<void> {
 /**
  * Extract a single EPD subdirectory by name or path.
  *
- * Resolves the subdirectory against the default processed-resources/ root (unless
+ * Resolves the subdirectory against the default data/ root (unless
  * an absolute/relative path is given), verifies markdown.md + segment.json exist,
  * then runs the full extraction pipeline and overwrites extracted.json.
  *
  * @param subdir  Bare subdirectory name (e.g. "EPD_HUB-5210_2026-06-27_en") or a path.
- * @param resourcesDir  The processed-resources root to resolve bare names against.
+ * @param resourcesDir  The data root to resolve bare names against.
  */
 async function extractSingle(
   subdir: string,
@@ -565,7 +565,7 @@ async function processEPDSafe(
 async function main() {
   const scriptDir = dirname(fileURLToPath(import.meta.url));
   const workspaceRoot = resolve(scriptDir, "..");
-  const defaultResourcesDir = join(workspaceRoot, "processed-resources");
+  const defaultResourcesDir = join(workspaceRoot, "data");
 
   // ── --combined flag (works with both --single and batch mode) ─────────────
   const combinedEnv = process.argv.includes("--combined");
@@ -603,7 +603,7 @@ async function main() {
     .sort();
 
   if (epdDirs.length === 0) {
-    console.log("No subdirectories found in processed-resources/");
+    console.log("No subdirectories found in data/");
     return;
   }
 
