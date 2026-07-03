@@ -425,6 +425,9 @@ export default function Home() {
 
                 {/* Comparability warnings */}
                 <ComparabilityWarnings products={selectedProducts} />
+
+                {/* Eco ranking */}
+                <EcoRanking products={selectedProducts} />
               </div>
             )}
           </section>
@@ -435,6 +438,172 @@ export default function Home() {
       {detailProduct && (
         <DetailModal product={detailProduct} onClose={() => setDetailId(null)} />
       )}
+    </div>
+  );
+}
+
+// ── Eco ranking ───────────────────────────────────────────────────────
+
+/** Sum declared GWP-total stages across the full life cycle (A1→D). */
+function sumGwpTotal(product: ProductCard): number | null {
+  const ind = product.indicators.find((i) => i.key === "gwp_total");
+  if (!ind) return null;
+  let total = 0;
+  let any = false;
+  for (const s of ind.stages) {
+    if (s.status === "declared" && typeof s.value === "number") {
+      total += s.value;
+      any = true;
+    }
+  }
+  return any ? total : null;
+}
+
+/** Count how many declared stages a product has, for transparency. */
+function declaredStageCount(product: ProductCard): number {
+  const ind = product.indicators.find((i) => i.key === "gwp_total");
+  if (!ind) return 0;
+  return ind.stages.filter((s) => s.status === "declared").length;
+}
+
+function EcoRanking({ products }: { products: ProductCard[] }) {
+  const ranked = useMemo(() => {
+    return products
+      .map((p) => {
+        const score = sumGwpTotal(p);
+        const stageCount = declaredStageCount(p);
+        return { product: p, score, stageCount };
+      })
+      .sort((a, b) => {
+        // Products with no score go to the bottom
+        if (a.score === null && b.score === null) return 0;
+        if (a.score === null) return 1;
+        if (b.score === null) return -1;
+        return a.score - b.score; // lower = better
+      });
+  }, [products]);
+
+  const best = ranked.find((r) => r.score !== null);
+  const worst = ranked.filter((r) => r.score !== null).slice(-1)[0];
+
+  if (ranked.length < 2) return null;
+
+  const hasAnyScore = ranked.some((r) => r.score !== null);
+  if (!hasAnyScore) {
+    return (
+      <div className="rounded-lg border border-zinc-200 bg-white p-4">
+        <h3 className="text-sm font-semibold text-zinc-700">
+          🌱 Environmental ranking
+        </h3>
+        <p className="mt-1 text-xs text-amber-600">
+          None of the selected products have declared GWP-total data, so a
+          ranking cannot be produced.
+        </p>
+      </div>
+    );
+  }
+
+  const maxScore = Math.max(...ranked.filter((r) => r.score !== null).map((r) => r.score!));
+
+  return (
+    <div className="rounded-lg border border-emerald-200 bg-white p-4">
+      <h3 className="text-sm font-semibold text-zinc-700">
+        🌱 Environmental ranking
+        <span className="ml-2 text-xs font-normal text-zinc-400">
+          Lower GWP-total = more environmentally friendly
+        </span>
+      </h3>
+
+      {/* Winner callout */}
+      {best && best.score !== null && (
+        <div className="mt-3 rounded-md border border-emerald-300 bg-emerald-50 p-3">
+          <div className="flex items-center gap-2">
+            <span className="text-lg">🏆</span>
+            <div>
+              <div className="text-sm font-semibold text-emerald-800">
+                {best.product.productName}
+              </div>
+              <div className="text-xs text-emerald-600">
+                {best.product.manufacturer} · {best.product.epdId}
+              </div>
+            </div>
+          </div>
+          <p className="mt-1.5 text-xs text-emerald-700">
+            Most environmentally friendly of the selected products with{" "}
+            <strong>{fmt(best.score)} kg CO₂e</strong> summed across{" "}
+            <strong>{best.stageCount} declared life-cycle stages</strong>.
+            {worst && worst.score !== null && worst.score > best.score && (
+              <>
+                {" "}That's{" "}
+                <strong>{((1 - best.score / worst.score) * 100).toFixed(0)}% lower</strong>{" "}
+                than the highest ({worst.product.productName}: {fmt(worst.score)} kg CO₂e).
+              </>
+            )}
+          </p>
+        </div>
+      )}
+
+      {/* Ranked bars */}
+      <div className="mt-4 space-y-2">
+        {ranked.map((r, i) => {
+          const isBest = r.score !== null && best?.product.id === r.product.id;
+          const isWorst =
+            r.score !== null &&
+            worst != null &&
+            worst.score !== null &&
+            best != null &&
+            best.score !== null &&
+            worst.product.id === r.product.id &&
+            worst.score > best.score;
+          const pct = r.score !== null ? (r.score / maxScore) * 100 : 0;
+          return (
+            <div key={r.product.id} className="flex items-center gap-3">
+              <span
+                className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-xs font-bold ${
+                  isBest
+                    ? "bg-emerald-500 text-white"
+                    : "bg-zinc-200 text-zinc-600"
+                }`}
+              >
+                {i + 1}
+              </span>
+              <div className="min-w-0 flex-1">
+                <div className="flex items-baseline justify-between gap-2">
+                  <span className="truncate text-xs font-medium">
+                    {r.product.productName}
+                    {isBest && <span className="ml-1 text-emerald-600">★</span>}
+                    {isWorst && <span className="ml-1 text-amber-600">▲ highest</span>}
+                  </span>
+                  <span className="shrink-0 text-xs tabular-nums text-zinc-500">
+                    {r.score !== null
+                      ? `${fmt(r.score)} kg CO₂e (${r.stageCount} stages)`
+                      : "No data"}
+                  </span>
+                </div>
+                <div className="mt-1 h-2 w-full overflow-hidden rounded-full bg-zinc-100">
+                  <div
+                    className={`h-full rounded-full ${
+                      isBest
+                        ? "bg-emerald-500"
+                        : isWorst
+                          ? "bg-amber-400"
+                          : "bg-zinc-400"
+                    }`}
+                    style={{ width: `${Math.max(pct, 2)}%` }}
+                  />
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <p className="mt-3 text-[11px] leading-relaxed text-zinc-400">
+        Ranking sums GWP-total across all declared life-cycle stages (A1 through D).
+        Products with more declared stages may show higher totals — compare stage
+        counts below. Per-m³ comparability depends on declared unit mass and
+        strength class — see comparability notes above.
+      </p>
     </div>
   );
 }
